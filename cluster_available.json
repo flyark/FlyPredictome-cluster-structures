@@ -1,7 +1,7 @@
 {
- "v41_exonuc": {
-  "job": "v41_exonuc",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v41_exonuc.zip",
+ "C4-5": {
+  "job": "C4-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-5.zip",
   "members": [
    "Rrp45",
    "Csl4",
@@ -210,9 +210,9 @@
    ]
   }
  },
- "v23_eif3_clusterext": {
-  "job": "v23_eif3_clusterext",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v23_eif3_clusterext.zip",
+ "C11-8_1": {
+  "job": "C11-8_1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-8_1.zip",
   "members": [
    "CG12725",
    "eIF3a",
@@ -412,9 +412,9 @@
    ]
   }
  },
- "d_081": {
-  "job": "d_081",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_081.zip",
+ "C9-8": {
+  "job": "C9-8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-8.zip",
   "members": [
    "CG9067",
    "SIDL",
@@ -569,9 +569,9 @@
    ]
   }
  },
- "v36_cct8_misato": {
-  "job": "v36_cct8_misato",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v36_cct8_misato.zip",
+ "C21-6_1": {
+  "job": "C21-6_1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-6_1.zip",
   "members": [
    "CCT1",
    "CCT2",
@@ -772,9 +772,9 @@
    ]
   }
  },
- "v36_cct8": {
-  "job": "v36_cct8",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v36_cct8.zip",
+ "C21-6_2": {
+  "job": "C21-6_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-6_2.zip",
   "members": [
    "CCT1",
    "CCT2",
@@ -974,9 +974,9 @@
    ]
   }
  },
- "v23_eif3_exact": {
-  "job": "v23_eif3_exact",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v23_eif3_exact.zip",
+ "C11-8_2": {
+  "job": "C11-8_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-8_2.zip",
   "members": [
    "eIF3a",
    "eIF3c",
@@ -1173,9 +1173,9 @@
    ]
   }
  },
- "d_254": {
-  "job": "d_254",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_254.zip",
+ "C4-5-1_1": {
+  "job": "C4-5-1_1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-5-1_1.zip",
   "members": [
    "Rrp45",
    "Csl4",
@@ -1376,9 +1376,9 @@
    ]
   }
  },
- "v42_exodup46": {
-  "job": "v42_exodup46",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v42_exodup46.zip",
+ "C4-5-1_2": {
+  "job": "C4-5-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-5-1_2.zip",
   "members": [
    "Rrp45",
    "Csl4",
@@ -1579,9 +1579,9 @@
    ]
   }
  },
- "v21_core101": {
-  "job": "v21_core101",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v21_core101.zip",
+ "C21-4": {
+  "job": "C21-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-4.zip",
   "members": [
    "Rpn1",
    "Rpt2",
@@ -1779,9 +1779,9 @@
    ]
   }
  },
- "v26_c1252_asm": {
-  "job": "v26_c1252_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c1252_asm.zip",
+ "C12-5-2": {
+  "job": "C12-5-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-5-2.zip",
   "members": [
    "UQCR-14",
    "UQCR-C2",
@@ -1979,9 +1979,9 @@
    ]
   }
  },
- "v30_orc_full": {
-  "job": "v30_orc_full",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v30_orc_full.zip",
+ "C6-13_1": {
+  "job": "C6-13_1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-13_1.zip",
   "members": [
    "Cdc6",
    "Orc1",
@@ -2179,9 +2179,9 @@
    ]
   }
  },
- "v23_auto_v22_mid056_exact": {
-  "job": "v23_auto_v22_mid056_exact",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v23_auto_v22_mid056_exact.zip",
+ "C23-3": {
+  "job": "C23-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-3.zip",
   "members": [
    "ND-B17",
    "ND5",
@@ -2377,9 +2377,9 @@
    ]
   }
  },
- "s_c6_13": {
-  "job": "s_c6_13",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/s_c6_13.zip",
+ "C6-13_2": {
+  "job": "C6-13_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-13_2.zip",
   "members": [
    "Cdc6",
    "Orc1",
@@ -2575,9 +2575,9 @@
    ]
   }
  },
- "c11_13_2": {
-  "job": "c11_13_2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/c11_13_2.zip",
+ "C11-13-2": {
+  "job": "C11-13-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-13-2.zip",
   "members": [
    "RfC3",
    "RfC38",
@@ -2772,9 +2772,9 @@
    ]
   }
  },
- "c6_10_2": {
-  "job": "c6_10_2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/c6_10_2.zip",
+ "C6-10-2": {
+  "job": "C6-10-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10-2.zip",
   "members": [
    "mip130",
    "lin-52",
@@ -2814,9 +2814,9 @@
    ]
   }
  },
- "d_038": {
-  "job": "d_038",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_038.zip",
+ "C21-1-1": {
+  "job": "C21-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1-1.zip",
   "members": [
    "crn",
    "cyp33",
@@ -3010,9 +3010,9 @@
    ]
   }
  },
- "d_133_p3": {
-  "job": "d_133_p3",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_133_p3.zip",
+ "C12-4-1": {
+  "job": "C12-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-1.zip",
   "members": [
    "Pfdn6",
    "Pfdn1",
@@ -3094,9 +3094,9 @@
    ]
   }
  },
- "s_c13_7": {
-  "job": "s_c13_7",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/s_c13_7.zip",
+ "C13-7": {
+  "job": "C13-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-7.zip",
   "members": [
    "Vps11",
    "Vps16A",
@@ -3146,9 +3146,9 @@
    ]
   }
  },
- "v18_005_fly_b": {
-  "job": "v18_005_fly_b",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v18_005_fly_b.zip",
+ "C10-4-1": {
+  "job": "C10-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-4-1.zip",
   "members": [
    "Ufl1",
    "CG5862",
@@ -3246,9 +3246,9 @@
    ]
   }
  },
- "v22_mid015": {
-  "job": "v22_mid015",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v22_mid015.zip",
+ "C6-1-4": {
+  "job": "C6-1-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-1-4.zip",
   "members": [
    "CycC",
    "Cdk4",
@@ -3441,9 +3441,9 @@
    ]
   }
  },
- "v22_mid046": {
-  "job": "v22_mid046",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v22_mid046.zip",
+ "C16-3-1": {
+  "job": "C16-3-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3-1.zip",
   "members": [
    "MED4",
    "MED1",
@@ -3638,9 +3638,9 @@
    ]
   }
  },
- "v23_auto_v22_mid008_exact": {
-  "job": "v23_auto_v22_mid008_exact",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v23_auto_v22_mid008_exact.zip",
+ "C16-4-1": {
+  "job": "C16-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-1.zip",
   "members": [
    "ix",
    "MED20",
@@ -3835,9 +3835,9 @@
    ]
   }
  },
- "v23_orc_exact": {
-  "job": "v23_orc_exact",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v23_orc_exact.zip",
+ "C6-13_3": {
+  "job": "C6-13_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-13_3.zip",
   "members": [
    "Orc1",
    "Orc2",
@@ -4031,9 +4031,9 @@
    ]
   }
  },
- "v24_c11_11_ext": {
-  "job": "v24_c11_11_ext",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v24_c11_11_ext.zip",
+ "C11-11": {
+  "job": "C11-11",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-11.zip",
   "members": [
    "Bin1",
    "RnpS1",
@@ -4072,9 +4072,9 @@
    ]
   }
  },
- "v25_c12_6_core": {
-  "job": "v25_c12_6_core",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v25_c12_6_core.zip",
+ "C12-6": {
+  "job": "C12-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-6.zip",
   "members": [
    "emb",
    "Atg5",
@@ -4137,9 +4137,9 @@
    ]
   }
  },
- "v25_c23_4_core": {
-  "job": "v25_c23_4_core",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v25_c23_4_core.zip",
+ "C23-4": {
+  "job": "C23-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-4.zip",
   "members": [
    "ND1",
    "ND3",
@@ -4333,9 +4333,9 @@
    ]
   }
  },
- "v25_c7_10_core": {
-  "job": "v25_c7_10_core",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v25_c7_10_core.zip",
+ "C7-10-1": {
+  "job": "C7-10-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-10-1.zip",
   "members": [
    "Arp1",
    "Arp10",
@@ -4384,9 +4384,9 @@
    ]
   }
  },
- "c14_1_1": {
-  "job": "c14_1_1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/c14_1_1.zip",
+ "C14-1-1": {
+  "job": "C14-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-1.zip",
   "members": [
    "Rcd1",
    "Rcd5",
@@ -4424,9 +4424,9 @@
    ]
   }
  },
- "d_002": {
-  "job": "d_002",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_002.zip",
+ "C16-4-2": {
+  "job": "C16-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-2.zip",
   "members": [
    "MED16",
    "MED23",
@@ -4562,9 +4562,9 @@
    ]
   }
  },
- "d_009": {
-  "job": "d_009",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_009.zip",
+ "C28-1": {
+  "job": "C28-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C28-1.zip",
   "members": [
    "CG2964",
    "CG7362",
@@ -4756,9 +4756,9 @@
    ]
   }
  },
- "d_042_p1": {
-  "job": "d_042_p1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_042_p1.zip",
+ "C3-7-2": {
+  "job": "C3-7-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-7-2.zip",
   "members": [
    "TfIIA-L",
    "TfIIA-S",
@@ -4950,9 +4950,9 @@
    ]
   }
  },
- "d_065": {
-  "job": "d_065",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_065.zip",
+ "C2-13-1": {
+  "job": "C2-13-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C2-13-1.zip",
   "members": [
    "Yp1",
    "Yp3",
@@ -4969,9 +4969,9 @@
    "sup": false
   }
  },
- "d_104": {
-  "job": "d_104",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_104.zip",
+ "C12-1-2": {
+  "job": "C12-1-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-1-2.zip",
   "members": [
    "Atg101",
    "Atg17",
@@ -5092,9 +5092,9 @@
    ]
   }
  },
- "d_163": {
-  "job": "d_163",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/d_163.zip",
+ "C20-3": {
+  "job": "C20-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C20-3.zip",
   "members": [
    "Mcm5",
    "Mcm7",
@@ -5285,9 +5285,9 @@
    ]
   }
  },
- "s_c3_9_1": {
-  "job": "s_c3_9_1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/s_c3_9_1.zip",
+ "C3-9-1": {
+  "job": "C3-9-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-9-1.zip",
   "members": [
    "RYBP",
    "Sce",
@@ -5304,9 +5304,9 @@
    "sup": false
   }
  },
- "v18_024_fly_b": {
-  "job": "v18_024_fly_b",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v18_024_fly_b.zip",
+ "C21-5": {
+  "job": "C21-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-5.zip",
   "members": [
    "dgt4",
    "msd1",
@@ -5323,9 +5323,9 @@
    "sup": false
   }
  },
- "v21_core007_v1": {
-  "job": "v21_core007_v1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v21_core007_v1.zip",
+ "C14-8-1": {
+  "job": "C14-8-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-8-1.zip",
   "members": [
    "Daxx",
    "asf1",
@@ -5518,9 +5518,9 @@
    ]
   }
  },
- "v24_c1_11_ext": {
-  "job": "v24_c1_11_ext",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v24_c1_11_ext.zip",
+ "C1-11": {
+  "job": "C1-11",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-11.zip",
   "members": [
    "Bdp1",
    "Pbp45",
@@ -5537,9 +5537,9 @@
    "sup": false
   }
  },
- "v25_c1_4_2_core": {
-  "job": "v25_c1_4_2_core",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v25_c1_4_2_core.zip",
+ "C1-4-2": {
+  "job": "C1-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-4-2.zip",
   "members": [
    "wts",
    "mats",
@@ -5585,9 +5585,9 @@
    ]
   }
  },
- "v25_c7_14_core": {
-  "job": "v25_c7_14_core",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v25_c7_14_core.zip",
+ "C7-14": {
+  "job": "C7-14",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-14.zip",
   "members": [
    "CG12106",
    "Vlet",
@@ -5643,9 +5643,9 @@
    ]
   }
  },
- "v26_c1521_asm": {
-  "job": "v26_c1521_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c1521_asm.zip",
+ "C15-2-1": {
+  "job": "C15-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-2-1.zip",
   "members": [
    "RpL14",
    "RpL13A",
@@ -5837,9 +5837,9 @@
    ]
   }
  },
- "v26_c1822_asm": {
-  "job": "v26_c1822_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c1822_asm.zip",
+ "C18-2-2": {
+  "job": "C18-2-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-2-2.zip",
   "members": [
    "COX6B",
    "COX4",
@@ -5991,9 +5991,9 @@
    ]
   }
  },
- "s_c16_1": {
-  "job": "s_c16_1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/s_c16_1.zip",
+ "C16-1-1": {
+  "job": "C16-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-1-1.zip",
   "members": [
    "Bap60",
    "brm",
@@ -6062,9 +6062,9 @@
    ]
   }
  },
- "v18_056_fly_y": {
-  "job": "v18_056_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v18_056_fly_y.zip",
+ "C6-12": {
+  "job": "C6-12",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-12.zip",
   "members": [
    "Sf3b1",
    "Sf3b3",
@@ -6255,9 +6255,9 @@
    ]
   }
  },
- "v20_039_fly_y": {
-  "job": "v20_039_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_039_fly_y.zip",
+ "C12-4-2": {
+  "job": "C12-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-2.zip",
   "members": [
    "RpII18",
    "RpII215",
@@ -6448,9 +6448,9 @@
    ]
   }
  },
- "v20_042_fly_y": {
-  "job": "v20_042_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_042_fly_y.zip",
+ "C8-5-1": {
+  "job": "C8-5-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-5-1.zip",
   "members": [
    "mr",
    "shtd",
@@ -6640,9 +6640,9 @@
    ]
   }
  },
- "v20_056_fly_y": {
-  "job": "v20_056_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_056_fly_y.zip",
+ "C9-3-2": {
+  "job": "C9-3-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-3-2.zip",
   "members": [
    "betaCOP",
    "beta'COP",
@@ -6760,9 +6760,9 @@
    ]
   }
  },
- "v20_059_fly_y": {
-  "job": "v20_059_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_059_fly_y.zip",
+ "C13-2-4": {
+  "job": "C13-2-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-2-4.zip",
   "members": [
    "Syx16",
    "Vps45",
@@ -6778,9 +6778,9 @@
    "sup": false
   }
  },
- "v20_064_fly_y": {
-  "job": "v20_064_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_064_fly_y.zip",
+ "C19-2": {
+  "job": "C19-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-2.zip",
   "members": [
    "mahj",
    "CG31855",
@@ -6971,9 +6971,9 @@
    ]
   }
  },
- "v20_066_fly_y": {
-  "job": "v20_066_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_066_fly_y.zip",
+ "C13-6": {
+  "job": "C13-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-6.zip",
   "members": [
    "Syx16",
    "Vps45",
@@ -6989,9 +6989,9 @@
    "sup": false
   }
  },
- "v20_072_fly_y": {
-  "job": "v20_072_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_072_fly_y.zip",
+ "C10-6-2": {
+  "job": "C10-6-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-6-2.zip",
   "members": [
    "Gbeta13F",
    "Galphao",
@@ -7181,9 +7181,9 @@
    ]
   }
  },
- "v20_075_fly_y": {
-  "job": "v20_075_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_075_fly_y.zip",
+ "C2-11-2": {
+  "job": "C2-11-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C2-11-2.zip",
   "members": [
    "VhaM9.7-b",
    "Vha100-1",
@@ -7373,9 +7373,9 @@
    ]
   }
  },
- "v20_077_fly_y": {
-  "job": "v20_077_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_077_fly_y.zip",
+ "C18-7": {
+  "job": "C18-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-7.zip",
   "members": [
    "Nprl2",
    "Iml1",
@@ -7493,9 +7493,9 @@
    ]
   }
  },
- "v20_087_fly_y": {
-  "job": "v20_087_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_087_fly_y.zip",
+ "C10-7-2": {
+  "job": "C10-7-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-7-2.zip",
   "members": [
    "Abi",
    "SCAR",
@@ -7511,9 +7511,9 @@
    "sup": false
   }
  },
- "v20_088_fly_y": {
-  "job": "v20_088_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_088_fly_y.zip",
+ "C11-4-1": {
+  "job": "C11-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-4-1.zip",
   "members": [
    "HDAC1",
    "Sin3A",
@@ -7703,9 +7703,9 @@
    ]
   }
  },
- "v20_089_fly_y": {
-  "job": "v20_089_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_089_fly_y.zip",
+ "C3-3-4": {
+  "job": "C3-3-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-3-4.zip",
   "members": [
    "CG3909",
    "Ctr9",
@@ -7888,9 +7888,9 @@
    ]
   }
  },
- "v20_090_fly_y": {
-  "job": "v20_090_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_090_fly_y.zip",
+ "C3-1-2": {
+  "job": "C3-1-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-1-2.zip",
   "members": [
    "rk",
    "Burs",
@@ -7906,9 +7906,9 @@
    "sup": false
   }
  },
- "v20_092_fly_y": {
-  "job": "v20_092_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_092_fly_y.zip",
+ "C24-2": {
+  "job": "C24-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-2.zip",
   "members": [
    "mRpL4",
    "mRpL50",
@@ -8098,9 +8098,9 @@
    ]
   }
  },
- "v20_093_fly_y": {
-  "job": "v20_093_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_093_fly_y.zip",
+ "C18-2-1": {
+  "job": "C18-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-2-1.zip",
   "members": [
    "COX1",
    "COX3",
@@ -8226,9 +8226,9 @@
    ]
   }
  },
- "v20_101_fly_y": {
-  "job": "v20_101_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_101_fly_y.zip",
+ "C17-7": {
+  "job": "C17-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C17-7.zip",
   "members": [
    "CSN4",
    "CSN7",
@@ -8419,9 +8419,9 @@
    ]
   }
  },
- "v20_111_fly_y": {
-  "job": "v20_111_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_111_fly_y.zip",
+ "C26-1": {
+  "job": "C26-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C26-1.zip",
   "members": [
    "SMC3",
    "SA",
@@ -8612,9 +8612,9 @@
    ]
   }
  },
- "v20_115_fly_y": {
-  "job": "v20_115_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_115_fly_y.zip",
+ "C3-1-4": {
+  "job": "C3-1-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-1-4.zip",
   "members": [
    "spt4",
    "Spt6",
@@ -8805,9 +8805,9 @@
    ]
   }
  },
- "v20_118_fly_y": {
-  "job": "v20_118_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_118_fly_y.zip",
+ "C9-1-3": {
+  "job": "C9-1-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-1-3.zip",
   "members": [
    "Vps26",
    "Vps29",
@@ -8934,9 +8934,9 @@
    ]
   }
  },
- "v20_119_fly_y": {
-  "job": "v20_119_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_119_fly_y.zip",
+ "C31-1": {
+  "job": "C31-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C31-1.zip",
   "members": [
    "EMC7",
    "EMC1",
@@ -9062,9 +9062,9 @@
    ]
   }
  },
- "v20_120_fly_y": {
-  "job": "v20_120_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_120_fly_y.zip",
+ "C18-4-1": {
+  "job": "C18-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1.zip",
   "members": [
    "SdhB",
    "SdhC",
@@ -9102,9 +9102,9 @@
    ]
   }
  },
- "v20_121_fly_y": {
-  "job": "v20_121_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_121_fly_y.zip",
+ "C12-1-3": {
+  "job": "C12-1-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-1-3.zip",
   "members": [
    "Atg14",
    "Vps15",
@@ -9192,9 +9192,9 @@
    ]
   }
  },
- "v20_125_fly_y": {
-  "job": "v20_125_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_125_fly_y.zip",
+ "C16-9": {
+  "job": "C16-9",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-9.zip",
   "members": [
    "san",
    "Naa15-16",
@@ -9329,9 +9329,9 @@
    ]
   }
  },
- "v20_132_fly_y": {
-  "job": "v20_132_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_132_fly_y.zip",
+ "C9-2-1": {
+  "job": "C9-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-2-1.zip",
   "members": [
    "SWIP",
    "CCDC53",
@@ -9347,9 +9347,9 @@
    "sup": false
   }
  },
- "v20_136_fly_y": {
-  "job": "v20_136_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_136_fly_y.zip",
+ "C5-2-6": {
+  "job": "C5-2-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-2-6.zip",
   "members": [
    "RpS27A",
    "CG14464",
@@ -9365,9 +9365,9 @@
    "sup": false
   }
  },
- "v20_140_fly_y": {
-  "job": "v20_140_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_140_fly_y.zip",
+ "C5-6-1": {
+  "job": "C5-6-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-6-1.zip",
   "members": [
    "Vha55",
    "Vha26",
@@ -9558,9 +9558,9 @@
    ]
   }
  },
- "v20_141_fly_y": {
-  "job": "v20_141_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_141_fly_y.zip",
+ "C8-9": {
+  "job": "C8-9",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-9.zip",
   "members": [
    "Taf12",
    "Spt3",
@@ -9630,9 +9630,9 @@
    ]
   }
  },
- "v20_144_fly_y": {
-  "job": "v20_144_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_144_fly_y.zip",
+ "C19-6": {
+  "job": "C19-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-6.zip",
   "members": [
    "glu",
    "Cap-H2",
@@ -9710,9 +9710,9 @@
    ]
   }
  },
- "v20_145_fly_y": {
-  "job": "v20_145_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_145_fly_y.zip",
+ "C16-5": {
+  "job": "C16-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-5.zip",
   "members": [
    "MED14",
    "MED10",
@@ -9902,9 +9902,9 @@
    ]
   }
  },
- "v20_147_fly_y": {
-  "job": "v20_147_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_147_fly_y.zip",
+ "C4-1-1": {
+  "job": "C4-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-1.zip",
   "members": [
    "Non1",
    "CG3224",
@@ -10094,9 +10094,9 @@
    ]
   }
  },
- "v20_150_fly_y": {
-  "job": "v20_150_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_150_fly_y.zip",
+ "C4-5-1_3": {
+  "job": "C4-5-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-5-1_3.zip",
   "members": [
    "Rrp45",
    "Ski6",
@@ -10287,9 +10287,9 @@
    ]
   }
  },
- "v20_152_fly_y": {
-  "job": "v20_152_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_152_fly_y.zip",
+ "C12-9": {
+  "job": "C12-9",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-9.zip",
   "members": [
    "Nse1",
    "Nse4",
@@ -10367,9 +10367,9 @@
    ]
   }
  },
- "v20_162_fly_y": {
-  "job": "v20_162_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_162_fly_y.zip",
+ "C22-4": {
+  "job": "C22-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C22-4.zip",
   "members": [
    "Wdr82",
    "Set1",
@@ -10385,9 +10385,9 @@
    "sup": false
   }
  },
- "v20_164_fly_y": {
-  "job": "v20_164_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_164_fly_y.zip",
+ "C9-1-2": {
+  "job": "C9-1-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-1-2.zip",
   "members": [
    "Mon1",
    "Ccz1",
@@ -10433,9 +10433,9 @@
    ]
   }
  },
- "v20_165_fly_y": {
-  "job": "v20_165_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_165_fly_y.zip",
+ "C11-13-1": {
+  "job": "C11-13-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-13-1.zip",
   "members": [
    "Ing5",
    "Br140",
@@ -10488,9 +10488,9 @@
    ]
   }
  },
- "v20_166_fly_y": {
-  "job": "v20_166_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_166_fly_y.zip",
+ "C13-2-1": {
+  "job": "C13-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-2-1.zip",
   "members": [
    "Hyccin",
    "stmA",
@@ -10552,9 +10552,9 @@
    ]
   }
  },
- "v20_167_fly_y": {
-  "job": "v20_167_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_167_fly_y.zip",
+ "C4-7": {
+  "job": "C4-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-7.zip",
   "members": [
    "GluProRS",
    "IleRS",
@@ -10570,9 +10570,9 @@
    "sup": false
   }
  },
- "v20_169_fly_y": {
-  "job": "v20_169_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_169_fly_y.zip",
+ "C8-1-2": {
+  "job": "C8-1-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-1-2.zip",
   "members": [
    "Cul2",
    "Vhl",
@@ -10763,9 +10763,9 @@
    ]
   }
  },
- "v20_175_fly_y": {
-  "job": "v20_175_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_175_fly_y.zip",
+ "C24-1-1": {
+  "job": "C24-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-1-1.zip",
   "members": [
    "mRpS35",
    "mRpS10",
@@ -10955,9 +10955,9 @@
    ]
   }
  },
- "v20_176_fly_y": {
-  "job": "v20_176_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_176_fly_y.zip",
+ "C6-4-2": {
+  "job": "C6-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-4-2.zip",
   "members": [
    "DNApol-zeta",
    "Pol31",
@@ -11092,9 +11092,9 @@
    ]
   }
  },
- "v20_177_fly_y": {
-  "job": "v20_177_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_177_fly_y.zip",
+ "C6-10-1": {
+  "job": "C6-10-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10-1.zip",
   "members": [
    "aly",
    "tomb",
@@ -11110,9 +11110,9 @@
    "sup": false
   }
  },
- "v20_179_fly_y": {
-  "job": "v20_179_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_179_fly_y.zip",
+ "C15-4-2": {
+  "job": "C15-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-4-2.zip",
   "members": [
    "me31B",
    "Lsm12a",
@@ -11128,9 +11128,9 @@
    "sup": false
   }
  },
- "v20_180_fly_y": {
-  "job": "v20_180_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_180_fly_y.zip",
+ "C3-7-1": {
+  "job": "C3-7-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-7-1.zip",
   "members": [
    "Taf6",
    "bip2",
@@ -11320,9 +11320,9 @@
    ]
   }
  },
- "v20_184_fly_y": {
-  "job": "v20_184_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_184_fly_y.zip",
+ "C4-8": {
+  "job": "C4-8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-8.zip",
   "members": [
    "CG12325",
    "CG9799",
@@ -11512,9 +11512,9 @@
    ]
   }
  },
- "v20_186_fly_y": {
-  "job": "v20_186_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_186_fly_y.zip",
+ "C19-5": {
+  "job": "C19-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-5.zip",
   "members": [
    "CG9426",
    "Roc1b",
@@ -11647,9 +11647,9 @@
    ]
   }
  },
- "v20_187_fly_y": {
-  "job": "v20_187_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_187_fly_y.zip",
+ "C24-3": {
+  "job": "C24-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-3.zip",
   "members": [
    "mRpS25",
    "mRpS17",
@@ -11839,9 +11839,9 @@
    ]
   }
  },
- "v20_190_fly_y": {
-  "job": "v20_190_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_190_fly_y.zip",
+ "C15-6": {
+  "job": "C15-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-6.zip",
   "members": [
    "piwi",
    "arx",
@@ -11857,9 +11857,9 @@
    "sup": false
   }
  },
- "v20_192_fly_y": {
-  "job": "v20_192_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_192_fly_y.zip",
+ "C14-2-1": {
+  "job": "C14-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-2-1.zip",
   "members": [
    "cal1",
    "cid",
@@ -12050,9 +12050,9 @@
    ]
   }
  },
- "v20_193_fly_y": {
-  "job": "v20_193_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_193_fly_y.zip",
+ "C19-3": {
+  "job": "C19-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-3.zip",
   "members": [
    "IntS14",
    "IntS10",
@@ -12146,9 +12146,9 @@
    ]
   }
  },
- "v20_194_fly_y": {
-  "job": "v20_194_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_194_fly_y.zip",
+ "C20-7": {
+  "job": "C20-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C20-7.zip",
   "members": [
    "DNApol-alpha73",
    "DNApol-alpha180",
@@ -12339,9 +12339,9 @@
    ]
   }
  },
- "v20_195_fly_y": {
-  "job": "v20_195_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_195_fly_y.zip",
+ "C7-12-1": {
+  "job": "C7-12-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-12-1.zip",
   "members": [
    "moi",
    "ver",
@@ -12357,9 +12357,9 @@
    "sup": false
   }
  },
- "v20_197_fly_y": {
-  "job": "v20_197_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_197_fly_y.zip",
+ "C4-4-1": {
+  "job": "C4-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-4-1.zip",
   "members": [
    "CG16734",
    "CG16908",
@@ -12375,9 +12375,9 @@
    "sup": false
   }
  },
- "v20_204_fly_y": {
-  "job": "v20_204_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_204_fly_y.zip",
+ "C3-8-3": {
+  "job": "C3-8-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-8-3.zip",
   "members": [
    "tbrd-2",
    "tbrd-1",
@@ -12567,9 +12567,9 @@
    ]
   }
  },
- "v20_208_fly_y": {
-  "job": "v20_208_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_208_fly_y.zip",
+ "C4-10-1": {
+  "job": "C4-10-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-10-1.zip",
   "members": [
    "Cpsf100",
    "Sym",
@@ -12607,9 +12607,9 @@
    ]
   }
  },
- "v20_210_fly_y": {
-  "job": "v20_210_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_210_fly_y.zip",
+ "C22-2": {
+  "job": "C22-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C22-2.zip",
   "members": [
    "mei-9",
    "mus312",
@@ -12654,9 +12654,9 @@
    ]
   }
  },
- "v20_211_fly_y": {
-  "job": "v20_211_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_211_fly_y.zip",
+ "C18-1-1": {
+  "job": "C18-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-1-1.zip",
   "members": [
    "up",
    "TpnC4",
@@ -12672,9 +12672,9 @@
    "sup": false
   }
  },
- "v20_212_fly_y": {
-  "job": "v20_212_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_212_fly_y.zip",
+ "C4-11": {
+  "job": "C4-11",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-11.zip",
   "members": [
    "bys",
    "LTV1",
@@ -12865,9 +12865,9 @@
    ]
   }
  },
- "v20_213_fly_y": {
-  "job": "v20_213_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_213_fly_y.zip",
+ "C17-4-1": {
+  "job": "C17-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C17-4-1.zip",
   "members": [
    "CG6405",
    "CG13617",
@@ -12883,9 +12883,9 @@
    "sup": false
   }
  },
- "v20_214_fly_y": {
-  "job": "v20_214_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_214_fly_y.zip",
+ "C9-11": {
+  "job": "C9-11",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-11.zip",
   "members": [
    "Rad9",
    "Hus1-like",
@@ -13003,9 +13003,9 @@
    ]
   }
  },
- "v20_224_fly_y": {
-  "job": "v20_224_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_224_fly_y.zip",
+ "C3-8-4": {
+  "job": "C3-8-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-8-4.zip",
   "members": [
    "CIAPIN1",
    "CG6523",
@@ -13021,9 +13021,9 @@
    "sup": false
   }
  },
- "v20_226_fly_y": {
-  "job": "v20_226_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_226_fly_y.zip",
+ "C21-3": {
+  "job": "C21-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-3.zip",
   "members": [
    "RpS27A",
    "Uch-L5",
@@ -13092,9 +13092,9 @@
    ]
   }
  },
- "v20_228_fly_y": {
-  "job": "v20_228_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_228_fly_y.zip",
+ "C6-2-1": {
+  "job": "C6-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-2-1.zip",
   "members": [
    "pim",
    "thr",
@@ -13156,9 +13156,9 @@
    ]
   }
  },
- "v20_233_fly_y": {
-  "job": "v20_233_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_233_fly_y.zip",
+ "C14-6-2": {
+  "job": "C14-6-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-6-2.zip",
   "members": [
    "E(z)",
    "Su(z)12",
@@ -13174,9 +13174,9 @@
    "sup": false
   }
  },
- "v20_245_fly_y": {
-  "job": "v20_245_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_245_fly_y.zip",
+ "C14-7": {
+  "job": "C14-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-7.zip",
   "members": [
    "CG2034",
    "CG6907",
@@ -13192,9 +13192,9 @@
    "sup": false
   }
  },
- "v20_248_fly_y": {
-  "job": "v20_248_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_248_fly_y.zip",
+ "C12-7": {
+  "job": "C12-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-7.zip",
   "members": [
    "thoc5",
    "thoc7",
@@ -13248,9 +13248,9 @@
    ]
   }
  },
- "v20_257_fly_y": {
-  "job": "v20_257_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_257_fly_y.zip",
+ "C23-1": {
+  "job": "C23-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-1.zip",
   "members": [
    "CG11752",
    "ND-24",
@@ -13440,9 +13440,9 @@
    ]
   }
  },
- "v20_260_fly_y": {
-  "job": "v20_260_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_260_fly_y.zip",
+ "C9-2-2": {
+  "job": "C9-2-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-2-2.zip",
   "members": [
    "Sec8",
    "Sec10",
@@ -13488,9 +13488,9 @@
    ]
   }
  },
- "v20_264_fly_y": {
-  "job": "v20_264_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_264_fly_y.zip",
+ "C30-1": {
+  "job": "C30-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C30-1.zip",
   "members": [
    "PH4alphaEFB",
    "CG18749",
@@ -13506,9 +13506,9 @@
    "sup": false
   }
  },
- "v20_267_fly_y": {
-  "job": "v20_267_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_267_fly_y.zip",
+ "C11-8_3": {
+  "job": "C11-8_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-8_3.zip",
   "members": [
    "eIF3m",
    "eIF3a",
@@ -13698,9 +13698,9 @@
    ]
   }
  },
- "v20_269_fly_y": {
-  "job": "v20_269_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_269_fly_y.zip",
+ "C2-9-1": {
+  "job": "C2-9-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C2-9-1.zip",
   "members": [
    "Ost48",
    "OstDelta",
@@ -13777,9 +13777,9 @@
    ]
   }
  },
- "v20_270_fly_y": {
-  "job": "v20_270_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_270_fly_y.zip",
+ "C8-3-3": {
+  "job": "C8-3-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-3-3.zip",
   "members": [
    "bam",
    "bgcn",
@@ -13795,9 +13795,9 @@
    "sup": false
   }
  },
- "v20_273_fly_y": {
-  "job": "v20_273_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_273_fly_y.zip",
+ "C1-8-2": {
+  "job": "C1-8-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-8-2.zip",
   "members": [
    "Tnpo",
    "Ran-like",
@@ -13813,9 +13813,9 @@
    "sup": false
   }
  },
- "v20_279_fly_y": {
-  "job": "v20_279_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_279_fly_y.zip",
+ "C13-8": {
+  "job": "C13-8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-8.zip",
   "members": [
    "PIG-K",
    "GAA1",
@@ -13877,9 +13877,9 @@
    ]
   }
  },
- "v20_282_fly_y": {
-  "job": "v20_282_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_282_fly_y.zip",
+ "C7-5": {
+  "job": "C7-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-5.zip",
   "members": [
    "vir",
    "Flacc",
@@ -13895,9 +13895,9 @@
    "sup": false
   }
  },
- "v20_287_fly_y": {
-  "job": "v20_287_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_287_fly_y.zip",
+ "C14-1-2": {
+  "job": "C14-1-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-2.zip",
   "members": [
    "CG7639",
    "CG8004",
@@ -13913,9 +13913,9 @@
    "sup": false
   }
  },
- "v20_289_fly_y": {
-  "job": "v20_289_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_289_fly_y.zip",
+ "C12-3-1": {
+  "job": "C12-3-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-3-1.zip",
   "members": [
    "rau",
    "Cka",
@@ -13931,9 +13931,9 @@
    "sup": false
   }
  },
- "v20_298_fly_y": {
-  "job": "v20_298_fly_y",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v20_298_fly_y.zip",
+ "C7-2-1": {
+  "job": "C7-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-2-1.zip",
   "members": [
    "Snapin",
    "Dysb",
@@ -13949,9 +13949,9 @@
    "sup": false
   }
  },
- "v21_core013": {
-  "job": "v21_core013",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v21_core013.zip",
+ "C1-1-3": {
+  "job": "C1-1-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-1-3.zip",
   "members": [
    "fs(1)h",
    "Cdk12",
@@ -13988,9 +13988,9 @@
    ]
   }
  },
- "v22_rescue005": {
-  "job": "v22_rescue005",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v22_rescue005.zip",
+ "C7-4-2": {
+  "job": "C7-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-4-2.zip",
   "members": [
    "gammaTub23C",
    "Grip84",
@@ -14179,9 +14179,9 @@
    ]
   }
  },
- "v25_c10_2_3_core": {
-  "job": "v25_c10_2_3_core",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v25_c10_2_3_core.zip",
+ "C10-2-3": {
+  "job": "C10-2-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-2-3.zip",
   "members": [
    "Rho1",
    "Ced-12",
@@ -14197,9 +14197,9 @@
    "sup": false
   }
  },
- "v26_c135_asm": {
-  "job": "v26_c135_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c135_asm.zip",
+ "C1-3-5": {
+  "job": "C1-3-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-3-5.zip",
   "members": [
    "hay",
    "Tfb5",
@@ -14215,9 +14215,9 @@
    "sup": false
   }
  },
- "v26_c138_asm": {
-  "job": "v26_c138_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c138_asm.zip",
+ "C1-3-8": {
+  "job": "C1-3-8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-3-8.zip",
   "members": [
    "SNF4Agamma",
    "AMPKalpha",
@@ -14233,9 +14233,9 @@
    "sup": false
   }
  },
- "v26_c1522_asm": {
-  "job": "v26_c1522_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c1522_asm.zip",
+ "C15-2-2": {
+  "job": "C15-2-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-2-2.zip",
   "members": [
    "RpL18A",
    "RpL21",
@@ -14426,9 +14426,9 @@
    ]
   }
  },
- "v26_c352_asm": {
-  "job": "v26_c352_asm",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/v26_c352_asm.zip",
+ "C3-5-2": {
+  "job": "C3-5-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-5-2.zip",
   "members": [
    "Pp2A-29B",
    "tant",
