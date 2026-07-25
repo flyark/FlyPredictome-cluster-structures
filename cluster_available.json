@@ -12907,7 +12907,256 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.534,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 13,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "8QRK",
+   "best_cover": 13,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG4679",
+    "mRpS10",
+    "mRpS14",
+    "mRpS2",
+    "mRpS23",
+    "mRpS24",
+    "mRpS28",
+    "mRpS29",
+    "mRpS31",
+    "mRpS33",
+    "mRpS35",
+    "mRpS7",
+    "mRpS9"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6NU2",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 86,
+     "res": 3.9,
+     "title": "Structural insights into unique features of the human mitochondrial ribosome recycling",
+     "strong": true
+    },
+    {
+     "pdb": "6NU3",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 85,
+     "res": 4.4,
+     "title": "Structural insights into unique features of the human mitochondrial ribosome recycling",
+     "strong": true
+    },
+    {
+     "pdb": "6RW5",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 33,
+     "res": 3.14,
+     "title": "Structure of human mitochondrial 28S ribosome in complex with mitochondrial IF2 and IF3",
+     "strong": true
+    },
+    {
+     "pdb": "6ZS9",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 86,
+     "res": 4.0,
+     "title": "Human mitochondrial ribosome in complex with ribosome recycling factor",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSG",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 89,
+     "res": 4.0,
+     "title": "Human mitochondrial ribosome in complex with mRNA, A-site tRNA, P-site tRNA and E-site tRN",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSB",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 87,
+     "res": 4.5,
+     "title": "Human mitochondrial ribosome in complex with mRNA and P-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSD",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 3.7,
+     "title": "Human mitochondrial ribosome in complex with mRNA, P-site tRNA and E-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "6VLZ",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 2.97,
+     "title": "Structure of the human mitochondrial ribosome-EF-G1 complex (ClassI)",
+     "strong": true
+    },
+    {
+     "pdb": "7A5I",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 87,
+     "res": 3.7,
+     "title": "Structure of the human mitoribosome with A- P-and E-site mt-tRNAs",
+     "strong": true
+    },
+    {
+     "pdb": "7L08",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 86,
+     "res": 3.49,
+     "title": "Cryo-EM structure of the human 55S mitoribosome-RRFmt complex.",
+     "strong": true
+    },
+    {
+     "pdb": "7OG4",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 85,
+     "res": 3.8,
+     "title": "Human mitochondrial ribosome in complex with P/E-tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "7PNY",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.06,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNV",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.06,
+     "title": "Assembly intermediate of mouse mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "8CST",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 2.85,
+     "title": "Human mitochondrial small subunit assembly intermediate (State E)",
+     "strong": true
+    },
+    {
+     "pdb": "8CSP",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 33,
+     "res": 2.66,
+     "title": "Human mitochondrial small subunit assembly intermediate (State A)",
+     "strong": true
+    },
+    {
+     "pdb": "7PO0",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 2.9,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNT",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.19,
+     "title": "Assembly intermediate of mouse mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNX",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 2.76,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNZ",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.09,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNW",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 31,
+     "res": 3.09,
+     "title": "Mouse mitochondrial ribosome small subunit lacking m5U modification",
+     "strong": true
+    }
+   ]
+  }
  },
  "C16-3-1_2": {
   "job": "C16-3-1_2",
@@ -12931,7 +13180,257 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.512,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 13,
+   "n_pdb": 30,
+   "n_strong": 28,
+   "methods": {
+    "cryoEM": 24,
+    "X-ray": 6
+   },
+   "best_pdb": "6W1S",
+   "best_cover": 13,
+   "best_method": "cryoEM",
+   "covered": [
+    "MED10",
+    "MED14",
+    "MED17",
+    "MED18",
+    "MED19",
+    "MED20",
+    "MED27",
+    "MED31",
+    "MED4",
+    "MED6",
+    "MED7",
+    "MED8",
+    "ix"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6W1S",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 25,
+     "res": 4.02,
+     "title": "Atomic model of the mammalian Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8T1I",
+     "cover": 13,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 27,
+     "res": 4.68,
+     "title": "Atomic model of the mammalian Mediator complex with MED26 subunit",
+     "strong": true
+    },
+    {
+     "pdb": "7EMF",
+     "cover": 13,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 27,
+     "res": 3.5,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-extended conformation",
+     "strong": true
+    },
+    {
+     "pdb": "7LBM",
+     "cover": 12,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 56,
+     "res": 4.8,
+     "title": "Structure of the human Mediator-bound transcription pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7ENJ",
+     "cover": 13,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 26,
+     "res": 4.4,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-bent conformation (MED-B)",
+     "strong": true
+    },
+    {
+     "pdb": "7ENC",
+     "cover": 13,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.13,
+     "title": "TFIID-based PIC-Mediator holo-complex in fully-assembled state (hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "7ENA",
+     "cover": 13,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.07,
+     "title": "TFIID-based PIC-Mediator holo-complex in pre-assembled state (pre-hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "8GXQ",
+     "cover": 13,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 5.04,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in MH-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8GXS",
+     "cover": 13,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 4.16,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in H-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8T1L",
+     "cover": 12,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 4.83,
+     "title": "Atomic model of the mammalian mouse Mediator complex with CKM module",
+     "strong": true
+    },
+    {
+     "pdb": "8TQW",
+     "cover": 12,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 29,
+     "res": 8.2,
+     "title": "Structure of human transcriptional Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8TRH",
+     "cover": 12,
+     "frac": 0.92,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 3.7,
+     "title": "The IDRc bound human core Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "7NVR",
+     "cover": 13,
+     "frac": 0.85,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 58,
+     "res": 4.5,
+     "title": "Human Mediator with RNA Polymerase II Pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "8T9D",
+     "cover": 11,
+     "frac": 0.85,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 4.66,
+     "title": "CryoEM structure of TR-TRAP",
+     "strong": true
+    },
+    {
+     "pdb": "5OQM",
+     "cover": 11,
+     "frac": 0.77,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 46,
+     "res": 5.8,
+     "title": "STRUCTURE OF YEAST TRANSCRIPTION PRE-INITIATION COMPLEX WITH TFIIH AND CORE MEDIATOR",
+     "strong": true
+    },
+    {
+     "pdb": "7UI9",
+     "cover": 10,
+     "frac": 0.77,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 33,
+     "res": 3.3,
+     "title": "Core Mediator-PICearly (Copy A)",
+     "strong": true
+    },
+    {
+     "pdb": "8CEO",
+     "cover": 11,
+     "frac": 0.77,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 50,
+     "res": 3.6,
+     "title": "Yeast RNA polymerase II transcription pre-initiation complex with core Mediator and the +1",
+     "strong": true
+    },
+    {
+     "pdb": "7UIG",
+     "cover": 10,
+     "frac": 0.77,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 17,
+     "res": 4.3,
+     "title": "Mediator-PIC Early (Mediator A)",
+     "strong": true
+    },
+    {
+     "pdb": "8CEN",
+     "cover": 10,
+     "frac": 0.77,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 46,
+     "res": 3.0,
+     "title": "Yeast RNA polymerase II transcription pre-initiation complex with core Mediator",
+     "strong": true
+    },
+    {
+     "pdb": "7UIO",
+     "cover": 10,
+     "frac": 0.77,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 41,
+     "res": 3.3,
+     "title": "Mediator-PIC Early (Composite Model)",
+     "strong": true
+    }
+   ]
+  }
  },
  "C16-3-1_3": {
   "job": "C16-3-1_3",
@@ -12953,7 +13452,255 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.514,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 11,
+   "n_pdb": 30,
+   "n_strong": 29,
+   "methods": {
+    "cryoEM": 24,
+    "X-ray": 6
+   },
+   "best_pdb": "6W1S",
+   "best_cover": 11,
+   "best_method": "cryoEM",
+   "covered": [
+    "MED11",
+    "MED14",
+    "MED15",
+    "MED17",
+    "MED18",
+    "MED20",
+    "MED22",
+    "MED27",
+    "MED6",
+    "MED8",
+    "ix"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6W1S",
+     "cover": 11,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 25,
+     "res": 4.02,
+     "title": "Atomic model of the mammalian Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8T1L",
+     "cover": 11,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 4.83,
+     "title": "Atomic model of the mammalian mouse Mediator complex with CKM module",
+     "strong": true
+    },
+    {
+     "pdb": "8T1I",
+     "cover": 11,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 27,
+     "res": 4.68,
+     "title": "Atomic model of the mammalian Mediator complex with MED26 subunit",
+     "strong": true
+    },
+    {
+     "pdb": "7EMF",
+     "cover": 11,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 27,
+     "res": 3.5,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-extended conformation",
+     "strong": true
+    },
+    {
+     "pdb": "7LBM",
+     "cover": 10,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 56,
+     "res": 4.8,
+     "title": "Structure of the human Mediator-bound transcription pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7ENJ",
+     "cover": 11,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 26,
+     "res": 4.4,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-bent conformation (MED-B)",
+     "strong": true
+    },
+    {
+     "pdb": "7ENC",
+     "cover": 11,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.13,
+     "title": "TFIID-based PIC-Mediator holo-complex in fully-assembled state (hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "7ENA",
+     "cover": 11,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.07,
+     "title": "TFIID-based PIC-Mediator holo-complex in pre-assembled state (pre-hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "8GXQ",
+     "cover": 11,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 5.04,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in MH-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8GXS",
+     "cover": 11,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 4.16,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in H-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8TQW",
+     "cover": 10,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 29,
+     "res": 8.2,
+     "title": "Structure of human transcriptional Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8TRH",
+     "cover": 10,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 3.7,
+     "title": "The IDRc bound human core Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8T9D",
+     "cover": 10,
+     "frac": 0.91,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 4.66,
+     "title": "CryoEM structure of TR-TRAP",
+     "strong": true
+    },
+    {
+     "pdb": "5OQM",
+     "cover": 8,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 46,
+     "res": 5.8,
+     "title": "STRUCTURE OF YEAST TRANSCRIPTION PRE-INITIATION COMPLEX WITH TFIIH AND CORE MEDIATOR",
+     "strong": true
+    },
+    {
+     "pdb": "7NVR",
+     "cover": 10,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 58,
+     "res": 4.5,
+     "title": "Human Mediator with RNA Polymerase II Pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7UI9",
+     "cover": 8,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 33,
+     "res": 3.3,
+     "title": "Core Mediator-PICearly (Copy A)",
+     "strong": true
+    },
+    {
+     "pdb": "8CEO",
+     "cover": 9,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 50,
+     "res": 3.6,
+     "title": "Yeast RNA polymerase II transcription pre-initiation complex with core Mediator and the +1",
+     "strong": true
+    },
+    {
+     "pdb": "7UIG",
+     "cover": 8,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 17,
+     "res": 4.3,
+     "title": "Mediator-PIC Early (Mediator A)",
+     "strong": true
+    },
+    {
+     "pdb": "8CEN",
+     "cover": 8,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 46,
+     "res": 3.0,
+     "title": "Yeast RNA polymerase II transcription pre-initiation complex with core Mediator",
+     "strong": true
+    },
+    {
+     "pdb": "7UIO",
+     "cover": 8,
+     "frac": 0.73,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 41,
+     "res": 3.3,
+     "title": "Mediator-PIC Early (Composite Model)",
+     "strong": true
+    }
+   ]
+  }
  },
  "C24-3": {
   "job": "C24-3",
@@ -12974,7 +13721,253 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.487,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 10,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "8QRK",
+   "best_cover": 10,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG4882",
+    "bonsai",
+    "mRpS16",
+    "mRpS17",
+    "mRpS18B",
+    "mRpS18C",
+    "mRpS22",
+    "mRpS25",
+    "mRpS26",
+    "mRpS6"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6NU2",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 86,
+     "res": 3.9,
+     "title": "Structural insights into unique features of the human mitochondrial ribosome recycling",
+     "strong": true
+    },
+    {
+     "pdb": "6NU3",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 85,
+     "res": 4.4,
+     "title": "Structural insights into unique features of the human mitochondrial ribosome recycling",
+     "strong": true
+    },
+    {
+     "pdb": "6RW5",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 33,
+     "res": 3.14,
+     "title": "Structure of human mitochondrial 28S ribosome in complex with mitochondrial IF2 and IF3",
+     "strong": true
+    },
+    {
+     "pdb": "6ZS9",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 86,
+     "res": 4.0,
+     "title": "Human mitochondrial ribosome in complex with ribosome recycling factor",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSG",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 89,
+     "res": 4.0,
+     "title": "Human mitochondrial ribosome in complex with mRNA, A-site tRNA, P-site tRNA and E-site tRN",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSB",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 87,
+     "res": 4.5,
+     "title": "Human mitochondrial ribosome in complex with mRNA and P-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSD",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 3.7,
+     "title": "Human mitochondrial ribosome in complex with mRNA, P-site tRNA and E-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "6VLZ",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 2.97,
+     "title": "Structure of the human mitochondrial ribosome-EF-G1 complex (ClassI)",
+     "strong": true
+    },
+    {
+     "pdb": "7A5I",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 87,
+     "res": 3.7,
+     "title": "Structure of the human mitoribosome with A- P-and E-site mt-tRNAs",
+     "strong": true
+    },
+    {
+     "pdb": "7L08",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 86,
+     "res": 3.49,
+     "title": "Cryo-EM structure of the human 55S mitoribosome-RRFmt complex.",
+     "strong": true
+    },
+    {
+     "pdb": "7OG4",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 85,
+     "res": 3.8,
+     "title": "Human mitochondrial ribosome in complex with P/E-tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "7PNY",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.06,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNV",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.06,
+     "title": "Assembly intermediate of mouse mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "8CST",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 2.85,
+     "title": "Human mitochondrial small subunit assembly intermediate (State E)",
+     "strong": true
+    },
+    {
+     "pdb": "8CSP",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 33,
+     "res": 2.66,
+     "title": "Human mitochondrial small subunit assembly intermediate (State A)",
+     "strong": true
+    },
+    {
+     "pdb": "7PO0",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 2.9,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNT",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.19,
+     "title": "Assembly intermediate of mouse mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNX",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 2.76,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNZ",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 32,
+     "res": 3.09,
+     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
+     "strong": true
+    },
+    {
+     "pdb": "7PNW",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 31,
+     "res": 3.09,
+     "title": "Mouse mitochondrial ribosome small subunit lacking m5U modification",
+     "strong": true
+    }
+   ]
+  }
  },
  "C21-3_2": {
   "job": "C21-3_2",
@@ -12995,7 +13988,253 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.467,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 10,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "5MPE",
+   "best_cover": 10,
+   "best_method": "cryoEM",
+   "covered": [
+    "Rpn10",
+    "Rpn11",
+    "Rpn12",
+    "Rpn13",
+    "Rpn2",
+    "Rpn3",
+    "Rpn5",
+    "Rpn7",
+    "Rpn8",
+    "Rpn9"
+   ],
+   "pdbs": [
+    {
+     "pdb": "4CR3",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2014",
+     "size": 33,
+     "res": 9.3,
+     "title": "Deep classification of a large cryo-EM dataset defines the conformational landscape of the",
+     "strong": true
+    },
+    {
+     "pdb": "4CR2",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2014",
+     "size": 33,
+     "res": 7.7,
+     "title": "Deep classification of a large cryo-EM dataset defines the conformational landscape of the",
+     "strong": true
+    },
+    {
+     "pdb": "4CR4",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2014",
+     "size": 33,
+     "res": 8.8,
+     "title": "Deep classification of a large cryo-EM dataset defines the conformational landscape of the",
+     "strong": true
+    },
+    {
+     "pdb": "5A5B",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 35,
+     "res": 9.5,
+     "title": "Structure of the 26S proteasome-Ubp6 complex",
+     "strong": true
+    },
+    {
+     "pdb": "3JCO",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 33,
+     "res": 4.8,
+     "title": "Structure of yeast 26S proteasome in M1 state derived from Titan dataset",
+     "strong": true
+    },
+    {
+     "pdb": "3JCP",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 33,
+     "res": 4.6,
+     "title": "Structure of yeast 26S proteasome in M2 state derived from Titan dataset",
+     "strong": true
+    },
+    {
+     "pdb": "5MPE",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 13,
+     "res": 4.5,
+     "title": "26S proteasome in presence of ATP (s2)",
+     "strong": true
+    },
+    {
+     "pdb": "5WVK",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 33,
+     "res": 4.2,
+     "title": "Yeast proteasome-ADP-AlFx",
+     "strong": true
+    },
+    {
+     "pdb": "5WVI",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 33,
+     "res": 6.3,
+     "title": "The resting state of yeast proteasome",
+     "strong": true
+    },
+    {
+     "pdb": "5MPC",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 34,
+     "res": 7.7,
+     "title": "26S proteasome in presence of BeFx (s4)",
+     "strong": true
+    },
+    {
+     "pdb": "5MPD",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 13,
+     "res": 4.1,
+     "title": "26S proteasome in presence of ATP (s1)",
+     "strong": true
+    },
+    {
+     "pdb": "5MPB",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 33,
+     "res": 7.8,
+     "title": "26S proteasome in presence of AMP-PNP (s3)",
+     "strong": true
+    },
+    {
+     "pdb": "6FVY",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 6.1,
+     "title": "26S proteasome, s6 state",
+     "strong": true
+    },
+    {
+     "pdb": "6FVT",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 4.1,
+     "title": "26S proteasome, s1 state",
+     "strong": true
+    },
+    {
+     "pdb": "6FVX",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 4.9,
+     "title": "26S proteasome, s5 state",
+     "strong": true
+    },
+    {
+     "pdb": "6FVU",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 4.5,
+     "title": "26S proteasome, s2 state",
+     "strong": true
+    },
+    {
+     "pdb": "6FVV",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 5.4,
+     "title": "26S proteasome, s3 state",
+     "strong": true
+    },
+    {
+     "pdb": "6FVW",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 4.5,
+     "title": "26S proteasome, s4 state",
+     "strong": true
+    },
+    {
+     "pdb": "6J2N",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 33,
+     "res": 7.5,
+     "title": "yeast proteasome in substrate-processing state (C3-b)",
+     "strong": true
+    },
+    {
+     "pdb": "6J2C",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 33,
+     "res": 7.0,
+     "title": "Yeast proteasome in translocation competent state (C3-a)",
+     "strong": true
+    }
+   ]
+  }
  },
  "C17-7": {
   "job": "C17-7",
@@ -13014,7 +14253,252 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.493,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 8,
+   "n_pdb": 30,
+   "n_strong": 23,
+   "methods": {
+    "X-ray": 3,
+    "cryoEM": 27
+   },
+   "best_pdb": "4WSN",
+   "best_cover": 8,
+   "best_method": "X-ray",
+   "covered": [
+    "CSN1b",
+    "CSN3",
+    "CSN4",
+    "CSN5",
+    "CSN6",
+    "CSN7",
+    "CSN8",
+    "alien"
+   ],
+   "pdbs": [
+    {
+     "pdb": "4D10",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 8,
+     "res": 3.8,
+     "title": "Crystal structure of the COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "4D18",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 8,
+     "res": 4.08,
+     "title": "Crystal structure of the COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "4WSN",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2015",
+     "size": 8,
+     "res": 5.5,
+     "title": "Crystal structure of the COP9 signalosome, a P1 crystal form",
+     "strong": true
+    },
+    {
+     "pdb": "6R7F",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 14,
+     "res": 8.2,
+     "title": "Structural basis of Cullin-2 RING E3 ligase regulation by the COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "6R6H",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 13,
+     "res": 8.4,
+     "title": "Structural basis of Cullin-2 RING E3 ligase regulation by the COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "6R7I",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 13,
+     "res": 5.9,
+     "title": "Structural basis of Cullin-2 RING E3 ligase regulation by the COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "6R7H",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 12,
+     "res": 8.8,
+     "title": "Structural basis of Cullin-2 RING E3 ligase regulation by the COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "8H3F",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 11,
+     "res": 6.73,
+     "title": "Cryo-EM Structure of the KBTBD2-CRL3-CSN complex",
+     "strong": true
+    },
+    {
+     "pdb": "8H38",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 12,
+     "res": 4.25,
+     "title": "Cryo-EM Structure of the KBTBD2-CRL3~N8-CSN(mutate) complex",
+     "strong": true
+    },
+    {
+     "pdb": "8H3A",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 11,
+     "res": 7.51,
+     "title": "Cryo-EM Structure of the KBTBD2-CRL3~N8(removed)-CSN complex",
+     "strong": true
+    },
+    {
+     "pdb": "9E77",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 3.3,
+     "title": "Cryo-EM structure of CSN-N8 in complex with CSN5i-3",
+     "strong": true
+    },
+    {
+     "pdb": "9EFQ",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 11,
+     "res": 2.96,
+     "title": "Cryo-EM structure of COP9 signalosome precatalytic state with neddylated cullin-2",
+     "strong": true
+    },
+    {
+     "pdb": "9EG1",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 11,
+     "res": 3.52,
+     "title": "COP9 signalosome deneddylation complex with cullin-5",
+     "strong": true
+    },
+    {
+     "pdb": "9E5Z",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 8,
+     "res": 3.4,
+     "title": "Cryo-EM structure of COP9 signalosome",
+     "strong": true
+    },
+    {
+     "pdb": "9EFV",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 11,
+     "res": 3.03,
+     "title": "Cryo-EM structure of CSN-N8CUL1 in complex with CSN5i-3",
+     "strong": true
+    },
+    {
+     "pdb": "9EG8",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 11,
+     "res": 3.39,
+     "title": "Cryo-EM structure of COP9 signalosome precatalytic state with neddylated cullin-4A",
+     "strong": true
+    },
+    {
+     "pdb": "9E81",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 8,
+     "res": 3.3,
+     "title": "Cryo-EM structure of COP9 signalosome in complex with CSN5i-3",
+     "strong": true
+    },
+    {
+     "pdb": "9EGL",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 11,
+     "res": 3.93,
+     "title": "Cryo-EM structure of COP9 signalosome precatalytic state with neddylated cullin-3",
+     "strong": true
+    },
+    {
+     "pdb": "9PH4",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 8,
+     "res": 3.0,
+     "title": "Cryo-EM structure of COP9 signalosome in complex with CSN5i-1a",
+     "strong": true
+    },
+    {
+     "pdb": "9EFM",
+     "cover": 8,
+     "frac": 0.88,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 11,
+     "res": 3.16,
+     "title": "Cryo-EM structure of COP9 signalosome precatalytic state with neddylated cullin-1",
+     "strong": true
+    }
+   ]
+  }
  },
  "C24-2": {
   "job": "C24-2",
@@ -13033,7 +14517,251 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.426,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 8,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "7OIB",
+   "best_cover": 8,
+   "best_method": "cryoEM",
+   "covered": [
+    "mRpL15",
+    "mRpL20",
+    "mRpL30",
+    "mRpL4",
+    "mRpL43",
+    "mRpL44",
+    "mRpL50",
+    "mRpL51"
+   ],
+   "pdbs": [
+    {
+     "pdb": "3J9M",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 85,
+     "res": 3.5,
+     "title": "Structure of the human mitochondrial ribosome (class 1)",
+     "strong": true
+    },
+    {
+     "pdb": "6NU3",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 85,
+     "res": 4.4,
+     "title": "Structural insights into unique features of the human mitochondrial ribosome recycling",
+     "strong": true
+    },
+    {
+     "pdb": "7A5J",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 61,
+     "res": 3.1,
+     "title": "Structure of the split human mitoribosomal large subunit with P-and E-site mt-tRNAs",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSG",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 89,
+     "res": 4.0,
+     "title": "Human mitochondrial ribosome in complex with mRNA, A-site tRNA, P-site tRNA and E-site tRN",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSB",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 87,
+     "res": 4.5,
+     "title": "Human mitochondrial ribosome in complex with mRNA and P-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSC",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 86,
+     "res": 3.5,
+     "title": "Human mitochondrial ribosome in complex with E-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "6VMI",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 2.96,
+     "title": "Structure of the human mitochondrial ribosome-EF-G1 complex (ClassIII)",
+     "strong": true
+    },
+    {
+     "pdb": "7A5H",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 59,
+     "res": 3.3,
+     "title": "Structure of the split human mitoribosomal large subunit with rescue factors mtRF-R and MT",
+     "strong": true
+    },
+    {
+     "pdb": "6ZSA",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 87,
+     "res": 4.0,
+     "title": "Human mitochondrial ribosome bound to mRNA, A-site tRNA and P-site tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "7A5K",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 90,
+     "res": 3.7,
+     "title": "Structure of the human mitoribosome in the post translocation state bound to mtEF-G1",
+     "strong": true
+    },
+    {
+     "pdb": "7OIC",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 58,
+     "res": 3.1,
+     "title": "Cryo-EM structure of late human 39S mitoribosome assembly intermediates, state 4",
+     "strong": true
+    },
+    {
+     "pdb": "7OF5",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 57,
+     "res": 2.9,
+     "title": "Structure of a human mitochondrial ribosome large subunit assembly intermediate in complex",
+     "strong": true
+    },
+    {
+     "pdb": "7OI7",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 54,
+     "res": 3.5,
+     "title": "Cryo-EM structure of late human 39S mitoribosome assembly intermediates, state 2",
+     "strong": true
+    },
+    {
+     "pdb": "7OF0",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 56,
+     "res": 2.2,
+     "title": "Structure of a human mitochondrial ribosome large subunit assembly intermediate in complex",
+     "strong": true
+    },
+    {
+     "pdb": "7ODS",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 58,
+     "res": 3.1,
+     "title": "State B of the human mitoribosomal large subunit assembly intermediate",
+     "strong": true
+    },
+    {
+     "pdb": "7OF7",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 57,
+     "res": 2.5,
+     "title": "Structure of a human mitochondrial ribosome large subunit assembly intermediate in complex",
+     "strong": true
+    },
+    {
+     "pdb": "7OG4",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 85,
+     "res": 3.8,
+     "title": "Human mitochondrial ribosome in complex with P/E-tRNA",
+     "strong": true
+    },
+    {
+     "pdb": "7OIB",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 51,
+     "res": 3.3,
+     "title": "Cryo-EM structure of late human 39S mitoribosome assembly intermediates, state 3D",
+     "strong": true
+    },
+    {
+     "pdb": "7OIE",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 55,
+     "res": 3.5,
+     "title": "Cryo-EM structure of late human 39S mitoribosome assembly intermediates, state 5B",
+     "strong": true
+    },
+    {
+     "pdb": "7OID",
+     "cover": 8,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 56,
+     "res": 3.7,
+     "title": "Cryo-EM structure of late human 39S mitoribosome assembly intermediates, state 5A",
+     "strong": true
+    }
+   ]
+  }
  },
  "C5-6-1": {
   "job": "C5-6-1",
@@ -13051,7 +14779,251 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.44,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 7,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 28,
+    "X-ray": 2
+   },
+   "best_pdb": "5D80",
+   "best_cover": 7,
+   "best_method": "X-ray",
+   "covered": [
+    "Vha13",
+    "Vha14-1",
+    "Vha26",
+    "Vha36-1",
+    "Vha55",
+    "Vha68-1",
+    "VhaSFD"
+   ],
+   "pdbs": [
+    {
+     "pdb": "3J9T",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 11,
+     "res": 6.9,
+     "title": "Yeast V-ATPase state 1",
+     "strong": true
+    },
+    {
+     "pdb": "3J9U",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 11,
+     "res": 7.6,
+     "title": "Yeast V-ATPase state 2",
+     "strong": true
+    },
+    {
+     "pdb": "3J9V",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 11,
+     "res": 8.3,
+     "title": "Yeast V-ATPase state 3",
+     "strong": true
+    },
+    {
+     "pdb": "5D80",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2016",
+     "size": 7,
+     "res": 6.202,
+     "title": "Crystal Structure of Yeast V1-ATPase in the Autoinhibited Form",
+     "strong": true
+    },
+    {
+     "pdb": "5VOZ",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 16,
+     "res": 7.6,
+     "title": "Yeast V-ATPase in complex with Legionella pneumophila effector SidK (rotational state 3)",
+     "strong": true
+    },
+    {
+     "pdb": "5VOY",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 16,
+     "res": 7.9,
+     "title": "Yeast V-ATPase in complex with Legionella pneumophila effector SidK (rotational state 2)",
+     "strong": true
+    },
+    {
+     "pdb": "5VOX",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 16,
+     "res": 6.8,
+     "title": "Yeast V-ATPase in complex with Legionella pneumophila effector SidK (rotational state 1)",
+     "strong": true
+    },
+    {
+     "pdb": "7FDC",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 16,
+     "res": 6.6,
+     "title": "CryoEM Structures of Reconstituted V-ATPase, state3",
+     "strong": true
+    },
+    {
+     "pdb": "7FDB",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 16,
+     "res": 4.8,
+     "title": "CryoEM Structures of Reconstituted V-ATPase,State2",
+     "strong": true
+    },
+    {
+     "pdb": "7FDA",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 16,
+     "res": 4.2,
+     "title": "CryoEM Structure of Reconstituted V-ATPase, state1",
+     "strong": true
+    },
+    {
+     "pdb": "7TMR",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 16,
+     "res": 3.5,
+     "title": "V-ATPase from Saccharomyces cerevisiae, State 1",
+     "strong": true
+    },
+    {
+     "pdb": "7TMM",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 8,
+     "res": 3.5,
+     "title": "Complete V1 Complex from Saccharomyces cerevisiae",
+     "strong": true
+    },
+    {
+     "pdb": "7TMP",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 3.3,
+     "title": "V1 complex lacking subunit C from Saccharomyces cerevisiae, State 2",
+     "strong": true
+    },
+    {
+     "pdb": "7TMQ",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 3.3,
+     "title": "V1 complex lacking subunit C from Saccharomyces cerevisiae, State 3",
+     "strong": true
+    },
+    {
+     "pdb": "7TMO",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 3.3,
+     "title": "V1 complex lacking subunit C from Saccharomyces cerevisiae, State 1",
+     "strong": true
+    },
+    {
+     "pdb": "9BRU",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 4.4,
+     "title": "Intact V-ATPase State 1 in synaptophysin knock-out isolated synaptic vesicles",
+     "strong": true
+    },
+    {
+     "pdb": "9BRS",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 4.4,
+     "title": "Intact V-ATPase State 2 in synaptophysin knock-out isolated synaptic vesicles",
+     "strong": true
+    },
+    {
+     "pdb": "9BRT",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 17,
+     "res": 4.3,
+     "title": "Intact V-ATPase State 1 and synaptophysin complex in mouse brain isolated synaptic vesicle",
+     "strong": true
+    },
+    {
+     "pdb": "9BRQ",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 17,
+     "res": 4.3,
+     "title": "Intact V-ATPase State 3 and synaptophysin complex in mouse brain isolated synaptic vesicle",
+     "strong": true
+    },
+    {
+     "pdb": "9BRR",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 4.5,
+     "title": "Intact V-ATPase State 3 in synaptophysin knock-out isolated synaptic vesicles",
+     "strong": true
+    }
+   ]
+  }
  },
  "C21-1": {
   "job": "C21-1",
@@ -13069,7 +15041,249 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.439,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 7,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "6ZYM",
+   "best_cover": 6,
+   "best_method": "cryoEM",
+   "covered": [
+    "Bx42",
+    "CG14641",
+    "CG3436",
+    "CG6015",
+    "Prp8",
+    "l(1)10Bb"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5XJC",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 40,
+     "res": 3.6,
+     "title": "Cryo-EM structure of the human spliceosome just prior to exon ligation at 3.6 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "5MQF",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 35,
+     "res": 5.9,
+     "title": "Cryo-EM structure of a human spliceosome activated for step 2 of splicing (C* complex)",
+     "strong": true
+    },
+    {
+     "pdb": "5YZG",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 45,
+     "res": 4.1,
+     "title": "The Cryo-EM Structure of Human Catalytic Step I Spliceosome (C complex) at 4.1 angstrom re",
+     "strong": true
+    },
+    {
+     "pdb": "6QDV",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 44,
+     "res": 3.3,
+     "title": "Human post-catalytic P complex spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "6ID0",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 32,
+     "res": 2.9,
+     "title": "Cryo-EM structure of a human intron lariat spliceosome prior to Prp43 loaded (ILS1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "6ICZ",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 41,
+     "res": 3.0,
+     "title": "Cryo-EM structure of a human post-catalytic spliceosome (P complex) at 3.0 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "6ID1",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 33,
+     "res": 2.86,
+     "title": "Cryo-EM structure of a human intron lariat spliceosome after Prp43 loaded (ILS2 complex) a",
+     "strong": true
+    },
+    {
+     "pdb": "6FF7",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 50,
+     "res": 4.5,
+     "title": "human Bact spliceosome core structure",
+     "strong": true
+    },
+    {
+     "pdb": "6ZYM",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 25,
+     "res": 3.4,
+     "title": "Human C Complex Spliceosome - High-resolution CORE",
+     "strong": true
+    },
+    {
+     "pdb": "7ABI",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 49,
+     "res": 8.0,
+     "title": "Human pre-Bact-2 spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "7W5A",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 44,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-II complex",
+     "strong": true
+    },
+    {
+     "pdb": "7W59",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 40,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-I complex",
+     "strong": true
+    },
+    {
+     "pdb": "7W5B",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 45,
+     "res": 4.3,
+     "title": "The cryo-EM structure of human C* complex",
+     "strong": true
+    },
+    {
+     "pdb": "8CH6",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 49,
+     "res": 5.9,
+     "title": "Structure of a late-stage activated spliceosome (BAqr) arrested with a dominant-negative A",
+     "strong": true
+    },
+    {
+     "pdb": "8C6J",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 53,
+     "res": 2.8,
+     "title": "Human spliceosomal PM5 C* complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0V",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 3.0,
+     "title": "The cryo-EM structure of human post-Bact complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0W",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 48,
+     "res": 3.4,
+     "title": "The cryo-EM structure of human C complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0U",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 43,
+     "res": 3.3,
+     "title": "The cryo-EM structure of human Bact-IV complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RO2",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 37,
+     "res": 3.5,
+     "title": "Integrative Structure of the human intron lariat Spliceosome (ILS'')",
+     "strong": true
+    },
+    {
+     "pdb": "8I0T",
+     "cover": 6,
+     "frac": 0.86,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 46,
+     "res": 3.0,
+     "title": "The cryo-EM structure of human Bact-III complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C12-4-2_2": {
   "job": "C12-4-2_2",
@@ -13087,7 +15301,250 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.395,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 7,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "6EU2",
+   "best_cover": 7,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG7339",
+    "Polr3D",
+    "Rcp",
+    "RpIII128",
+    "RpIIIC160",
+    "Rpb5",
+    "Rpb8"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5FJ8",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 20,
+     "res": 3.9,
+     "title": "Cryo-EM structure of yeast RNA polymerase III elongation complex at 3. 9 A",
+     "strong": true
+    },
+    {
+     "pdb": "5FJA",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 17,
+     "res": 4.65,
+     "title": "Cryo-EM structure of yeast RNA polymerase III at 4.7 A",
+     "strong": true
+    },
+    {
+     "pdb": "6EU2",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 17,
+     "res": 3.4,
+     "title": "Apo RNA Polymerase III - open conformation (oPOL3)",
+     "strong": true
+    },
+    {
+     "pdb": "6F44",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 22,
+     "res": 4.2,
+     "title": "RNA Polymerase III closed complex CC2.",
+     "strong": true
+    },
+    {
+     "pdb": "6EU0",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 22,
+     "res": 4.0,
+     "title": "RNA Polymerase III open pre-initiation complex (OC-PIC)",
+     "strong": true
+    },
+    {
+     "pdb": "6F40",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 22,
+     "res": 3.7,
+     "title": "RNA Polymerase III open complex",
+     "strong": true
+    },
+    {
+     "pdb": "6F41",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 23,
+     "res": 4.3,
+     "title": "RNA Polymerase III initially transcribing complex",
+     "strong": true
+    },
+    {
+     "pdb": "6EU3",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 17,
+     "res": 3.3,
+     "title": "Apo RNA Polymerase III - closed conformation (cPOL3)",
+     "strong": true
+    },
+    {
+     "pdb": "6CND",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 21,
+     "res": 4.8,
+     "title": "Yeast RNA polymerase III natural open complex (nOC)",
+     "strong": true
+    },
+    {
+     "pdb": "6TUT",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 18,
+     "res": 3.25,
+     "title": "Cryo-EM structure of the RNA Polymerase III-Maf1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7AST",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 17,
+     "res": 4.0,
+     "title": "Apo Human RNA Polymerase III",
+     "strong": true
+    },
+    {
+     "pdb": "7D59",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 17,
+     "res": 3.1,
+     "title": "cryo-EM structure of human RNA polymerase III in apo state",
+     "strong": true
+    },
+    {
+     "pdb": "7DU2",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 20,
+     "res": 3.35,
+     "title": "RNA polymerase III EC complex in post-translocation state",
+     "strong": true
+    },
+    {
+     "pdb": "7DN3",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 20,
+     "res": 3.5,
+     "title": "Structure of Human RNA Polymerase III elongation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7AE1",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 20,
+     "res": 2.8,
+     "title": "Cryo-EM structure of human RNA Polymerase III elongation complex 1",
+     "strong": true
+    },
+    {
+     "pdb": "7Z1L",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 20,
+     "res": 2.8,
+     "title": "Structure of yeast RNA Polymerase III Pre-Termination Complex (PTC)",
+     "strong": true
+    },
+    {
+     "pdb": "7Z1M",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 20,
+     "res": 3.4,
+     "title": "Structure of yeast RNA Polymerase III Elongation Complex (EC)",
+     "strong": true
+    },
+    {
+     "pdb": "7Z31",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 19,
+     "res": 2.76,
+     "title": "Structure of yeast RNA Polymerase III-Ty1 integrase complex at 2.7 A (focus subunit C11, n",
+     "strong": true
+    },
+    {
+     "pdb": "8BWS",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 20,
+     "res": 3.2,
+     "title": "Structure of yeast RNA Polymerase III elongation complex at 3.3 A",
+     "strong": true
+    },
+    {
+     "pdb": "7Z2Z",
+     "cover": 7,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 22,
+     "res": 3.07,
+     "title": "Structure of yeast RNA Polymerase III-DNA-Ty1 integrase complex (Pol III-DNA-IN1) at 3.1 A",
+     "strong": true
+    }
+   ]
+  }
  },
  "C21-1_2": {
   "job": "C21-1_2",
@@ -13104,7 +15561,249 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.451,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 6,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "6ID0",
+   "best_cover": 6,
+   "best_method": "cryoEM",
+   "covered": [
+    "BCAS2",
+    "Bx42",
+    "CG14641",
+    "CG6015",
+    "Cdc5",
+    "Tango4"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5XJC",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 40,
+     "res": 3.6,
+     "title": "Cryo-EM structure of the human spliceosome just prior to exon ligation at 3.6 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "5MQF",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 35,
+     "res": 5.9,
+     "title": "Cryo-EM structure of a human spliceosome activated for step 2 of splicing (C* complex)",
+     "strong": true
+    },
+    {
+     "pdb": "5YZG",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 45,
+     "res": 4.1,
+     "title": "The Cryo-EM Structure of Human Catalytic Step I Spliceosome (C complex) at 4.1 angstrom re",
+     "strong": true
+    },
+    {
+     "pdb": "6FF7",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 50,
+     "res": 4.5,
+     "title": "human Bact spliceosome core structure",
+     "strong": true
+    },
+    {
+     "pdb": "6QDV",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 44,
+     "res": 3.3,
+     "title": "Human post-catalytic P complex spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "6ID0",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 32,
+     "res": 2.9,
+     "title": "Cryo-EM structure of a human intron lariat spliceosome prior to Prp43 loaded (ILS1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "6ICZ",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 41,
+     "res": 3.0,
+     "title": "Cryo-EM structure of a human post-catalytic spliceosome (P complex) at 3.0 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "6ID1",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 33,
+     "res": 2.86,
+     "title": "Cryo-EM structure of a human intron lariat spliceosome after Prp43 loaded (ILS2 complex) a",
+     "strong": true
+    },
+    {
+     "pdb": "7W59",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 40,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-I complex",
+     "strong": true
+    },
+    {
+     "pdb": "7W5B",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 45,
+     "res": 4.3,
+     "title": "The cryo-EM structure of human C* complex",
+     "strong": true
+    },
+    {
+     "pdb": "7W5A",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 44,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-II complex",
+     "strong": true
+    },
+    {
+     "pdb": "8CH6",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 49,
+     "res": 5.9,
+     "title": "Structure of a late-stage activated spliceosome (BAqr) arrested with a dominant-negative A",
+     "strong": true
+    },
+    {
+     "pdb": "8C6J",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 53,
+     "res": 2.8,
+     "title": "Human spliceosomal PM5 C* complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0T",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 46,
+     "res": 3.0,
+     "title": "The cryo-EM structure of human Bact-III complex",
+     "strong": true
+    },
+    {
+     "pdb": "9FMD",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 53,
+     "res": 3.3,
+     "title": "Integrative model of the human post-catalytic spliceosome (P-complex)",
+     "strong": true
+    },
+    {
+     "pdb": "8I0V",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 3.0,
+     "title": "The cryo-EM structure of human post-Bact complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0W",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 48,
+     "res": 3.4,
+     "title": "The cryo-EM structure of human C complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0U",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 43,
+     "res": 3.3,
+     "title": "The cryo-EM structure of human Bact-IV complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RO2",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 37,
+     "res": 3.5,
+     "title": "Integrative Structure of the human intron lariat Spliceosome (ILS'')",
+     "strong": true
+    },
+    {
+     "pdb": "5GMK",
+     "cover": 5,
+     "frac": 0.83,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 35,
+     "res": 3.4,
+     "title": "Cryo-EM structure of the Catalytic Step I spliceosome (C complex) at 3.4 angstrom resoluti",
+     "strong": true
+    }
+   ]
+  }
  },
  "C14-1-2_2": {
   "job": "C14-1-2_2",
@@ -13121,7 +15820,36 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.404,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 6,
+   "n_pdb": 1,
+   "n_strong": 0,
+   "methods": {
+    "X-ray": 1
+   },
+   "best_pdb": "5MPO",
+   "best_cover": 2,
+   "best_method": "X-ray",
+   "covered": [
+    "Mocs2A",
+    "Mocs2B"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5MPO",
+     "cover": 2,
+     "frac": 0.33,
+     "method": "X-ray",
+     "year": "2016",
+     "size": 2,
+     "res": 2.43,
+     "title": "Crystal structure of human molybdopterin synthase complex",
+     "strong": false
+    }
+   ]
+  }
  },
  "C9-3-2": {
   "job": "C9-3-2",
@@ -13138,7 +15866,150 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.395,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 6,
+   "n_pdb": 11,
+   "n_strong": 11,
+   "methods": {
+    "cryoEM": 11
+   },
+   "best_pdb": "9QPQ",
+   "best_cover": 6,
+   "best_method": "cryoEM",
+   "covered": [
+    "alphaCOP",
+    "beta'COP",
+    "betaCOP",
+    "deltaCOP",
+    "gammaCOP",
+    "sau"
+   ],
+   "pdbs": [
+    {
+     "pdb": "9QPQ",
+     "cover": 6,
+     "frac": 0.83,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 8,
+     "res": 7.5,
+     "title": "The structure of the COPI leaf bound to GOLPH3",
+     "strong": true
+    },
+    {
+     "pdb": "5A1W",
+     "cover": 4,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 7,
+     "res": 18.0,
+     "title": "The structure of the COPI coat linkage II",
+     "strong": true
+    },
+    {
+     "pdb": "5A1V",
+     "cover": 4,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 8,
+     "res": 21.0,
+     "title": "The structure of the COPI coat linkage I",
+     "strong": true
+    },
+    {
+     "pdb": "5A1U",
+     "cover": 4,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 7,
+     "res": 13.0,
+     "title": "The structure of the COPI coat triad",
+     "strong": true
+    },
+    {
+     "pdb": "5A1Y",
+     "cover": 4,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 8,
+     "res": 21.0,
+     "title": "The structure of the COPI coat linkage IV",
+     "strong": true
+    },
+    {
+     "pdb": "5A1X",
+     "cover": 4,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 7,
+     "res": 23.0,
+     "title": "The structure of the COPI coat linkage III",
+     "strong": true
+    },
+    {
+     "pdb": "5NZU",
+     "cover": 5,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 7,
+     "res": 15.0,
+     "title": "The structure of the COPI coat linkage II",
+     "strong": true
+    },
+    {
+     "pdb": "5NZR",
+     "cover": 5,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 7,
+     "res": 9.2,
+     "title": "The structure of the COPI coat leaf",
+     "strong": true
+    },
+    {
+     "pdb": "5NZT",
+     "cover": 5,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 8,
+     "res": 17.0,
+     "title": "The structure of the COPI coat linkage I",
+     "strong": true
+    },
+    {
+     "pdb": "5NZV",
+     "cover": 5,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 8,
+     "res": 17.3,
+     "title": "The structure of the COPI coat linkage IV",
+     "strong": true
+    },
+    {
+     "pdb": "5NZS",
+     "cover": 5,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 8,
+     "res": 10.1,
+     "title": "The structure of the COPI coat leaf in complex with the ArfGAP2 uncoating factor",
+     "strong": true
+    }
+   ]
+  }
  },
  "C9-2-2": {
   "job": "C9-2-2",
@@ -13155,7 +16026,51 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.388,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 6,
+   "n_pdb": 2,
+   "n_strong": 2,
+   "methods": {
+    "cryoEM": 2
+   },
+   "best_pdb": "5YFP",
+   "best_cover": 6,
+   "best_method": "cryoEM",
+   "covered": [
+    "Sec10",
+    "Sec15",
+    "Sec3",
+    "Sec5",
+    "Sec6",
+    "Sec8"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5YFP",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 8,
+     "res": 4.4,
+     "title": "Cryo-EM Structure of the Exocyst Complex",
+     "strong": true
+    },
+    {
+     "pdb": "6VKL",
+     "cover": 6,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 15.0,
+     "title": "Negative stain reconstruction of the yeast exocyst octameric complex.",
+     "strong": true
+    }
+   ]
+  }
  },
  "C4-10-1": {
   "job": "C4-10-1",
@@ -13172,7 +16087,64 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.373,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 6,
+   "n_pdb": 3,
+   "n_strong": 1,
+   "methods": {
+    "cryoEM": 1,
+    "X-ray": 1,
+    "NMR": 1
+   },
+   "best_pdb": "6V4X",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Cpsf100",
+    "Cpsf73",
+    "CstF50",
+    "CstF64",
+    "Sym",
+    "su(f)"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6V4X",
+     "cover": 3,
+     "frac": 0.5,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.2,
+     "title": "Cryo-EM structure of an active human histone pre-mRNA 3'-end processing machinery at 3.2 A",
+     "strong": true
+    },
+    {
+     "pdb": "2L9B",
+     "cover": 2,
+     "frac": 0.33,
+     "method": "NMR",
+     "year": "2011",
+     "size": 2,
+     "res": null,
+     "title": "Heterodimer between Rna14p monkeytail domain and Rna15p hinge domain of the yeast CF IA co",
+     "strong": false
+    },
+    {
+     "pdb": "6B3X",
+     "cover": 2,
+     "frac": 0.33,
+     "method": "X-ray",
+     "year": "2017",
+     "size": 2,
+     "res": 2.3,
+     "title": "Crystal structure of CstF-50 in complex with CstF-77",
+     "strong": false
+    }
+   ]
+  }
  },
  "C23-1_2": {
   "job": "C23-1_2",
@@ -13188,7 +16160,248 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.555,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "8IC3",
+   "best_cover": 5,
+   "best_method": "cryoEM",
+   "covered": [
+    "ND-20",
+    "ND-23",
+    "ND-49",
+    "ND-75",
+    "ND-B17.2"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5XTH",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 68,
+     "res": 3.9,
+     "title": "Cryo-EM structure of human respiratory supercomplex I1III2IV1",
+     "strong": true
+    },
+    {
+     "pdb": "6G72",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 44,
+     "res": 3.9,
+     "title": "Mouse mitochondrial complex I in the deactive state",
+     "strong": true
+    },
+    {
+     "pdb": "6G2J",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 44,
+     "res": 3.3,
+     "title": "Mouse mitochondrial complex I in the active state",
+     "strong": true
+    },
+    {
+     "pdb": "6ZR2",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 44,
+     "res": 3.1,
+     "title": "Cryo-EM structure of respiratory complex I in the active state from Mus musculus at 3.1 A",
+     "strong": true
+    },
+    {
+     "pdb": "7B93",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 44,
+     "res": 3.04,
+     "title": "Cryo-EM structure of mitochondrial complex I from Mus musculus inhibited by IACS-2858 at 3",
+     "strong": true
+    },
+    {
+     "pdb": "7AK5",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 44,
+     "res": 3.17,
+     "title": "Cryo-EM structure of respiratory complex I in the deactive state from Mus musculus at 3.2 ",
+     "strong": true
+    },
+    {
+     "pdb": "8OM1",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 44,
+     "res": 2.39,
+     "title": "Mitochondrial complex I from Mus musculus in the active state",
+     "strong": true
+    },
+    {
+     "pdb": "8IC3",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.2,
+     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type I, PERK -/- mouse unde",
+     "strong": true
+    },
+    {
+     "pdb": "8XNT",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 4.1,
+     "title": "Respiratory complex Peripheral Arm of CI, close form C, focus-refined map of type IB, Wild",
+     "strong": true
+    },
+    {
+     "pdb": "8XNY",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 4.1,
+     "title": "Respiratory complex Peripheral Arm of CI, open form B, focus-refined map of type II, Wild ",
+     "strong": true
+    },
+    {
+     "pdb": "8XNN",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.6,
+     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type I, Wild t",
+     "strong": true
+    },
+    {
+     "pdb": "8IB4",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 4.3,
+     "title": "Respiratory complex CI:CIII2, type IA, Wild type mouse under cold temperature",
+     "strong": true
+    },
+    {
+     "pdb": "8IAP",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.2,
+     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type I, Wild type mouse und",
+     "strong": true
+    },
+    {
+     "pdb": "8IB9",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 4.3,
+     "title": "Respiratory complex CI:CIII2, type IB, Wild type mouse under cold temperature",
+     "strong": true
+    },
+    {
+     "pdb": "8IAO",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 4.2,
+     "title": "Respiratory complex CI:CIII2, type I, Wild type mouse under thermoneutral temperature",
+     "strong": true
+    },
+    {
+     "pdb": "8XNX",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.5,
+     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type II, Wild ",
+     "strong": true
+    },
+    {
+     "pdb": "8RGP",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 44,
+     "res": 3.0,
+     "title": "Closed Complex I from murine brain",
+     "strong": true
+    },
+    {
+     "pdb": "8XNL",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.1,
+     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, Wild ",
+     "strong": true
+    },
+    {
+     "pdb": "8RGR",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 44,
+     "res": 2.9,
+     "title": "Closed Complex I from murine liver",
+     "strong": true
+    },
+    {
+     "pdb": "8XNQ",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.7,
+     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type IA, Wild ",
+     "strong": true
+    }
+   ]
+  }
  },
  "C3-7-1_2": {
   "job": "C3-7-1_2",
@@ -13204,7 +16417,248 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.523,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "7EGG",
+   "best_cover": 5,
+   "best_method": "cryoEM",
+   "covered": [
+    "Taf4",
+    "Taf5",
+    "Taf6",
+    "Taf8",
+    "Taf9"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6MZC",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 10,
+     "res": 4.5,
+     "title": "Human TFIID BC core",
+     "strong": true
+    },
+    {
+     "pdb": "6MZM",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 17,
+     "res": 7.5,
+     "title": "Human TFIID bound to promoter DNA and TFIIA",
+     "strong": true
+    },
+    {
+     "pdb": "6MZL",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 17,
+     "res": 23.0,
+     "title": "Human TFIID canonical state",
+     "strong": true
+    },
+    {
+     "pdb": "7EGI",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 16,
+     "res": 9.82,
+     "title": "TFIID in rearranged conformation",
+     "strong": true
+    },
+    {
+     "pdb": "7EGC",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 45,
+     "res": 3.9,
+     "title": "p53-bound TFIID-based holo PIC on HDM2 promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EG8",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 7.4,
+     "title": "TFIID-based core PIC on PUMA promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EGA",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 35,
+     "res": 4.1,
+     "title": "TFIID-based intermediate PIC on PUMA promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EG7",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 6.2,
+     "title": "TFIID-based core PIC on SCP promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EGB",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 45,
+     "res": 3.3,
+     "title": "TFIID-based holo PIC on SCP promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EG9",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 35,
+     "res": 3.7,
+     "title": "TFIID-based intermediate PIC on SCP promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EGJ",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 18,
+     "res": 8.64,
+     "title": "SCP promoter-bound TFIID-TFIIA in post TBP-loading state",
+     "strong": true
+    },
+    {
+     "pdb": "7EGG",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 7,
+     "res": 2.77,
+     "title": "TFIID lobe B subcomplex",
+     "strong": true
+    },
+    {
+     "pdb": "7ENC",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.13,
+     "title": "TFIID-based PIC-Mediator holo-complex in fully-assembled state (hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "7EDX",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 4.5,
+     "title": "p53-bound TFIID-based core PIC on HDM2 promoter",
+     "strong": true
+    },
+    {
+     "pdb": "7EGD",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 18,
+     "res": 6.75,
+     "title": "SCP promoter-bound TFIID-TFIIA in initial TBP-loading state",
+     "strong": true
+    },
+    {
+     "pdb": "7ENA",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.07,
+     "title": "TFIID-based PIC-Mediator holo-complex in pre-assembled state (pre-hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "7EGE",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 14,
+     "res": 9.0,
+     "title": "TFIID in canonical conformation",
+     "strong": true
+    },
+    {
+     "pdb": "8GXQ",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 5.04,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in MH-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8GXS",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 4.16,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in H-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8WAP",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 45,
+     "res": 5.85,
+     "title": "Structure of transcribing complex 6 (TC6), the initially transcribing complex with Pol II ",
+     "strong": true
+    }
+   ]
+  }
  },
  "C12-7_2": {
   "job": "C12-7_2",
@@ -13220,7 +16674,127 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.442,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 9,
+   "n_strong": 7,
+   "methods": {
+    "cryoEM": 9
+   },
+   "best_pdb": "7ZNL",
+   "best_cover": 4,
+   "best_method": "cryoEM",
+   "covered": [
+    "Hel25E",
+    "Hpr1",
+    "tex",
+    "tho2",
+    "thoc5"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7APK",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 3.3,
+     "title": "Structure of the human THO - UAP56 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7ZNK",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 9,
+     "res": 3.9,
+     "title": "Structure of an endogenous human TREX complex bound to mRNA",
+     "strong": true
+    },
+    {
+     "pdb": "7ZNL",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.45,
+     "title": "Structure of the human TREX core THO-UAP56 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7AQO",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 6,
+     "res": 4.5,
+     "title": "yeast THO-Sub2 complex dimer",
+     "strong": true
+    },
+    {
+     "pdb": "7APX",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 6,
+     "res": 3.4,
+     "title": "yeast THO-Sub2 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7V2Y",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 3.4,
+     "title": "cryo-EM structure of yeast THO complex with Sub2",
+     "strong": true
+    },
+    {
+     "pdb": "8R7L",
+     "cover": 3,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 5,
+     "res": 4.12,
+     "title": "Cryo-EM structure of the human TREX complex",
+     "strong": true
+    },
+    {
+     "pdb": "7LUV",
+     "cover": 4,
+     "frac": 0.4,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 6,
+     "res": 3.7,
+     "title": "Cryo-EM structure of the yeast THO-Sub2 complex",
+     "strong": false
+    },
+    {
+     "pdb": "7V2W",
+     "cover": 3,
+     "frac": 0.4,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 5,
+     "res": 3.2,
+     "title": "protomer structure from the dimer of yeast THO complex",
+     "strong": false
+    }
+   ]
+  }
  },
  "C31-1_2": {
   "job": "C31-1_2",
@@ -13236,7 +16810,160 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.44,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 12,
+   "n_strong": 12,
+   "methods": {
+    "cryoEM": 12
+   },
+   "best_pdb": "7ADP",
+   "best_cover": 5,
+   "best_method": "cryoEM",
+   "covered": [
+    "EMC1",
+    "EMC2B",
+    "EMC3",
+    "EMC4",
+    "EMC8-9"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7ADO",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 10,
+     "res": 3.39,
+     "title": "Cryo-EM structure of human ER membrane protein complex in lipid nanodiscs",
+     "strong": true
+    },
+    {
+     "pdb": "7ADP",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 3.6,
+     "title": "Cryo-EM structure of human ER membrane protein complex in GDN detergent",
+     "strong": true
+    },
+    {
+     "pdb": "8S9S",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 9,
+     "res": 3.6,
+     "title": "Structure of the human ER membrane protein complex (EMC) in GDN",
+     "strong": true
+    },
+    {
+     "pdb": "8EOI",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 11,
+     "res": 3.4,
+     "title": "Structure of a human EMC:human Cav1.2 channel complex in GDN detergent",
+     "strong": true
+    },
+    {
+     "pdb": "8J0N",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 9,
+     "res": 3.47,
+     "title": "cryo-EM structure of human EMC",
+     "strong": true
+    },
+    {
+     "pdb": "8J0O",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 10,
+     "res": 3.32,
+     "title": "cryo-EM structure of human EMC and VDAC",
+     "strong": true
+    },
+    {
+     "pdb": "9C7V",
+     "cover": 5,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 12,
+     "res": 6.6,
+     "title": "Structure of the human BOS:human EMC complex in GDN",
+     "strong": true
+    },
+    {
+     "pdb": "6Z3W",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 9,
+     "res": 6.4,
+     "title": "Human ER membrane protein complex",
+     "strong": true
+    },
+    {
+     "pdb": "7KTX",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 11,
+     "res": 4.3,
+     "title": "Cryo-EM structure of Saccharomyces cerevisiae ER membrane protein complex bound to a Fab i",
+     "strong": true
+    },
+    {
+     "pdb": "7KRA",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 11,
+     "res": 3.2,
+     "title": "Cryo-EM structure of Saccharomyces cerevisiae ER membrane protein complex bound to Fab-DH4",
+     "strong": true
+    },
+    {
+     "pdb": "6WB9",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 3.0,
+     "title": "Structure of the S. cerevisiae ER membrane complex",
+     "strong": true
+    },
+    {
+     "pdb": "6WW7",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 9,
+     "res": 3.4,
+     "title": "Structure of the human ER membrane protein complex in a lipid nanodisc",
+     "strong": true
+    }
+   ]
+  }
  },
  "C21-1-1_2": {
   "job": "C21-1-1_2",
@@ -13252,7 +16979,247 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.429,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "6ZYM",
+   "best_cover": 4,
+   "best_method": "cryoEM",
+   "covered": [
+    "Bx42",
+    "CG3436",
+    "Prp8",
+    "crn"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5XJC",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 40,
+     "res": 3.6,
+     "title": "Cryo-EM structure of the human spliceosome just prior to exon ligation at 3.6 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "5MQF",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 35,
+     "res": 5.9,
+     "title": "Cryo-EM structure of a human spliceosome activated for step 2 of splicing (C* complex)",
+     "strong": true
+    },
+    {
+     "pdb": "5Z58",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 39,
+     "res": 4.9,
+     "title": "Cryo-EM structure of a human activated spliceosome (early Bact) at 4.9 angstrom.",
+     "strong": true
+    },
+    {
+     "pdb": "5YZG",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 45,
+     "res": 4.1,
+     "title": "The Cryo-EM Structure of Human Catalytic Step I Spliceosome (C complex) at 4.1 angstrom re",
+     "strong": true
+    },
+    {
+     "pdb": "6QDV",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 44,
+     "res": 3.3,
+     "title": "Human post-catalytic P complex spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "6ID0",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 32,
+     "res": 2.9,
+     "title": "Cryo-EM structure of a human intron lariat spliceosome prior to Prp43 loaded (ILS1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "6ICZ",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 41,
+     "res": 3.0,
+     "title": "Cryo-EM structure of a human post-catalytic spliceosome (P complex) at 3.0 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "6ID1",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 33,
+     "res": 2.86,
+     "title": "Cryo-EM structure of a human intron lariat spliceosome after Prp43 loaded (ILS2 complex) a",
+     "strong": true
+    },
+    {
+     "pdb": "6FF7",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 50,
+     "res": 4.5,
+     "title": "human Bact spliceosome core structure",
+     "strong": true
+    },
+    {
+     "pdb": "6ZYM",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 25,
+     "res": 3.4,
+     "title": "Human C Complex Spliceosome - High-resolution CORE",
+     "strong": true
+    },
+    {
+     "pdb": "7ABI",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 49,
+     "res": 8.0,
+     "title": "Human pre-Bact-2 spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "7DVQ",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 42,
+     "res": 2.89,
+     "title": "Cryo-EM Structure of the Activated Human Minor Spliceosome (minor Bact Complex)",
+     "strong": true
+    },
+    {
+     "pdb": "7W5A",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 44,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-II complex",
+     "strong": true
+    },
+    {
+     "pdb": "7W59",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 40,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-I complex",
+     "strong": true
+    },
+    {
+     "pdb": "7W5B",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 45,
+     "res": 4.3,
+     "title": "The cryo-EM structure of human C* complex",
+     "strong": true
+    },
+    {
+     "pdb": "8CH6",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 49,
+     "res": 5.9,
+     "title": "Structure of a late-stage activated spliceosome (BAqr) arrested with a dominant-negative A",
+     "strong": true
+    },
+    {
+     "pdb": "8C6J",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 53,
+     "res": 2.8,
+     "title": "Human spliceosomal PM5 C* complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0S",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 43,
+     "res": 4.2,
+     "title": "The cryo-EM structure of human Bact-II complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0V",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 3.0,
+     "title": "The cryo-EM structure of human post-Bact complex",
+     "strong": true
+    },
+    {
+     "pdb": "8I0W",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 48,
+     "res": 3.4,
+     "title": "The cryo-EM structure of human C complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C19-3_2": {
   "job": "C19-3_2",
@@ -13268,7 +17235,194 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.412,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 15,
+   "n_strong": 11,
+   "methods": {
+    "cryoEM": 14,
+    "X-ray": 1
+   },
+   "best_pdb": "8YJB",
+   "best_cover": 5,
+   "best_method": "cryoEM",
+   "covered": [
+    "IntS1",
+    "IntS11",
+    "IntS12",
+    "IntS4",
+    "IntS9"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7CUN",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.5,
+     "title": "The structure of human Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "7PKS",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 3.6,
+     "title": "Structural basis of Integrator-mediated transcription regulation",
+     "strong": true
+    },
+    {
+     "pdb": "7YCX",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 34,
+     "res": 4.18,
+     "title": "The structure of INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RBX",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 4.1,
+     "title": "Structure of Integrator-PP2A bound to a paused RNA polymerase II-DSIF-NELF-nucleosome comp",
+     "strong": true
+    },
+    {
+     "pdb": "8RBZ",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 21,
+     "res": 3.7,
+     "title": "Structure of Integrator-PP2A-SOSS-CTD post-termination complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RC4",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 3.1,
+     "title": "Structure of Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "8YJB",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 12,
+     "res": 4.1,
+     "title": "Cryo-EM structure of the human DSS1-INTAC complex",
+     "strong": true
+    },
+    {
+     "pdb": "9VD9",
+     "cover": 5,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 38,
+     "res": 4.6,
+     "title": "Cryo-EM structure of the human DSS1-INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "7BFP",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 4,
+     "res": 3.56,
+     "title": "Structure of the Integrator cleavage module with INTS4/9/11",
+     "strong": true
+    },
+    {
+     "pdb": "7BFQ",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 4,
+     "res": 4.15,
+     "title": "Structure of the Integrator cleavage module with extended INTS4 and rigid body docked INTS",
+     "strong": true
+    },
+    {
+     "pdb": "8R2D",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.9,
+     "title": "Integrator cleavage module assembly intermediate",
+     "strong": true
+    },
+    {
+     "pdb": "5V8W",
+     "cover": 3,
+     "frac": 0.4,
+     "method": "X-ray",
+     "year": "2017",
+     "size": 2,
+     "res": 2.1,
+     "title": "Crystal structure of human Integrator IntS9-IntS11 CTD complex",
+     "strong": false
+    },
+    {
+     "pdb": "8R22",
+     "cover": 3,
+     "frac": 0.4,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.9,
+     "title": "INTS9-INTS11-BRAT1-WDR73 complex",
+     "strong": false
+    },
+    {
+     "pdb": "8UIB",
+     "cover": 3,
+     "frac": 0.4,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 3.21,
+     "title": "Structure of the human INTS9-INTS11-BRAT1 complex",
+     "strong": false
+    },
+    {
+     "pdb": "8R23",
+     "cover": 3,
+     "frac": 0.4,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 3.2,
+     "title": "INTS9-INTS11-BRAT1 complex",
+     "strong": false
+    }
+   ]
+  }
  },
  "C14-1-2_3": {
   "job": "C14-1-2_3",
@@ -13284,7 +17438,36 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.369,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 1,
+   "n_strong": 0,
+   "methods": {
+    "cryoEM": 1
+   },
+   "best_pdb": "6WJV",
+   "best_cover": 2,
+   "best_method": "cryoEM",
+   "covered": [
+    "Chrac-14",
+    "Mes4"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6WJV",
+     "cover": 2,
+     "frac": 0.4,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 4,
+     "res": 3.5,
+     "title": "Structure of the Saccharomyces cerevisiae polymerase epsilon holoenzyme",
+     "strong": false
+    }
+   ]
+  }
  },
  "C12-4": {
   "job": "C12-4",
@@ -13300,7 +17483,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.354,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C19-3_3": {
   "job": "C19-3_3",
@@ -13316,7 +17502,194 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.306,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 5,
+   "n_pdb": 15,
+   "n_strong": 14,
+   "methods": {
+    "cryoEM": 14,
+    "X-ray": 1
+   },
+   "best_pdb": "8R2D",
+   "best_cover": 4,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG7044",
+    "IntS11",
+    "IntS4",
+    "IntS9",
+    "asun"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8R2D",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.9,
+     "title": "Integrator cleavage module assembly intermediate",
+     "strong": true
+    },
+    {
+     "pdb": "8RBX",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 4.1,
+     "title": "Structure of Integrator-PP2A bound to a paused RNA polymerase II-DSIF-NELF-nucleosome comp",
+     "strong": true
+    },
+    {
+     "pdb": "8RC4",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 3.1,
+     "title": "Structure of Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RBZ",
+     "cover": 4,
+     "frac": 0.8,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 21,
+     "res": 3.7,
+     "title": "Structure of Integrator-PP2A-SOSS-CTD post-termination complex",
+     "strong": true
+    },
+    {
+     "pdb": "7CUN",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.5,
+     "title": "The structure of human Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "7BFP",
+     "cover": 3,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 4,
+     "res": 3.56,
+     "title": "Structure of the Integrator cleavage module with INTS4/9/11",
+     "strong": true
+    },
+    {
+     "pdb": "7PKS",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 3.6,
+     "title": "Structural basis of Integrator-mediated transcription regulation",
+     "strong": true
+    },
+    {
+     "pdb": "7BFQ",
+     "cover": 3,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 4,
+     "res": 4.15,
+     "title": "Structure of the Integrator cleavage module with extended INTS4 and rigid body docked INTS",
+     "strong": true
+    },
+    {
+     "pdb": "7YCX",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 34,
+     "res": 4.18,
+     "title": "The structure of INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "8R22",
+     "cover": 3,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.9,
+     "title": "INTS9-INTS11-BRAT1-WDR73 complex",
+     "strong": true
+    },
+    {
+     "pdb": "8UIB",
+     "cover": 3,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 3.21,
+     "title": "Structure of the human INTS9-INTS11-BRAT1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "8R23",
+     "cover": 3,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 3.2,
+     "title": "INTS9-INTS11-BRAT1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "8YJB",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 12,
+     "res": 4.1,
+     "title": "Cryo-EM structure of the human DSS1-INTAC complex",
+     "strong": true
+    },
+    {
+     "pdb": "9VD9",
+     "cover": 4,
+     "frac": 0.6,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 38,
+     "res": 4.6,
+     "title": "Cryo-EM structure of the human DSS1-INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "5V8W",
+     "cover": 2,
+     "frac": 0.4,
+     "method": "X-ray",
+     "year": "2017",
+     "size": 2,
+     "res": 2.1,
+     "title": "Crystal structure of human Integrator IntS9-IntS11 CTD complex",
+     "strong": false
+    }
+   ]
+  }
  },
  "C19-6_2": {
   "job": "C19-6_2",
@@ -13331,7 +17704,138 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.418,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 4,
+   "n_pdb": 10,
+   "n_strong": 6,
+   "methods": {
+    "cryoEM": 7,
+    "X-ray": 3
+   },
+   "best_pdb": "6YVV",
+   "best_cover": 4,
+   "best_method": "cryoEM",
+   "covered": [
+    "Cap-D2",
+    "SMC2",
+    "barr",
+    "glu"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6YVV",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 4,
+     "res": 7.5,
+     "title": "Condensin complex from S.cerevisiae ATP-free apo bridged state",
+     "strong": true
+    },
+    {
+     "pdb": "6YVU",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 4,
+     "res": 7.5,
+     "title": "Condensin complex from S.cerevisiae ATP-free apo non-engaged state",
+     "strong": true
+    },
+    {
+     "pdb": "7Q2X",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 3.0,
+     "title": "Cryo-EM structure of clamped S.cerevisiae condensin-DNA complex (Form I)",
+     "strong": true
+    },
+    {
+     "pdb": "7Q2Y",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 3.0,
+     "title": "Cryo-EM structure of clamped S.cerevisiae condensin-DNA complex (form II)",
+     "strong": true
+    },
+    {
+     "pdb": "7QEN",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 3.46,
+     "title": "S.c. Condensin core in DNA- and ATP-bound state",
+     "strong": true
+    },
+    {
+     "pdb": "6YVD",
+     "cover": 3,
+     "frac": 0.75,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 4,
+     "res": 7.6,
+     "title": "Head segment of the S.cerevisiae condensin holocomplex in presence of ATP",
+     "strong": true
+    },
+    {
+     "pdb": "3L51",
+     "cover": 2,
+     "frac": 0.5,
+     "method": "X-ray",
+     "year": "2010",
+     "size": 2,
+     "res": 1.506,
+     "title": "Crystal Structure of the Mouse Condensin Hinge Domain",
+     "strong": false
+    },
+    {
+     "pdb": "4RSI",
+     "cover": 2,
+     "frac": 0.5,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 2,
+     "res": 2.9,
+     "title": "Yeast Smc2-Smc4 hinge domain with extended coiled coils",
+     "strong": false
+    },
+    {
+     "pdb": "4U4P",
+     "cover": 2,
+     "frac": 0.5,
+     "method": "X-ray",
+     "year": "2015",
+     "size": 2,
+     "res": 1.89,
+     "title": "Crystal structure of the human condensin SMC hinge domain heterodimer with short coiled co",
+     "strong": false
+    },
+    {
+     "pdb": "9F5W",
+     "cover": 3,
+     "frac": 0.5,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 6,
+     "res": 7.5,
+     "title": "Human condensin II - M18BP1 complex",
+     "strong": false
+    }
+   ]
+  }
  },
  "C19-3_4": {
   "job": "C19-3_4",
@@ -13346,7 +17850,137 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.382,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 4,
+   "n_pdb": 10,
+   "n_strong": 8,
+   "methods": {
+    "cryoEM": 10
+   },
+   "best_pdb": "8RC4",
+   "best_cover": 4,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG5274",
+    "IntS2",
+    "IntS6",
+    "omd"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8RBX",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 4.1,
+     "title": "Structure of Integrator-PP2A bound to a paused RNA polymerase II-DSIF-NELF-nucleosome comp",
+     "strong": true
+    },
+    {
+     "pdb": "8RBZ",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 21,
+     "res": 3.7,
+     "title": "Structure of Integrator-PP2A-SOSS-CTD post-termination complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RC4",
+     "cover": 4,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 3.1,
+     "title": "Structure of Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "7CUN",
+     "cover": 4,
+     "frac": 0.75,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.5,
+     "title": "The structure of human Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "7PKS",
+     "cover": 4,
+     "frac": 0.75,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 3.6,
+     "title": "Structural basis of Integrator-mediated transcription regulation",
+     "strong": true
+    },
+    {
+     "pdb": "7YCX",
+     "cover": 4,
+     "frac": 0.75,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 34,
+     "res": 4.18,
+     "title": "The structure of INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "9VD9",
+     "cover": 4,
+     "frac": 0.75,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 38,
+     "res": 4.6,
+     "title": "Cryo-EM structure of the human DSS1-INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "8YJB",
+     "cover": 4,
+     "frac": 0.75,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 12,
+     "res": 4.1,
+     "title": "Cryo-EM structure of the human DSS1-INTAC complex",
+     "strong": true
+    },
+    {
+     "pdb": "9EOF",
+     "cover": 2,
+     "frac": 0.5,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 7.7,
+     "title": "Structure of the human INTS5/8/10/15 subcomplex",
+     "strong": false
+    },
+    {
+     "pdb": "9EP4",
+     "cover": 2,
+     "frac": 0.5,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 3.2,
+     "title": "Structure of Integrator subcomplex INTS5/8/15",
+     "strong": false
+    }
+   ]
+  }
  },
  "C29-2": {
   "job": "C29-2",
@@ -13361,7 +17995,82 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.353,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 4,
+   "n_pdb": 5,
+   "n_strong": 4,
+   "methods": {
+    "X-ray": 5
+   },
+   "best_pdb": "1U5T",
+   "best_cover": 3,
+   "best_method": "X-ray",
+   "covered": [
+    "Vps20",
+    "Vps25",
+    "Vps36",
+    "lsn"
+   ],
+   "pdbs": [
+    {
+     "pdb": "1U5T",
+     "cover": 3,
+     "frac": 0.75,
+     "method": "X-ray",
+     "year": "2004",
+     "size": 3,
+     "res": 3.6,
+     "title": "Structure of the ESCRT-II endosomal trafficking complex",
+     "strong": true
+    },
+    {
+     "pdb": "1W7P",
+     "cover": 3,
+     "frac": 0.75,
+     "method": "X-ray",
+     "year": "2004",
+     "size": 3,
+     "res": 3.6,
+     "title": "The crystal structure of endosomal complex ESCRT-II (VPS22/VPS25/VPS36)",
+     "strong": true
+    },
+    {
+     "pdb": "3CUQ",
+     "cover": 3,
+     "frac": 0.75,
+     "method": "X-ray",
+     "year": "2008",
+     "size": 3,
+     "res": 2.61,
+     "title": "Integrated structural and functional model of the human ESCRT-II complex",
+     "strong": true
+    },
+    {
+     "pdb": "2ZME",
+     "cover": 3,
+     "frac": 0.75,
+     "method": "X-ray",
+     "year": "2008",
+     "size": 3,
+     "res": 2.9,
+     "title": "Integrated structural and functional model of the human ESCRT-II complex",
+     "strong": true
+    },
+    {
+     "pdb": "3HTU",
+     "cover": 2,
+     "frac": 0.5,
+     "method": "X-ray",
+     "year": "2009",
+     "size": 2,
+     "res": 2.0,
+     "title": "Crystal structure of the human VPS25-VPS20 subcomplex",
+     "strong": false
+    }
+   ]
+  }
  },
  "C14-8": {
   "job": "C14-8",
@@ -13375,7 +18084,247 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.652,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 26,
+    "X-ray": 4
+   },
+   "best_pdb": "5BO0",
+   "best_cover": 3,
+   "best_method": "X-ray",
+   "covered": [
+    "His3:CG33866",
+    "His4:CG33909",
+    "asf1"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5BO0",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2015",
+     "size": 4,
+     "res": 2.906,
+     "title": "Crystal structure of Human MCM2 HBD and ASF1b chaperoning a histone H3.2-H4 dimer",
+     "strong": true
+    },
+    {
+     "pdb": "8GHM",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 6,
+     "res": 12.0,
+     "title": "Hir1 WD40 domains and Asf1/H3/H4",
+     "strong": true
+    },
+    {
+     "pdb": "8GHN",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 7,
+     "res": 2.96,
+     "title": "Composite model of the yeast Hir Complex with Asf1/H3/H4",
+     "strong": true
+    },
+    {
+     "pdb": "5B0Z",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2016",
+     "size": 5,
+     "res": 1.987,
+     "title": "The crystal structure of the nucleosome containing H3.2, at 1.98 A resolution",
+     "strong": true
+    },
+    {
+     "pdb": "5B40",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2016",
+     "size": 5,
+     "res": 3.33,
+     "title": "The nucleosome structure containing H2B-K120 and H4-K31 monoubiquitinations",
+     "strong": true
+    },
+    {
+     "pdb": "5ZBA",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2018",
+     "size": 4,
+     "res": 3.5,
+     "title": "Crystal structure of Rtt109-Asf1-H3-H4-CoA complex",
+     "strong": true
+    },
+    {
+     "pdb": "7JO9",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 7,
+     "res": 3.3,
+     "title": "1:1 cGAS-nucleosome complex",
+     "strong": true
+    },
+    {
+     "pdb": "6T7B",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 7,
+     "res": 5.1,
+     "title": "Structure of human Sox2 transcription factor in complex with a nucleosome",
+     "strong": true
+    },
+    {
+     "pdb": "6T7C",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 7,
+     "res": 4.0,
+     "title": "Structure of two copies of human Sox11 transcription factor in complex with a nucleosome",
+     "strong": true
+    },
+    {
+     "pdb": "6XJD",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 7,
+     "res": 6.8,
+     "title": "Two mouse cGAS catalytic domain binding to human assembled nucleosome",
+     "strong": true
+    },
+    {
+     "pdb": "7PFE",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 4.4,
+     "title": "Nucleosome 2 of the 4x197 nucleosome array containing H1",
+     "strong": true
+    },
+    {
+     "pdb": "7PF0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 11.0,
+     "title": "Trinucleosome of the 4x177 nucleosome array containing H1",
+     "strong": true
+    },
+    {
+     "pdb": "7XCR",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 8,
+     "res": 2.57,
+     "title": "Cryo-EM structure of Dot1L and H2BK34ub-H3K79Nle nucleosome 1:1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7PF5",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 3.8,
+     "title": "Nucleosome 2 of the 4x187 nucleosome array containing H1",
+     "strong": true
+    },
+    {
+     "pdb": "7Z0O",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 9,
+     "res": 2.8,
+     "title": "Structure of transcription factor UAF in complex with TBP and 35S rRNA promoter DNA",
+     "strong": true
+    },
+    {
+     "pdb": "8GRQ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 9,
+     "res": 3.87,
+     "title": "Cryo-EM structure of BRCA1/BARD1 bound to H2AK127-UbcH5c-Ub nucleosome",
+     "strong": true
+    },
+    {
+     "pdb": "8VWU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 6,
+     "res": 3.0,
+     "title": "Nucleosome containing 8oxoG at SHL4",
+     "strong": true
+    },
+    {
+     "pdb": "9IPU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 10,
+     "res": 4.3,
+     "title": "cryo-EM structure of the RNF168(1-193)/UbcH5c-Ub ubiquitylation module bound to H1.0-K63-U",
+     "strong": true
+    },
+    {
+     "pdb": "8VWS",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 6,
+     "res": 3.1,
+     "title": "Nucleosome containing 8oxoG at SHL-6",
+     "strong": true
+    },
+    {
+     "pdb": "8X7I",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 10,
+     "res": 3.27,
+     "title": "Cryo-EM structures of RNF168/UbcH5c-Ub in complex with H2AK13Ub nucleosomes determined by ",
+     "strong": true
+    }
+   ]
+  }
  },
  "C6-1": {
   "job": "C6-1",
@@ -13389,7 +18338,137 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.643,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 10,
+   "n_strong": 10,
+   "methods": {
+    "cryoEM": 2,
+    "X-ray": 8
+   },
+   "best_pdb": "7NJ0",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Cdk1",
+    "Cks85A",
+    "CycB"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7NJ0",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 4,
+     "res": 3.6,
+     "title": "CryoEM structure of the human Separase-Cdk1-cyclin B1-Cks1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "4YC6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2015",
+     "size": 2,
+     "res": 2.6,
+     "title": "CDK1/CKS1",
+     "strong": true
+    },
+    {
+     "pdb": "4Y72",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2015",
+     "size": 3,
+     "res": 2.3,
+     "title": "Human CDK1/CyclinB1/CKS2 With Inhibitor",
+     "strong": true
+    },
+    {
+     "pdb": "5HQ0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2016",
+     "size": 3,
+     "res": 2.3,
+     "title": "Ternary complex of human proteins CDK1, Cyclin B and CKS2, bound to an inhibitor",
+     "strong": true
+    },
+    {
+     "pdb": "4YC3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2016",
+     "size": 3,
+     "res": 2.7,
+     "title": "CDK1/CyclinB1/CKS2 Apo",
+     "strong": true
+    },
+    {
+     "pdb": "5LQF",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2017",
+     "size": 3,
+     "res": 2.06,
+     "title": "CDK1/CyclinB1/CKS2 in complex with NU6102",
+     "strong": true
+    },
+    {
+     "pdb": "6GU3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2018",
+     "size": 3,
+     "res": 2.65,
+     "title": "CDK1/CyclinB/Cks2 in complex with AZD5438",
+     "strong": true
+    },
+    {
+     "pdb": "6GU4",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2018",
+     "size": 3,
+     "res": 2.73,
+     "title": "CDK1/CyclinB/Cks2 in complex with CGP74514A",
+     "strong": true
+    },
+    {
+     "pdb": "6GU2",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2018",
+     "size": 3,
+     "res": 2.0,
+     "title": "CDK1/CyclinB/Cks2 in complex with Flavopiridol",
+     "strong": true
+    },
+    {
+     "pdb": "9SKQ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 5,
+     "res": 3.4,
+     "title": "Cryo-EM structure of CAK-CDK1-cyclin B1",
+     "strong": true
+    }
+   ]
+  }
  },
  "C18-4-1_2": {
   "job": "C18-4-1_2",
@@ -13403,7 +18482,37 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.617,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 1,
+   "n_strong": 1,
+   "methods": {
+    "cryoEM": 1
+   },
+   "best_pdb": "8GS8",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG6629",
+    "SdhA",
+    "SdhBL"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8GS8",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 4,
+     "res": 2.86,
+     "title": "cryo-EM structure of the human respiratory complex II",
+     "strong": true
+    }
+   ]
+  }
  },
  "C6-10": {
   "job": "C6-10",
@@ -13417,7 +18526,49 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.586,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 2,
+   "n_strong": 2,
+   "methods": {
+    "cryoEM": 1,
+    "X-ray": 1
+   },
+   "best_pdb": "7R1D",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Caf1-55",
+    "mip130",
+    "mip40"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7R1D",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 3,
+     "res": 3.5,
+     "title": "Structure of MuvB complex",
+     "strong": true
+    },
+    {
+     "pdb": "7N40",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2022",
+     "size": 3,
+     "res": 2.55,
+     "title": "Crystal structure of LIN9-RbAp48-LIN37, a MuvB subcomplex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C18-1": {
   "job": "C18-1",
@@ -13431,7 +18582,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.578,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C6-1_2": {
   "job": "C6-1_2",
@@ -13445,7 +18599,47 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.557,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 2,
+   "n_strong": 2,
+   "methods": {
+    "X-ray": 2
+   },
+   "best_pdb": "8H4R",
+   "best_cover": 2,
+   "best_method": "X-ray",
+   "covered": [
+    "Cdk2",
+    "CycE"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8H4R",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2023",
+     "size": 2,
+     "res": 2.75,
+     "title": "The Crystal Structure of CDK3 and CyclinE1 Complex with Dinaciclib from Biortus",
+     "strong": true
+    },
+    {
+     "pdb": "7XQK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2023",
+     "size": 2,
+     "res": 2.25,
+     "title": "The Crystal Structure of CDK3 and CyclinE1 Complex from Biortus.",
+     "strong": true
+    }
+   ]
+  }
  },
  "C6-1_3": {
   "job": "C6-1_3",
@@ -13459,7 +18653,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.557,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C19-1": {
   "job": "C19-1",
@@ -13473,7 +18670,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.546,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 20,
+   "n_strong": 20,
+   "methods": {
+    "cryoEM": 19,
+    "X-ray": 1
+   },
+   "best_pdb": "8UBT",
+   "best_cover": 2,
+   "best_method": "cryoEM",
+   "covered": [
+    "Cul1",
+    "SkpA"
+   ],
+   "pdbs": [
+    {
+     "pdb": "1LDK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2002",
+     "size": 5,
+     "res": 3.1,
+     "title": "Structure of the Cul1-Rbx1-Skp1-F boxSkp2 SCF Ubiquitin Ligase Complex",
+     "strong": true
+    },
+    {
+     "pdb": "6WCQ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 4,
+     "res": 8.5,
+     "title": "Structure of a substrate-bound DQC ubiquitin ligase",
+     "strong": true
+    },
+    {
+     "pdb": "6TTU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 3.7,
+     "title": "Ubiquitin Ligation to substrate by a cullin-RING E3 ligase at 3.7A resolution: NEDD8-CUL1-",
+     "strong": true
+    },
+    {
+     "pdb": "7B5M",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 8,
+     "res": 3.91,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    },
+    {
+     "pdb": "7B5L",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 12,
+     "res": 3.8,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: NEDD8-CUL1",
+     "strong": true
+    },
+    {
+     "pdb": "7B5R",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 7,
+     "res": 3.8,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    },
+    {
+     "pdb": "7ZBZ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.1,
+     "title": "CAND1 delhairpin-SCF-SKP2 CAND1 partly engaged SCF partly rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8CDK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.32,
+     "title": "CAND1 b-hairpin++-SCF-SKP2 CAND1 partly engaged SCF partly rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8OR0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.1,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8OR4",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.8,
+     "title": "Partially dissociated CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8OR3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 6,
+     "res": 2.9,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-DCNL1",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8T",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.0,
+     "title": "CAND1-SCF-SKP2 CAND1 engaged SCF rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8CDJ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.4,
+     "title": "CAND1 b-hairpin++-SCF-SKP2 CAND1 rolling SCF engaged",
+     "strong": true
+    },
+    {
+     "pdb": "7ZBW",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.5,
+     "title": "CAND1-SCF-SKP2 CAND1 rolling-2 SCF engaged",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8V",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 2.7,
+     "title": "CAND1-SCF-SKP2 (SKP1deldel) CAND1 engaged SCF rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8UBU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 5,
+     "res": 4.6,
+     "title": "Cryo-EM structure of dimeric SCF-FBXL17-BACH1BTB E3 ligase complex close conformation",
+     "strong": true
+    },
+    {
+     "pdb": "8UBT",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.1,
+     "title": "Structure of SCF-FBXL17-BACH1BTB E3 ligase complex",
+     "strong": true
+    },
+    {
+     "pdb": "9JKB",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.93,
+     "title": "Cryo-EM structure of the CUL1-RBX1-SKP1-FBXO4 SCF ubiquition ligase complex",
+     "strong": true
+    },
+    {
+     "pdb": "8UA6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.9,
+     "title": "Cryo-EM Structure of SCF-FBOX22-BACH1BTB",
+     "strong": true
+    },
+    {
+     "pdb": "9KBD",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 4,
+     "res": 3.7,
+     "title": "Cryo-EM structure of the CUL1-RBX1-SKP1-FBXO3 SCF ubiquition ligase complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C23-1_3": {
   "job": "C23-1_3",
@@ -13487,7 +18923,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.542,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "8IC3",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "ND-20",
+    "ND-23",
+    "ND1"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6G72",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 44,
+     "res": 3.9,
+     "title": "Mouse mitochondrial complex I in the deactive state",
+     "strong": true
+    },
+    {
+     "pdb": "6G2J",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 44,
+     "res": 3.3,
+     "title": "Mouse mitochondrial complex I in the active state",
+     "strong": true
+    },
+    {
+     "pdb": "6ZR2",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 44,
+     "res": 3.1,
+     "title": "Cryo-EM structure of respiratory complex I in the active state from Mus musculus at 3.1 A",
+     "strong": true
+    },
+    {
+     "pdb": "7B93",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 44,
+     "res": 3.04,
+     "title": "Cryo-EM structure of mitochondrial complex I from Mus musculus inhibited by IACS-2858 at 3",
+     "strong": true
+    },
+    {
+     "pdb": "7AK5",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 44,
+     "res": 3.17,
+     "title": "Cryo-EM structure of respiratory complex I in the deactive state from Mus musculus at 3.2 ",
+     "strong": true
+    },
+    {
+     "pdb": "8OM1",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 44,
+     "res": 2.39,
+     "title": "Mitochondrial complex I from Mus musculus in the active state",
+     "strong": true
+    },
+    {
+     "pdb": "8CA5",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 42,
+     "res": 3.9,
+     "title": "Cryo-EM structure NDUFS4 knockout complex I from Mus musculus heart (Class 3).",
+     "strong": true
+    },
+    {
+     "pdb": "8IC3",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.2,
+     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type I, PERK -/- mouse unde",
+     "strong": true
+    },
+    {
+     "pdb": "8XNT",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 4.1,
+     "title": "Respiratory complex Peripheral Arm of CI, close form C, focus-refined map of type IB, Wild",
+     "strong": true
+    },
+    {
+     "pdb": "8XNY",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 4.1,
+     "title": "Respiratory complex Peripheral Arm of CI, open form B, focus-refined map of type II, Wild ",
+     "strong": true
+    },
+    {
+     "pdb": "8XNN",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.6,
+     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type I, Wild t",
+     "strong": true
+    },
+    {
+     "pdb": "8IB4",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 4.3,
+     "title": "Respiratory complex CI:CIII2, type IA, Wild type mouse under cold temperature",
+     "strong": true
+    },
+    {
+     "pdb": "8IAP",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.2,
+     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type I, Wild type mouse und",
+     "strong": true
+    },
+    {
+     "pdb": "8IB9",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 4.3,
+     "title": "Respiratory complex CI:CIII2, type IB, Wild type mouse under cold temperature",
+     "strong": true
+    },
+    {
+     "pdb": "8IAO",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 4.2,
+     "title": "Respiratory complex CI:CIII2, type I, Wild type mouse under thermoneutral temperature",
+     "strong": true
+    },
+    {
+     "pdb": "8XNX",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.5,
+     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type II, Wild ",
+     "strong": true
+    },
+    {
+     "pdb": "8RGP",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 44,
+     "res": 3.0,
+     "title": "Closed Complex I from murine brain",
+     "strong": true
+    },
+    {
+     "pdb": "8XNL",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.1,
+     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, Wild ",
+     "strong": true
+    },
+    {
+     "pdb": "8RGR",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 44,
+     "res": 2.9,
+     "title": "Closed Complex I from murine liver",
+     "strong": true
+    },
+    {
+     "pdb": "8XNQ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 23,
+     "res": 3.7,
+     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type IA, Wild ",
+     "strong": true
+    }
+   ]
+  }
  },
  "C19-1_2": {
   "job": "C19-1_2",
@@ -13501,7 +19176,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.542,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 20,
+   "n_strong": 20,
+   "methods": {
+    "cryoEM": 19,
+    "X-ray": 1
+   },
+   "best_pdb": "8UBT",
+   "best_cover": 2,
+   "best_method": "cryoEM",
+   "covered": [
+    "Cul1",
+    "SkpB"
+   ],
+   "pdbs": [
+    {
+     "pdb": "1LDK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2002",
+     "size": 5,
+     "res": 3.1,
+     "title": "Structure of the Cul1-Rbx1-Skp1-F boxSkp2 SCF Ubiquitin Ligase Complex",
+     "strong": true
+    },
+    {
+     "pdb": "6WCQ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 4,
+     "res": 8.5,
+     "title": "Structure of a substrate-bound DQC ubiquitin ligase",
+     "strong": true
+    },
+    {
+     "pdb": "6TTU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 3.7,
+     "title": "Ubiquitin Ligation to substrate by a cullin-RING E3 ligase at 3.7A resolution: NEDD8-CUL1-",
+     "strong": true
+    },
+    {
+     "pdb": "7B5M",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 8,
+     "res": 3.91,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    },
+    {
+     "pdb": "7B5L",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 12,
+     "res": 3.8,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: NEDD8-CUL1",
+     "strong": true
+    },
+    {
+     "pdb": "7B5R",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 7,
+     "res": 3.8,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    },
+    {
+     "pdb": "7ZBZ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.1,
+     "title": "CAND1 delhairpin-SCF-SKP2 CAND1 partly engaged SCF partly rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8CDK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.32,
+     "title": "CAND1 b-hairpin++-SCF-SKP2 CAND1 partly engaged SCF partly rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8OR0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.1,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8OR4",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.8,
+     "title": "Partially dissociated CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8OR3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 6,
+     "res": 2.9,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-DCNL1",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8T",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.0,
+     "title": "CAND1-SCF-SKP2 CAND1 engaged SCF rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8CDJ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.4,
+     "title": "CAND1 b-hairpin++-SCF-SKP2 CAND1 rolling SCF engaged",
+     "strong": true
+    },
+    {
+     "pdb": "7ZBW",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.5,
+     "title": "CAND1-SCF-SKP2 CAND1 rolling-2 SCF engaged",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8V",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 2.7,
+     "title": "CAND1-SCF-SKP2 (SKP1deldel) CAND1 engaged SCF rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8UBU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 5,
+     "res": 4.6,
+     "title": "Cryo-EM structure of dimeric SCF-FBXL17-BACH1BTB E3 ligase complex close conformation",
+     "strong": true
+    },
+    {
+     "pdb": "8UBT",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.1,
+     "title": "Structure of SCF-FBXL17-BACH1BTB E3 ligase complex",
+     "strong": true
+    },
+    {
+     "pdb": "9JKB",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.93,
+     "title": "Cryo-EM structure of the CUL1-RBX1-SKP1-FBXO4 SCF ubiquition ligase complex",
+     "strong": true
+    },
+    {
+     "pdb": "8UA6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.9,
+     "title": "Cryo-EM Structure of SCF-FBOX22-BACH1BTB",
+     "strong": true
+    },
+    {
+     "pdb": "9KBD",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 4,
+     "res": 3.7,
+     "title": "Cryo-EM structure of the CUL1-RBX1-SKP1-FBXO3 SCF ubiquition ligase complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C6-1_4": {
   "job": "C6-1_4",
@@ -13515,7 +19429,148 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.528,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 11,
+   "n_strong": 11,
+   "methods": {
+    "cryoEM": 8,
+    "X-ray": 3
+   },
+   "best_pdb": "4YC6",
+   "best_cover": 2,
+   "best_method": "X-ray",
+   "covered": [
+    "Cdk1",
+    "Cks85A",
+    "Skp2"
+   ],
+   "pdbs": [
+    {
+     "pdb": "2ASS",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2005",
+     "size": 3,
+     "res": 3.0,
+     "title": "Crystal structure of the Skp1-Skp2-Cks1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "2AST",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2005",
+     "size": 4,
+     "res": 2.3,
+     "title": "Crystal structure of Skp1-Skp2-Cks1 in complex with a p27 peptide",
+     "strong": true
+    },
+    {
+     "pdb": "4YC6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2015",
+     "size": 2,
+     "res": 2.6,
+     "title": "CDK1/CKS1",
+     "strong": true
+    },
+    {
+     "pdb": "7NJ0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 4,
+     "res": 3.6,
+     "title": "CryoEM structure of the human Separase-Cdk1-cyclin B1-Cks1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7B5M",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 8,
+     "res": 3.91,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    },
+    {
+     "pdb": "7B5L",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 12,
+     "res": 3.8,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: NEDD8-CUL1",
+     "strong": true
+    },
+    {
+     "pdb": "7B5R",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 7,
+     "res": 3.8,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    },
+    {
+     "pdb": "8OR4",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.8,
+     "title": "Partially dissociated CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8BYL",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 4,
+     "res": 3.5,
+     "title": "Cryo-EM structure of SKP1-SKP2-CKS1 from the SCFSKP2 E3 ligase complex",
+     "strong": true
+    },
+    {
+     "pdb": "8OR0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.1,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8BYA",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.38,
+     "title": "Cryo-EM structure of SKP1-SKP2-CKS1-CDK2-CyclinA-p27KIP1 Complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C9-1": {
   "job": "C9-1",
@@ -13529,7 +19584,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.525,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C7-7": {
   "job": "C7-7",
@@ -13543,7 +19601,159 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.525,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 12,
+   "n_strong": 12,
+   "methods": {
+    "cryoEM": 10,
+    "X-ray": 2
+   },
+   "best_pdb": "5IJN",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Nup54",
+    "Nup58",
+    "Nup62"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5IJN",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 6,
+     "res": 21.4,
+     "title": "Composite structure of the inner ring of the human nuclear pore complex (32 copies of Nup2",
+     "strong": true
+    },
+    {
+     "pdb": "5IJO",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 7,
+     "res": 21.4,
+     "title": "Alternative composite structure of the inner ring of the human nuclear pore complex (16 co",
+     "strong": true
+    },
+    {
+     "pdb": "7PER",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 6,
+     "res": 35.0,
+     "title": "Model of the inner ring of the human nuclear pore complex",
+     "strong": true
+    },
+    {
+     "pdb": "7WOO",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 8,
+     "res": 3.71,
+     "title": "Cryo-EM structure of the inner ring protomer of the Saccharomyces cerevisiae nuclear pore ",
+     "strong": true
+    },
+    {
+     "pdb": "7N85",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 11,
+     "res": 7.6,
+     "title": "Inner ring spoke from the isolated yeast NPC",
+     "strong": true
+    },
+    {
+     "pdb": "7R5K",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 25,
+     "res": 12.0,
+     "title": "Human nuclear pore complex (constricted)",
+     "strong": true
+    },
+    {
+     "pdb": "7WOT",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 8,
+     "res": 3.73,
+     "title": "Cryo-EM structure of the inner ring monomer of the Saccharomyces cerevisiae nuclear pore c",
+     "strong": true
+    },
+    {
+     "pdb": "7R5J",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 25,
+     "res": 50.0,
+     "title": "Human nuclear pore complex (dilated)",
+     "strong": true
+    },
+    {
+     "pdb": "7N9F",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 21,
+     "res": 37.0,
+     "title": "Structure of the in situ yeast NPC",
+     "strong": true
+    },
+    {
+     "pdb": "8TJ5",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 11,
+     "res": 6.6,
+     "title": "Inner spoke ring of the yeast NPC",
+     "strong": true
+    },
+    {
+     "pdb": "4JO7",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 2,
+     "res": 1.752,
+     "title": "Crystal structure of the human Nup49CCS2+3* Nup57CCS3* complex with 2:2 stoichiometry",
+     "strong": true
+    },
+    {
+     "pdb": "4JO9",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 2,
+     "res": 2.499,
+     "title": "Crystal structure of the human Nup49CCS2+3* Nup57CCS3* complex 1:2 stoichiometry",
+     "strong": true
+    }
+   ]
+  }
  },
  "C14-2-1_2": {
   "job": "C14-2-1_2",
@@ -13557,7 +19767,137 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.503,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 10,
+   "n_strong": 10,
+   "methods": {
+    "NMR": 1,
+    "cryoEM": 7,
+    "X-ray": 2
+   },
+   "best_pdb": "2JSS",
+   "best_cover": 2,
+   "best_method": "NMR",
+   "covered": [
+    "His2Av",
+    "His2B:CG33910"
+   ],
+   "pdbs": [
+    {
+     "pdb": "2JSS",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "NMR",
+     "year": "2008",
+     "size": 2,
+     "res": null,
+     "title": "NMR structure of chaperone Chz1 complexed with histone H2A.Z-H2B",
+     "strong": true
+    },
+    {
+     "pdb": "4M6B",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 2,
+     "res": 1.78,
+     "title": "Crystal structure of yeast Swr1-Z domain in complex with H2A.Z-H2B dimer",
+     "strong": true
+    },
+    {
+     "pdb": "6AE8",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2019",
+     "size": 2,
+     "res": 1.65,
+     "title": "Structure insight into histone chaperone Chz1-mediated H2A.Z recognition and replacement",
+     "strong": true
+    },
+    {
+     "pdb": "8QZ0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 3.8,
+     "title": "SWR1-hexasome-dimer complex",
+     "strong": true
+    },
+    {
+     "pdb": "8X30",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 4.3,
+     "title": "Structure of piccolo NuA4 and H2A.Z nucleosome 2:1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "8X31",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 6.2,
+     "title": "The piccolo NuA4 bound to the H2A.Z nucleosome complex with Ac-CoA at resetting state",
+     "strong": true
+    },
+    {
+     "pdb": "8X32",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 4.4,
+     "title": "The piccolo NuA4 bound to the H2A.Z nucleosome-H4KQ Complex with Ac-CoA at resetting state",
+     "strong": true
+    },
+    {
+     "pdb": "8X2Y",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 4.1,
+     "title": "The class1 of piccolo NuA4 bound to the H2A.Z nucleosome complex at harboring state",
+     "strong": true
+    },
+    {
+     "pdb": "8X2X",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 3.8,
+     "title": "The piccolo NuA4 bound to the H2A.Z nucleosome complex at pre-H4-acetylation state",
+     "strong": true
+    },
+    {
+     "pdb": "8X2Z",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 9,
+     "res": 3.9,
+     "title": "The class2 of piccolo NuA4 bound to the H2A.Z nucleosome complex at harboring state",
+     "strong": true
+    }
+   ]
+  }
  },
  "C15-3": {
   "job": "C15-3",
@@ -13571,7 +19911,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.5,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 29,
+    "?": 1
+   },
+   "best_pdb": "8UIK",
+   "best_cover": 2,
+   "best_method": "?",
+   "covered": [
+    "RpS17",
+    "RpS21"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8UIK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "?",
+     "year": "",
+     "size": 0,
+     "res": null,
+     "title": "",
+     "strong": true
+    },
+    {
+     "pdb": "6G53",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 37,
+     "res": 4.5,
+     "title": "Cryo-EM structure of a late human pre-40S ribosomal subunit - State E",
+     "strong": true
+    },
+    {
+     "pdb": "6G4S",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 33,
+     "res": 4.0,
+     "title": "Cryo-EM structure of a late human pre-40S ribosomal subunit - State B",
+     "strong": true
+    },
+    {
+     "pdb": "6GQB",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 84,
+     "res": 3.9,
+     "title": "Cryo-EM reconstruction of yeast 80S ribosome in complex with mRNA, tRNA and eEF2 (GDP+AlF4",
+     "strong": true
+    },
+    {
+     "pdb": "6GQV",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 84,
+     "res": 4.0,
+     "title": "Cryo-EM recosntruction of yeast 80S ribosome in complex with mRNA, tRNA and eEF2 (GMPPCP)",
+     "strong": true
+    },
+    {
+     "pdb": "6IP5",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 83,
+     "res": 3.9,
+     "title": "Cryo-EM structure of the CMV-stalled human 80S ribosome (Structure ii)",
+     "strong": true
+    },
+    {
+     "pdb": "6IP6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 83,
+     "res": 4.5,
+     "title": "Cryo-EM structure of the CMV-stalled human 80S ribosome with HCV IRES (Structure iii)",
+     "strong": true
+    },
+    {
+     "pdb": "6TB3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 83,
+     "res": 2.8,
+     "title": "yeast 80S ribosome in complex with the Not5 subunit of the CCR4-NOT complex",
+     "strong": true
+    },
+    {
+     "pdb": "7A09",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 54,
+     "res": 3.5,
+     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State III",
+     "strong": true
+    },
+    {
+     "pdb": "6SNT",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 81,
+     "res": 2.8,
+     "title": "Yeast 80S ribosome stalled on SDD1 mRNA.",
+     "strong": true
+    },
+    {
+     "pdb": "6ZXH",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 36,
+     "res": 2.7,
+     "title": "Cryo-EM structure of a late human pre-40S ribosomal subunit - State H2",
+     "strong": true
+    },
+    {
+     "pdb": "6ZVJ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 50,
+     "res": 3.8,
+     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State II",
+     "strong": true
+    },
+    {
+     "pdb": "6ZMO",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 3.1,
+     "title": "SARS-CoV-2 Nsp1 bound to the human LYAR-80S-eEF1a ribosome complex",
+     "strong": true
+    },
+    {
+     "pdb": "7A1G",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 36,
+     "res": 3.0,
+     "title": "Structure of a crosslinked yeast ABCE1-bound 43S pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "6ZOK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 22,
+     "res": 2.8,
+     "title": "SARS-CoV-2-Nsp1-40S complex, focused on body",
+     "strong": true
+    },
+    {
+     "pdb": "6ZXE",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 37,
+     "res": 3.0,
+     "title": "Cryo-EM structure of a late human pre-40S ribosomal subunit - State F2",
+     "strong": true
+    },
+    {
+     "pdb": "8G5Z",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 87,
+     "res": 2.64,
+     "title": "mRNA decoding in human is kinetically and structurally distinct from bacteria (GA state)",
+     "strong": true
+    },
+    {
+     "pdb": "8G60",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 86,
+     "res": 2.54,
+     "title": "mRNA decoding in human is kinetically and structurally distinct from bacteria (CR state)",
+     "strong": true
+    },
+    {
+     "pdb": "8K2C",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 86,
+     "res": 2.4,
+     "title": "Cryo-EM structure of the human 80S ribosome with Tigecycline",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 50,
+     "res": 2.9,
+     "title": "Structure of human 48S translation initiation complex with initiator tRNA, eIF1A and eIF3 ",
+     "strong": true
+    }
+   ]
+  }
  },
  "C6-1_5": {
   "job": "C6-1_5",
@@ -13585,7 +20164,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.495,
   "best_model": 2,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C15-5": {
   "job": "C15-5",
@@ -13599,7 +20181,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.493,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "9GMO",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "RpL18",
+    "RpL4",
+    "RpL7"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5AJ0",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 85,
+     "res": 3.5,
+     "title": "Cryo electron microscopy of actively translating human polysomes (POST state).",
+     "strong": true
+    },
+    {
+     "pdb": "5T2C",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 81,
+     "res": 3.6,
+     "title": "CryoEM structure of the human ribosome at 3.6 Angstrom resolution",
+     "strong": true
+    },
+    {
+     "pdb": "6OLZ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 82,
+     "res": 3.9,
+     "title": "Human ribosome nascent chain complex (PCSK9-RNC) stalled by a drug-like molecule with PP t",
+     "strong": true
+    },
+    {
+     "pdb": "6IP8",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 84,
+     "res": 3.9,
+     "title": "Cryo-EM structure of the HCV IRES dependently initiated CMV-stalled 80S ribosome (Structur",
+     "strong": true
+    },
+    {
+     "pdb": "6OLF",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 83,
+     "res": 3.9,
+     "title": "Human ribosome nascent chain complex (CDH1-RNC) stalled by a drug-like molecule with AA an",
+     "strong": true
+    },
+    {
+     "pdb": "6Z6M",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 84,
+     "res": 3.1,
+     "title": "Cryo-EM structure of human 80S ribosomes bound to EBP1, eEF2 and SERBP1",
+     "strong": true
+    },
+    {
+     "pdb": "6Y57",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 82,
+     "res": 3.5,
+     "title": "Structure of human ribosome in hybrid-PRE state",
+     "strong": true
+    },
+    {
+     "pdb": "6ZM7",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 86,
+     "res": 2.7,
+     "title": "SARS-CoV-2 Nsp1 bound to the human CCDC124-80S-EBP1 ribosome complex",
+     "strong": true
+    },
+    {
+     "pdb": "6Z6L",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 83,
+     "res": 3.0,
+     "title": "Cryo-EM structure of human CCDC124 bound to 80S ribosomes",
+     "strong": true
+    },
+    {
+     "pdb": "6ZME",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 88,
+     "res": 3.0,
+     "title": "SARS-CoV-2 Nsp1 bound to the human CCDC124-80S-eERF1 ribosome complex",
+     "strong": true
+    },
+    {
+     "pdb": "8FL6",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 56,
+     "res": 2.62,
+     "title": "Human nuclear pre-60S ribosomal subunit (State J1)",
+     "strong": true
+    },
+    {
+     "pdb": "8G5Z",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 87,
+     "res": 2.64,
+     "title": "mRNA decoding in human is kinetically and structurally distinct from bacteria (GA state)",
+     "strong": true
+    },
+    {
+     "pdb": "8G60",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 86,
+     "res": 2.54,
+     "title": "mRNA decoding in human is kinetically and structurally distinct from bacteria (CR state)",
+     "strong": true
+    },
+    {
+     "pdb": "8INE",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 58,
+     "res": 3.2,
+     "title": "human nuclear pre-60S ribosomal particle - State G'",
+     "strong": true
+    },
+    {
+     "pdb": "8IE3",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 48,
+     "res": 3.3,
+     "title": "human nuclear pre-60S ribosomal particle - State E",
+     "strong": true
+    },
+    {
+     "pdb": "8IPD",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 52,
+     "res": 3.2,
+     "title": "human nuclear pre-60S ribosomal particle - State C",
+     "strong": true
+    },
+    {
+     "pdb": "8FKP",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 47,
+     "res": 2.85,
+     "title": "Human nucleolar pre-60S ribosomal subunit (State A1)",
+     "strong": true
+    },
+    {
+     "pdb": "8FKY",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 59,
+     "res": 2.67,
+     "title": "Human nucleolar pre-60S ribosomal subunit (State F)",
+     "strong": true
+    },
+    {
+     "pdb": "8IPX",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 58,
+     "res": 4.3,
+     "title": "human nuclear pre-60S ribosomal particle - State C'",
+     "strong": true
+    },
+    {
+     "pdb": "8K2C",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 86,
+     "res": 2.4,
+     "title": "Cryo-EM structure of the human 80S ribosome with Tigecycline",
+     "strong": true
+    }
+   ]
+  }
  },
  "C8-9_2": {
   "job": "C8-9_2",
@@ -13613,7 +20434,69 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.485,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 4,
+   "n_strong": 4,
+   "methods": {
+    "cryoEM": 4
+   },
+   "best_pdb": "7KTR",
+   "best_cover": 2,
+   "best_method": "cryoEM",
+   "covered": [
+    "Taf9",
+    "wda"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6T9K",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 11,
+     "res": 3.3,
+     "title": "SAGA Core module",
+     "strong": true
+    },
+    {
+     "pdb": "6T9I",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.9,
+     "title": "cryo-EM structure of transcription coactivator SAGA",
+     "strong": true
+    },
+    {
+     "pdb": "7KTS",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 13,
+     "res": 19.09,
+     "title": "Negative stain EM structure of the human SAGA coactivator complex (TRRAP, core, splicing m",
+     "strong": true
+    },
+    {
+     "pdb": "7KTR",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 11,
+     "res": 2.93,
+     "title": "Cryo-EM structure of the human SAGA coactivator complex (TRRAP, core)",
+     "strong": true
+    }
+   ]
+  }
  },
  "C10-2": {
   "job": "C10-2",
@@ -13627,7 +20510,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.485,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C12-5": {
   "job": "C12-5",
@@ -13641,7 +20527,69 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.467,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 4,
+   "n_strong": 4,
+   "methods": {
+    "X-ray": 4
+   },
+   "best_pdb": "1HR7",
+   "best_cover": 2,
+   "best_method": "X-ray",
+   "covered": [
+    "CG8728",
+    "UQCR-C1"
+   ],
+   "pdbs": [
+    {
+     "pdb": "1HR8",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2001",
+     "size": 3,
+     "res": 2.7,
+     "title": "Yeast Mitochondrial Processing Peptidase beta-E73Q Mutant Complexed with Cytochrome C Oxid",
+     "strong": true
+    },
+    {
+     "pdb": "1HR9",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2001",
+     "size": 3,
+     "res": 3.01,
+     "title": "Yeast Mitochondrial Processing Peptidase beta-E73Q Mutant Complexed with Malate Dehydrogen",
+     "strong": true
+    },
+    {
+     "pdb": "1HR7",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2001",
+     "size": 2,
+     "res": 2.55,
+     "title": "Yeast Mitochondrial Processing Peptidase beta-E73Q Mutant",
+     "strong": true
+    },
+    {
+     "pdb": "1HR6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2001",
+     "size": 2,
+     "res": 2.5,
+     "title": "Yeast Mitochondrial Processing Peptidase",
+     "strong": true
+    }
+   ]
+  }
  },
  "C21-1-1_3": {
   "job": "C21-1-1_3",
@@ -13655,7 +20603,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.465,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "7ABF",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Bx42",
+    "Prp8",
+    "Tango4"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5LJ5",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 35,
+     "res": 10.0,
+     "title": "Overall structure of the yeast spliceosome immediately after branching.",
+     "strong": true
+    },
+    {
+     "pdb": "5LJ3",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 31,
+     "res": 3.8,
+     "title": "Structure of the core of the yeast spliceosome immediately after branching",
+     "strong": true
+    },
+    {
+     "pdb": "5LQW",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 31,
+     "res": 5.8,
+     "title": "yeast activated spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "5GMK",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 35,
+     "res": 3.4,
+     "title": "Cryo-EM structure of the Catalytic Step I spliceosome (C complex) at 3.4 angstrom resoluti",
+     "strong": true
+    },
+    {
+     "pdb": "5GM6",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 43,
+     "res": 3.5,
+     "title": "Cryo-EM structure of the activated spliceosome (Bact complex) at 3.5 angstrom resolution",
+     "strong": true
+    },
+    {
+     "pdb": "5XJC",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 40,
+     "res": 3.6,
+     "title": "Cryo-EM structure of the human spliceosome just prior to exon ligation at 3.6 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "5MQF",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 35,
+     "res": 5.9,
+     "title": "Cryo-EM structure of a human spliceosome activated for step 2 of splicing (C* complex)",
+     "strong": true
+    },
+    {
+     "pdb": "5MPS",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2017",
+     "size": 30,
+     "res": 3.85,
+     "title": "Structure of a spliceosome remodeled for exon ligation",
+     "strong": true
+    },
+    {
+     "pdb": "5Z58",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 39,
+     "res": 4.9,
+     "title": "Cryo-EM structure of a human activated spliceosome (early Bact) at 4.9 angstrom.",
+     "strong": true
+    },
+    {
+     "pdb": "6FF4",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 28,
+     "res": 3.4,
+     "title": "human Bact spliceosome core structure",
+     "strong": true
+    },
+    {
+     "pdb": "6BK8",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 36,
+     "res": 3.3,
+     "title": "S. cerevisiae spliceosomal post-catalytic P complex",
+     "strong": true
+    },
+    {
+     "pdb": "5Y88",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 34,
+     "res": 3.46,
+     "title": "Cryo-EM structure of the intron-lariat spliceosome ready for disassembly from S.cerevisiae",
+     "strong": true
+    },
+    {
+     "pdb": "6J6H",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 31,
+     "res": 3.6,
+     "title": "Cryo-EM structure of the yeast B*-a1 complex at an average resolution of 3.6 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "6QDV",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 44,
+     "res": 3.3,
+     "title": "Human post-catalytic P complex spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "6J6Q",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2019",
+     "size": 32,
+     "res": 3.7,
+     "title": "Cryo-EM structure of the yeast B*-b2 complex at an average resolution of 3.7 angstrom",
+     "strong": true
+    },
+    {
+     "pdb": "7ABF",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 15,
+     "res": 3.9,
+     "title": "Human pre-Bact-1 spliceosome core structure",
+     "strong": true
+    },
+    {
+     "pdb": "7AAV",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 17,
+     "res": 4.2,
+     "title": "Human pre-Bact-2 spliceosome core structure",
+     "strong": true
+    },
+    {
+     "pdb": "7ABG",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 51,
+     "res": 7.8,
+     "title": "Human pre-Bact-1 spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "7ABI",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 49,
+     "res": 8.0,
+     "title": "Human pre-Bact-2 spliceosome",
+     "strong": true
+    },
+    {
+     "pdb": "7W5A",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 44,
+     "res": 3.6,
+     "title": "The cryo-EM structure of human pre-C*-II complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C19-5_2": {
   "job": "C19-5_2",
@@ -13669,7 +20856,247 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.453,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 27,
+   "n_strong": 27,
+   "methods": {
+    "cryoEM": 20,
+    "X-ray": 7
+   },
+   "best_pdb": "7Z8R",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Cand1",
+    "Cul1",
+    "Roc1b"
+   ],
+   "pdbs": [
+    {
+     "pdb": "1U6G",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "X-ray",
+     "year": "2004",
+     "size": 3,
+     "res": 3.1,
+     "title": "Crystal Structure of The Cand1-Cul1-Roc1 Complex",
+     "strong": true
+    },
+    {
+     "pdb": "8OR4",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.8,
+     "title": "Partially dissociated CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "7ZBZ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.1,
+     "title": "CAND1 delhairpin-SCF-SKP2 CAND1 partly engaged SCF partly rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8CDJ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.4,
+     "title": "CAND1 b-hairpin++-SCF-SKP2 CAND1 rolling SCF engaged",
+     "strong": true
+    },
+    {
+     "pdb": "8OR3",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 6,
+     "res": 2.9,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-DCNL1",
+     "strong": true
+    },
+    {
+     "pdb": "7ZBW",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.5,
+     "title": "CAND1-SCF-SKP2 CAND1 rolling-2 SCF engaged",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8R",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 3,
+     "res": 2.7,
+     "title": "CAND1-CUL1-RBX1",
+     "strong": true
+    },
+    {
+     "pdb": "8CDK",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.32,
+     "title": "CAND1 b-hairpin++-SCF-SKP2 CAND1 partly engaged SCF partly rocked",
+     "strong": true
+    },
+    {
+     "pdb": "8OR0",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 7,
+     "res": 3.1,
+     "title": "CAND1-CUL1-RBX1-SKP1-SKP2-CKS1-CDK2",
+     "strong": true
+    },
+    {
+     "pdb": "8OR2",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 4,
+     "res": 3.2,
+     "title": "CAND1-CUL1-RBX1-DCNL1",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8V",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 2.7,
+     "title": "CAND1-SCF-SKP2 (SKP1deldel) CAND1 engaged SCF rocked",
+     "strong": true
+    },
+    {
+     "pdb": "7Z8T",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.0,
+     "title": "CAND1-SCF-SKP2 CAND1 engaged SCF rocked",
+     "strong": true
+    },
+    {
+     "pdb": "1LDJ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2002",
+     "size": 2,
+     "res": 3.0,
+     "title": "Structure of the Cul1-Rbx1-Skp1-F boxSkp2 SCF Ubiquitin Ligase Complex",
+     "strong": true
+    },
+    {
+     "pdb": "1LDK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2002",
+     "size": 5,
+     "res": 3.1,
+     "title": "Structure of the Cul1-Rbx1-Skp1-F boxSkp2 SCF Ubiquitin Ligase Complex",
+     "strong": true
+    },
+    {
+     "pdb": "4A0C",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2011",
+     "size": 3,
+     "res": 3.8,
+     "title": "Structure of the CAND1-CUL4B-RBX1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "3RTR",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2011",
+     "size": 2,
+     "res": 3.21,
+     "title": "A RING E3-substrate complex poised for ubiquitin-like protein transfer: structural insight",
+     "strong": true
+    },
+    {
+     "pdb": "4F52",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2012",
+     "size": 3,
+     "res": 3.0,
+     "title": "Structure of a Glomulin-RBX1-CUL1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "4P5O",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2014",
+     "size": 5,
+     "res": 3.1071,
+     "title": "Structure of an RBX1-UBC12~NEDD8-CUL1-DCN1 complex: a RING-E3-E2~ubiquitin-like protein-su",
+     "strong": true
+    },
+    {
+     "pdb": "6TTU",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 8,
+     "res": 3.7,
+     "title": "Ubiquitin Ligation to substrate by a cullin-RING E3 ligase at 3.7A resolution: NEDD8-CUL1-",
+     "strong": true
+    },
+    {
+     "pdb": "7B5M",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 8,
+     "res": 3.91,
+     "title": "Ubiquitin ligation to F-box protein substrates by SCF-RBR E3-E3 super-assembly: CUL1-RBX1-",
+     "strong": true
+    }
+   ]
+  }
  },
  "C8-9_3": {
   "job": "C8-9_3",
@@ -13683,7 +21110,80 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.453,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 5,
+   "n_strong": 5,
+   "methods": {
+    "cryoEM": 5
+   },
+   "best_pdb": "6T9K",
+   "best_cover": 2,
+   "best_method": "cryoEM",
+   "covered": [
+    "Spt20",
+    "wda"
+   ],
+   "pdbs": [
+    {
+     "pdb": "6T9K",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 11,
+     "res": 3.3,
+     "title": "SAGA Core module",
+     "strong": true
+    },
+    {
+     "pdb": "6T9I",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.9,
+     "title": "cryo-EM structure of transcription coactivator SAGA",
+     "strong": true
+    },
+    {
+     "pdb": "7KTS",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 13,
+     "res": 19.09,
+     "title": "Negative stain EM structure of the human SAGA coactivator complex (TRRAP, core, splicing m",
+     "strong": true
+    },
+    {
+     "pdb": "7KTR",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 11,
+     "res": 2.93,
+     "title": "Cryo-EM structure of the human SAGA coactivator complex (TRRAP, core)",
+     "strong": true
+    },
+    {
+     "pdb": "8H7G",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 14,
+     "res": 3.7,
+     "title": "Cryo-EM structure of the human SAGA complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C12-4-2_3": {
   "job": "C12-4-2_3",
@@ -13697,7 +21197,246 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.444,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 30,
+   "n_strong": 30,
+   "methods": {
+    "cryoEM": 30
+   },
+   "best_pdb": "6EU2",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG33785",
+    "RpIIIC160",
+    "Rpb8"
+   ],
+   "pdbs": [
+    {
+     "pdb": "5FJ8",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 20,
+     "res": 3.9,
+     "title": "Cryo-EM structure of yeast RNA polymerase III elongation complex at 3. 9 A",
+     "strong": true
+    },
+    {
+     "pdb": "5FJA",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 17,
+     "res": 4.65,
+     "title": "Cryo-EM structure of yeast RNA polymerase III at 4.7 A",
+     "strong": true
+    },
+    {
+     "pdb": "6EU2",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 17,
+     "res": 3.4,
+     "title": "Apo RNA Polymerase III - open conformation (oPOL3)",
+     "strong": true
+    },
+    {
+     "pdb": "6F44",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 22,
+     "res": 4.2,
+     "title": "RNA Polymerase III closed complex CC2.",
+     "strong": true
+    },
+    {
+     "pdb": "6EU0",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 22,
+     "res": 4.0,
+     "title": "RNA Polymerase III open pre-initiation complex (OC-PIC)",
+     "strong": true
+    },
+    {
+     "pdb": "6F40",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 22,
+     "res": 3.7,
+     "title": "RNA Polymerase III open complex",
+     "strong": true
+    },
+    {
+     "pdb": "6F41",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 23,
+     "res": 4.3,
+     "title": "RNA Polymerase III initially transcribing complex",
+     "strong": true
+    },
+    {
+     "pdb": "6EU3",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 17,
+     "res": 3.3,
+     "title": "Apo RNA Polymerase III - closed conformation (cPOL3)",
+     "strong": true
+    },
+    {
+     "pdb": "6CND",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 21,
+     "res": 4.8,
+     "title": "Yeast RNA polymerase III natural open complex (nOC)",
+     "strong": true
+    },
+    {
+     "pdb": "6TUT",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 18,
+     "res": 3.25,
+     "title": "Cryo-EM structure of the RNA Polymerase III-Maf1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7AST",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 17,
+     "res": 4.0,
+     "title": "Apo Human RNA Polymerase III",
+     "strong": true
+    },
+    {
+     "pdb": "7D59",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 17,
+     "res": 3.1,
+     "title": "cryo-EM structure of human RNA polymerase III in apo state",
+     "strong": true
+    },
+    {
+     "pdb": "7DU2",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 20,
+     "res": 3.35,
+     "title": "RNA polymerase III EC complex in post-translocation state",
+     "strong": true
+    },
+    {
+     "pdb": "7DN3",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 20,
+     "res": 3.5,
+     "title": "Structure of Human RNA Polymerase III elongation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7AE1",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 20,
+     "res": 2.8,
+     "title": "Cryo-EM structure of human RNA Polymerase III elongation complex 1",
+     "strong": true
+    },
+    {
+     "pdb": "7Z1L",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 20,
+     "res": 2.8,
+     "title": "Structure of yeast RNA Polymerase III Pre-Termination Complex (PTC)",
+     "strong": true
+    },
+    {
+     "pdb": "7Z1M",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 20,
+     "res": 3.4,
+     "title": "Structure of yeast RNA Polymerase III Elongation Complex (EC)",
+     "strong": true
+    },
+    {
+     "pdb": "7Z31",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 19,
+     "res": 2.76,
+     "title": "Structure of yeast RNA Polymerase III-Ty1 integrase complex at 2.7 A (focus subunit C11, n",
+     "strong": true
+    },
+    {
+     "pdb": "8BWS",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 20,
+     "res": 3.2,
+     "title": "Structure of yeast RNA Polymerase III elongation complex at 3.3 A",
+     "strong": true
+    },
+    {
+     "pdb": "7Z2Z",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 22,
+     "res": 3.07,
+     "title": "Structure of yeast RNA Polymerase III-DNA-Ty1 integrase complex (Pol III-DNA-IN1) at 3.1 A",
+     "strong": true
+    }
+   ]
+  }
  },
  "C10-6": {
   "job": "C10-6",
@@ -13711,7 +21450,179 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.431,
   "best_model": 3,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 14,
+   "n_strong": 14,
+   "methods": {
+    "cryoEM": 14
+   },
+   "best_pdb": "8SZH",
+   "best_cover": 2,
+   "best_method": "cryoEM",
+   "covered": [
+    "Galphai",
+    "Gbeta13F"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7AD3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 5,
+     "res": 3.3,
+     "title": "Class D GPCR Ste2 dimer coupled to two G proteins",
+     "strong": true
+    },
+    {
+     "pdb": "7KH0",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 7,
+     "res": 2.8,
+     "title": "Cryo-EM structure of the human arginine vasopressin AVP-vasopressin receptor V2R-Gs signal",
+     "strong": true
+    },
+    {
+     "pdb": "7E9H",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 5,
+     "res": 4.0,
+     "title": "Cryo-EM structure of Gi-bound metabotropic glutamate receptor mGlu4",
+     "strong": true
+    },
+    {
+     "pdb": "7T10",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 2.5,
+     "title": "CryoEM structure of somatostatin receptor 2 in complex with somatostatin-14 and Gi3",
+     "strong": true
+    },
+    {
+     "pdb": "7RA3",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 3.24,
+     "title": "cryo-EM of human Gastric inhibitory polypeptide receptor GIPR bound to GIP",
+     "strong": true
+    },
+    {
+     "pdb": "7RGP",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 2.9,
+     "title": "cryo-EM of human Glucagon-like peptide 1 receptor GLP-1R bound to tirzepatide",
+     "strong": true
+    },
+    {
+     "pdb": "7T11",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 2.7,
+     "title": "CryoEM structure of somatostatin receptor 2 in complex with Octreotide and Gi3.",
+     "strong": true
+    },
+    {
+     "pdb": "8FX5",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 2.45,
+     "title": "Human M4 muscarinic acetylcholine receptor complex with Gi1 and xanomeline",
+     "strong": true
+    },
+    {
+     "pdb": "8JD6",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.4,
+     "title": "Cryo-EM structure of Gi1-bound metabotropic glutamate receptor mGlu4",
+     "strong": true
+    },
+    {
+     "pdb": "8GY7",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 6,
+     "res": 3.3,
+     "title": "Cryo-EM structure of ACTH-bound melanocortin-2 receptor in complex with MRAP1 and Gs prote",
+     "strong": true
+    },
+    {
+     "pdb": "8SZH",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 3.1,
+     "title": "Cryo-EM structure of cinacalcet-bound human calcium-sensing receptor CaSR-Gi complex in li",
+     "strong": true
+    },
+    {
+     "pdb": "8WGB",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 5,
+     "res": 3.7,
+     "title": "mGlu2-4 heterodimer bound with Gi",
+     "strong": true
+    },
+    {
+     "pdb": "8K9L",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 6,
+     "res": 3.05,
+     "title": "Full agonist- and positive allosteric modulator-bound mu-type opioid receptor-G protein co",
+     "strong": true
+    },
+    {
+     "pdb": "8SZI",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 5,
+     "res": 3.5,
+     "title": "Cryo-EM structure of PAM-free human calcium-sensing receptor CaSR-Gi complex in lipid nano",
+     "strong": true
+    }
+   ]
+  }
  },
  "C12-9_2": {
   "job": "C12-9_2",
@@ -13725,7 +21636,181 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.409,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 14,
+   "n_strong": 14,
+   "methods": {
+    "cryoEM": 12,
+    "X-ray": 2
+   },
+   "best_pdb": "7QCD",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "Nse4",
+    "SMC5",
+    "qjt"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7QCD",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 6,
+     "res": 8.0,
+     "title": "CryoEM structure of the Smc5/6-holocomplex (composite structure)",
+     "strong": true
+    },
+    {
+     "pdb": "7YQH",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 8,
+     "res": 5.6,
+     "title": "Cryo-EM structure of 8-subunit Smc5/6",
+     "strong": true
+    },
+    {
+     "pdb": "3HTK",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2009",
+     "size": 3,
+     "res": 2.31,
+     "title": "Crystal structure of Mms21 and Smc5 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7P47",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2021",
+     "size": 4,
+     "res": 3.314,
+     "title": "Structure of the E3 ligase Smc5/Nse2 in complex with Ubc9-SUMO thioester mimetic",
+     "strong": true
+    },
+    {
+     "pdb": "7TVE",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 7,
+     "res": 3.8,
+     "title": "ATP and DNA bound SMC5/6 core complex",
+     "strong": true
+    },
+    {
+     "pdb": "8T8F",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 4.8,
+     "title": "Smc5/6 8mer",
+     "strong": true
+    },
+    {
+     "pdb": "8HQS",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 7,
+     "res": 3.2,
+     "title": "Cryo-EM structure of 8-subunit Smc5/6 head region",
+     "strong": true
+    },
+    {
+     "pdb": "8I21",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 6.02,
+     "title": "Cryo-EM structure of 6-subunit Smc5/6 arm region",
+     "strong": true
+    },
+    {
+     "pdb": "8WJL",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 6.15,
+     "title": "Cryo-EM structure of 6-subunit Smc5/6 hinge region",
+     "strong": true
+    },
+    {
+     "pdb": "8I4U",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 6.73,
+     "title": "Cryo-EM structure of 5-subunit Smc5/6 hinge region",
+     "strong": true
+    },
+    {
+     "pdb": "8I4V",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 5.97,
+     "title": "Cryo-EM structure of 5-subunit Smc5/6 arm region",
+     "strong": true
+    },
+    {
+     "pdb": "8I4X",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 5,
+     "res": 8.5,
+     "title": "Cryo-EM structure of 5-subunit Smc5/6",
+     "strong": true
+    },
+    {
+     "pdb": "7YLM",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 6.17,
+     "title": "Cryo-EM structure of 8-subunit Smc5/6 hinge region",
+     "strong": true
+    },
+    {
+     "pdb": "8WJO",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 6.04,
+     "title": "Cryo-EM structure of 8-subunit Smc5/6 arm region",
+     "strong": true
+    }
+   ]
+  }
  },
  "C21-1-1_4": {
   "job": "C21-1-1_4",
@@ -13739,7 +21824,48 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.403,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 2,
+   "n_strong": 2,
+   "methods": {
+    "cryoEM": 2
+   },
+   "best_pdb": "8RO2",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG1965",
+    "Prp8",
+    "sip1"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8RO2",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 37,
+     "res": 3.5,
+     "title": "Integrative Structure of the human intron lariat Spliceosome (ILS'')",
+     "strong": true
+    },
+    {
+     "pdb": "5Y88",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 34,
+     "res": 3.46,
+     "title": "Cryo-EM structure of the intron-lariat spliceosome ready for disassembly from S.cerevisiae",
+     "strong": true
+    }
+   ]
+  }
  },
  "C19-3_5": {
   "job": "C19-3_5",
@@ -13753,7 +21879,136 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.384,
   "best_model": 4,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 10,
+   "n_strong": 10,
+   "methods": {
+    "cryoEM": 10
+   },
+   "best_pdb": "8RC4",
+   "best_cover": 3,
+   "best_method": "cryoEM",
+   "covered": [
+    "CG5274",
+    "IntS1",
+    "omd"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8RBX",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 41,
+     "res": 4.1,
+     "title": "Structure of Integrator-PP2A bound to a paused RNA polymerase II-DSIF-NELF-nucleosome comp",
+     "strong": true
+    },
+    {
+     "pdb": "8RBZ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 21,
+     "res": 3.7,
+     "title": "Structure of Integrator-PP2A-SOSS-CTD post-termination complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RC4",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 16,
+     "res": 3.1,
+     "title": "Structure of Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "7CUN",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 12,
+     "res": 3.5,
+     "title": "The structure of human Integrator-PP2A complex",
+     "strong": true
+    },
+    {
+     "pdb": "7PKS",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 33,
+     "res": 3.6,
+     "title": "Structural basis of Integrator-mediated transcription regulation",
+     "strong": true
+    },
+    {
+     "pdb": "7YCX",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 34,
+     "res": 4.18,
+     "title": "The structure of INTAC-PEC complex",
+     "strong": true
+    },
+    {
+     "pdb": "9EOF",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 4,
+     "res": 7.7,
+     "title": "Structure of the human INTS5/8/10/15 subcomplex",
+     "strong": true
+    },
+    {
+     "pdb": "9EP4",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 3,
+     "res": 3.2,
+     "title": "Structure of Integrator subcomplex INTS5/8/15",
+     "strong": true
+    },
+    {
+     "pdb": "8YJB",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 12,
+     "res": 4.1,
+     "title": "Cryo-EM structure of the human DSS1-INTAC complex",
+     "strong": true
+    },
+    {
+     "pdb": "9VD9",
+     "cover": 3,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 38,
+     "res": 4.6,
+     "title": "Cryo-EM structure of the human DSS1-INTAC-PEC complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C10-2_2": {
   "job": "C10-2_2",
@@ -13767,7 +22022,10 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.333,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  },
  "C14-6": {
   "job": "C14-6",
@@ -13781,7 +22039,103 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.328,
   "best_model": 1,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 7,
+   "n_strong": 7,
+   "methods": {
+    "X-ray": 3,
+    "cryoEM": 4
+   },
+   "best_pdb": "7Y5K",
+   "best_cover": 2,
+   "best_method": "X-ray",
+   "covered": [
+    "Caf1-180",
+    "Caf1-55"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7Y5K",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2023",
+     "size": 3,
+     "res": 3.48,
+     "title": "Crystal structure of human CAF-1 core complex in spacegroup C2221",
+     "strong": true
+    },
+    {
+     "pdb": "8IQG",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.5,
+     "title": "Cryo-EM structure of the monomeric human CAF1-H3-H4 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7Y5U",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 3.8,
+     "title": "Cryo-EM structure of the monomeric human CAF1LC-H3-H4 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7Y5L",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2023",
+     "size": 3,
+     "res": 3.42,
+     "title": "Crystal structure of human CAF-1 core complex in spacegroup C2",
+     "strong": true
+    },
+    {
+     "pdb": "8IQF",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 4.6,
+     "title": "Cryo-EM structure of the dimeric human CAF1-H3-H4 complex",
+     "strong": true
+    },
+    {
+     "pdb": "7Y5O",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2023",
+     "size": 3,
+     "res": 3.57,
+     "title": "Crystal structure of human CAF-1 core complex in spacegroup P21",
+     "strong": true
+    },
+    {
+     "pdb": "7Y5V",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 5,
+     "res": 6.1,
+     "title": "Cryo-EM structure of the dimeric human CAF1LC-H3-H4 complex",
+     "strong": true
+    }
+   ]
+  }
  },
  "C4-3": {
   "job": "C4-3",
@@ -13795,7 +22149,36 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.305,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": true,
+   "n": 3,
+   "n_pdb": 1,
+   "n_strong": 1,
+   "methods": {
+    "X-ray": 1
+   },
+   "best_pdb": "8EJM",
+   "best_cover": 2,
+   "best_method": "X-ray",
+   "covered": [
+    "CG31550",
+    "Dhx15"
+   ],
+   "pdbs": [
+    {
+     "pdb": "8EJM",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2022",
+     "size": 2,
+     "res": 1.8,
+     "title": "Crystal structure of human DEAH-box helicase DHX15 in complex with SUGP1 G-patch",
+     "strong": true
+    }
+   ]
+  }
  },
  "C19-1_3": {
   "job": "C19-1_3",
@@ -13809,6 +22192,9 @@
   "verdict": "CONFIRMED",
   "iLIS": 0.3,
   "best_model": 0,
-  "has_PAE": true
+  "has_PAE": true,
+  "exp": {
+   "sup": false
+  }
  }
 }
