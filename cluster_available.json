@@ -443,6 +443,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 12
   }
  },
  "C11-8_1": {
@@ -813,6 +818,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 10
   }
  },
  "C9-8": {
@@ -1087,6 +1097,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 9
   }
  },
  "C21-6_1": {
@@ -1434,6 +1449,11 @@
      "n_entries": 5
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 9
   }
  },
  "C21-6_2": {
@@ -1780,6 +1800,11 @@
      "n_entries": 5
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 8
   }
  },
  "C11-8_2": {
@@ -2147,6 +2172,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
   }
  },
  "C4-5-1_1": {
@@ -2585,6 +2615,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
   }
  },
  "C21-4": {
@@ -2930,6 +2965,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 7
   }
  },
  "C12-5-2": {
@@ -3335,6 +3375,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
   }
  },
  "C6-13_1": {
@@ -3710,6 +3755,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
   }
  },
  "C23-3": {
@@ -4063,6 +4113,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C6-13_2": {
@@ -4446,6 +4501,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C11-13-2": {
@@ -4797,6 +4857,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C6-10-2": {
@@ -4856,6 +4921,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C21-1-1": {
@@ -5237,6 +5307,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C12-4-1": {
@@ -5364,6 +5439,11 @@
      "n_entries": 5
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C13-7": {
@@ -5447,6 +5527,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C10-4-1": {
@@ -5626,6 +5711,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C6-1-4": {
@@ -5975,6 +6065,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": null,
+   "confident_fpr": null,
+   "n_chains": 5
   }
  },
  "C16-3-1": {
@@ -6347,6 +6442,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C6-13_3": {
@@ -6708,6 +6808,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C11-11": {
@@ -6767,6 +6872,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 5
   }
  },
  "C12-6": {
@@ -6879,6 +6989,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C23-4": {
@@ -7240,6 +7355,11 @@
      "n_entries": 3
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C7-10-1": {
@@ -7312,6 +7432,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C14-1-1": {
@@ -7370,6 +7495,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C16-4-2": {
@@ -7612,6 +7742,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C28-1": {
@@ -7921,6 +8056,11 @@
      "n_entries": 4
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": null,
+   "n_chains": 4
   }
  },
  "C3-7-2": {
@@ -8280,6 +8420,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C2-13-1": {
@@ -8299,6 +8444,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": null,
+   "n_chains": 4
   }
  },
  "C12-1-2": {
@@ -8540,6 +8690,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 4
   }
  },
  "C20-3": {
@@ -8958,6 +9113,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 4
   }
  },
  "C3-9-1": {
@@ -8977,6 +9137,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 10,
+   "confident_fpr": null,
+   "n_chains": 4
   }
  },
  "C21-5": {
@@ -8996,6 +9161,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
   }
  },
  "C14-8-1": {
@@ -9436,6 +9606,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C1-11": {
@@ -9455,6 +9630,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C1-4-2": {
@@ -9534,6 +9714,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": null,
+   "n_chains": 4
   }
  },
  "C7-14": {
@@ -9626,6 +9811,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C15-2-1": {
@@ -10005,320 +10195,11 @@
      "n_entries": 1
     }
    ]
-  }
- },
- "C18-2-2": {
-  "job": "C18-2-2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-2-2.zip",
-  "members": [
-   "COX6B",
-   "COX4",
-   "COX2",
-   "COX5A"
-  ],
-  "n": 4,
-  "verdict": "CONFIRMED",
-  "best_model": 0,
-  "has_PAE": true,
-  "iLIS": 0.335,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 15
-   },
-   "n_pdb": 15,
-   "strong": 13,
-   "best_pdb": "9I7U",
-   "cover": 4,
-   "covered": [
-    "COX2",
-    "COX4",
-    "COX5A",
-    "COX6B"
-   ],
-   "pdbs": [
-    {
-     "pdb": "5Z62",
-     "cover": 4,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 14,
-     "res": 3.6,
-     "title": "Structure of human cytochrome c oxidase",
-     "strong": true
-    },
-    {
-     "pdb": "9I7U",
-     "cover": 4,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2025",
-     "size": 14,
-     "res": 3.15,
-     "title": "Cryo-EM structure of NDUFA4 bound complex IV within the respirasome complex",
-     "strong": true
-    },
-    {
-     "pdb": "9I6F",
-     "cover": 4,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2025",
-     "size": 14,
-     "res": 2.95,
-     "title": "Cryo-EM structure of HIGD2A bound complex IV",
-     "strong": true
-    },
-    {
-     "pdb": "6HU9",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 22,
-     "res": 3.35,
-     "title": "III2-IV2 mitochondrial respiratory supercomplex from S. cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6GIQ",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 22,
-     "res": 3.23,
-     "title": "Saccharomyces cerevisiae respiratory supercomplex III2IV",
-     "strong": true
-    },
-    {
-     "pdb": "6YMY",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 12,
-     "res": 3.41,
-     "title": "Cytochrome c oxidase from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6YMX",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 25,
-     "res": 3.17,
-     "title": "CIII2/CIV respiratory supercomplex from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "8DH6",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 9,
-     "res": 2.94,
-     "title": "Cryo-EM structure of Saccharomyces cerevisiae cytochrome c oxidase (Complex IV) extracted ",
-     "strong": true
-    },
-    {
-     "pdb": "7Z10",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 9,
-     "res": 3.87,
-     "title": "Monomeric respiratory complex IV isolated from S. cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "8E7S",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 22,
-     "res": 3.2,
-     "title": "III2IV2 respiratory supercomplex from Saccharomyces cerevisiae with 4 bound UQ6",
-     "strong": true
-    },
-    {
-     "pdb": "8EC0",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 21,
-     "res": 3.3,
-     "title": "III2IV respiratory supercomplex from Saccharomyces cerevisiae cardiolipin-lacking mutant",
-     "strong": true
-    },
-    {
-     "pdb": "9ETZ",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 22,
-     "res": 2.4,
-     "title": "III2IV respiratory supercomplex from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "9BPB",
-     "cover": 3,
-     "frac": 0.75,
-     "method": "cryoEM",
-     "year": "2025",
-     "size": 21,
-     "res": 2.57,
-     "title": "Tethered respiratory III2IV2 supercomplex from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6T0B",
-     "cover": 2,
-     "frac": 0.5,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 23,
-     "res": 2.8,
-     "title": "The III2-IV(5B)2 respiratory supercomplex from S. cerevisiae",
-     "strong": false
-    },
-    {
-     "pdb": "6T15",
-     "cover": 2,
-     "frac": 0.5,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 23,
-     "res": 3.29,
-     "title": "The III2-IV(5B)1 respiratory supercomplex from S. cerevisiae",
-     "strong": false
-    }
-   ],
-   "n_cand": 15,
-   "truncated": false,
-   "n_studies": 11,
-   "studies": [
-    {
-     "pdb": "9I6F",
-     "pubmed": "41519940",
-     "method": "cryoEM",
-     "year": "2025",
-     "res": 2.95,
-     "cover": 4,
-     "title": "Cryo-EM structure of HIGD2A bound complex IV",
-     "n_entries": 2
-    },
-    {
-     "pdb": "5Z62",
-     "pubmed": "30030519",
-     "method": "cryoEM",
-     "year": "2019",
-     "res": 3.6,
-     "cover": 4,
-     "title": "Structure of human cytochrome c oxidase",
-     "n_entries": 1
-    },
-    {
-     "pdb": "9ETZ",
-     "pubmed": "39300056",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 2.4,
-     "cover": 3,
-     "title": "III2IV respiratory supercomplex from Saccharomyces cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "9BPB",
-     "pubmed": "42014734",
-     "method": "cryoEM",
-     "year": "2025",
-     "res": 2.57,
-     "cover": 3,
-     "title": "Tethered respiratory III2IV2 supercomplex from Saccharomyces cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8DH6",
-     "pubmed": null,
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 2.94,
-     "cover": 3,
-     "title": "Cryo-EM structure of Saccharomyces cerevisiae cytochrome c oxidase (Complex IV) extracted ",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6YMX",
-     "pubmed": "33016568",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.17,
-     "cover": 3,
-     "title": "CIII2/CIV respiratory supercomplex from Saccharomyces cerevisiae",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8E7S",
-     "pubmed": "37188665",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.2,
-     "cover": 3,
-     "title": "III2IV2 respiratory supercomplex from Saccharomyces cerevisiae with 4 bound UQ6",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6GIQ",
-     "pubmed": "30598556",
-     "method": "cryoEM",
-     "year": "2019",
-     "res": 3.23,
-     "cover": 3,
-     "title": "Saccharomyces cerevisiae respiratory supercomplex III2IV",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6HU9",
-     "pubmed": "30598554",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.35,
-     "cover": 3,
-     "title": "III2-IV2 mitochondrial respiratory supercomplex from S. cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7Z10",
-     "pubmed": "35839926",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 3.87,
-     "cover": 3,
-     "title": "Monomeric respiratory complex IV isolated from S. cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6T0B",
-     "pubmed": "32291341",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 2.8,
-     "cover": 2,
-     "title": "The III2-IV(5B)2 respiratory supercomplex from S. cerevisiae",
-     "n_entries": 2
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C16-1-1": {
@@ -10440,792 +10321,11 @@
      "n_entries": 2
     }
    ]
-  }
- },
- "C6-12": {
-  "job": "C6-12",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-12.zip",
-  "members": [
-   "Sf3b1",
-   "Sf3b3",
-   "Sf3b5"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 2,
-  "has_PAE": true,
-  "iLIS": 0.562,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 25,
-    "X-ray": 5
-   },
-   "n_pdb": 30,
-   "strong": 30,
-   "best_pdb": "7B9C",
-   "cover": 3,
-   "covered": [
-    "Sf3b1",
-    "Sf3b3",
-    "Sf3b5"
-   ],
-   "pdbs": [
-    {
-     "pdb": "5IFE",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2016",
-     "size": 4,
-     "res": 3.1,
-     "title": "Crystal structure of the human SF3b core complex",
-     "strong": true
-    },
-    {
-     "pdb": "5O9Z",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 43,
-     "res": 4.5,
-     "title": "Cryo-EM structure of a pre-catalytic human spliceosome primed for activation (B complex)",
-     "strong": true
-    },
-    {
-     "pdb": "6G90",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 31,
-     "res": 4.0,
-     "title": "Prespliceosome structure provides insight into spliceosome assembly and regulation (map A2",
-     "strong": true
-    },
-    {
-     "pdb": "5ZWO",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 46,
-     "res": 3.9,
-     "title": "Cryo-EM structure of the yeast B complex at average resolution of 3.9 angstrom",
-     "strong": true
-    },
-    {
-     "pdb": "5Z57",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 47,
-     "res": 6.5,
-     "title": "Cryo-EM structure of the human activated spliceosome (late Bact) at 6.5 angstrom",
-     "strong": true
-    },
-    {
-     "pdb": "5ZYA",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 4,
-     "res": 3.95,
-     "title": "SF3b spliceosomal complex bound to E7107",
-     "strong": true
-    },
-    {
-     "pdb": "5Z56",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 49,
-     "res": 5.1,
-     "title": "cryo-EM structure of a human activated spliceosome (mature Bact) at 5.1 angstrom.",
-     "strong": true
-    },
-    {
-     "pdb": "5Z58",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 39,
-     "res": 4.9,
-     "title": "Cryo-EM structure of a human activated spliceosome (early Bact) at 4.9 angstrom.",
-     "strong": true
-    },
-    {
-     "pdb": "6FF7",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 50,
-     "res": 4.5,
-     "title": "human Bact spliceosome core structure",
-     "strong": true
-    },
-    {
-     "pdb": "6Y50",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 9,
-     "res": 4.1,
-     "title": "5'domain of human 17S U2 snRNP",
-     "strong": true
-    },
-    {
-     "pdb": "7OQE",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 32,
-     "res": 5.9,
-     "title": "Saccharomyces cerevisiae spliceosomal pre-A complex (delta BS-A ACT1)",
-     "strong": true
-    },
-    {
-     "pdb": "7B9C",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2021",
-     "size": 4,
-     "res": 2.4,
-     "title": "Structure of a minimal SF3B core in complex with spliceostatin A (form I)",
-     "strong": true
-    },
-    {
-     "pdb": "7OPI",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2021",
-     "size": 4,
-     "res": 3.1,
-     "title": "Structure of a minimal SF3B core in complex with the inactive modulator spliceostatin E (f",
-     "strong": true
-    },
-    {
-     "pdb": "7B92",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2021",
-     "size": 4,
-     "res": 3.0,
-     "title": "Structure of a minimal SF3B core in complex with sudemycin D6 (form II)",
-     "strong": true
-    },
-    {
-     "pdb": "7ABI",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 49,
-     "res": 8.0,
-     "title": "Human pre-Bact-2 spliceosome",
-     "strong": true
-    },
-    {
-     "pdb": "7B91",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2021",
-     "size": 4,
-     "res": 3.0,
-     "title": "Structure of a minimal SF3B core in complex with pladienolide D (form I)",
-     "strong": true
-    },
-    {
-     "pdb": "7QTT",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 37,
-     "res": 3.1,
-     "title": "Structural organization of a late activated human spliceosome (Baqr, core region)",
-     "strong": true
-    },
-    {
-     "pdb": "8CH6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 49,
-     "res": 5.9,
-     "title": "Structure of a late-stage activated spliceosome (BAqr) arrested with a dominant-negative A",
-     "strong": true
-    },
-    {
-     "pdb": "8I0V",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 41,
-     "res": 3.0,
-     "title": "The cryo-EM structure of human post-Bact complex",
-     "strong": true
-    },
-    {
-     "pdb": "8I0S",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 43,
-     "res": 4.2,
-     "title": "The cryo-EM structure of human Bact-II complex",
-     "strong": true
-    }
-   ],
-   "n_cand": 68,
-   "truncated": true,
-   "n_studies": 13,
-   "studies": [
-    {
-     "pdb": "7B9C",
-     "pubmed": "34301950",
-     "method": "X-ray",
-     "year": "2021",
-     "res": 2.4,
-     "cover": 3,
-     "title": "Structure of a minimal SF3B core in complex with spliceostatin A (form I)",
-     "n_entries": 4
-    },
-    {
-     "pdb": "8I0V",
-     "pubmed": "39068178",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.0,
-     "cover": 3,
-     "title": "The cryo-EM structure of human post-Bact complex",
-     "n_entries": 2
-    },
-    {
-     "pdb": "5IFE",
-     "pubmed": "27720643",
-     "method": "X-ray",
-     "year": "2016",
-     "res": 3.1,
-     "cover": 3,
-     "title": "Crystal structure of the human SF3b core complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7QTT",
-     "pubmed": "37165190",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.1,
-     "cover": 3,
-     "title": "Structural organization of a late activated human spliceosome (Baqr, core region)",
-     "n_entries": 2
-    },
-    {
-     "pdb": "5ZWO",
-     "pubmed": "29794219",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.9,
-     "cover": 3,
-     "title": "Cryo-EM structure of the yeast B complex at average resolution of 3.9 angstrom",
-     "n_entries": 1
-    },
-    {
-     "pdb": "5ZYA",
-     "pubmed": "29491137",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.95,
-     "cover": 3,
-     "title": "SF3b spliceosomal complex bound to E7107",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6G90",
-     "pubmed": "29995849",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 4.0,
-     "cover": 3,
-     "title": "Prespliceosome structure provides insight into spliceosome assembly and regulation (map A2",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6Y50",
-     "pubmed": "32494006",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 4.1,
-     "cover": 3,
-     "title": "5'domain of human 17S U2 snRNP",
-     "n_entries": 1
-    },
-    {
-     "pdb": "5O9Z",
-     "pubmed": "28781166",
-     "method": "cryoEM",
-     "year": "2017",
-     "res": 4.5,
-     "cover": 3,
-     "title": "Cryo-EM structure of a pre-catalytic human spliceosome primed for activation (B complex)",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6FF7",
-     "pubmed": "29361316",
-     "method": "cryoEM",
-     "year": "2019",
-     "res": 4.5,
-     "cover": 3,
-     "title": "human Bact spliceosome core structure",
-     "n_entries": 1
-    },
-    {
-     "pdb": "5Z58",
-     "pubmed": "29360106",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 4.9,
-     "cover": 3,
-     "title": "Cryo-EM structure of a human activated spliceosome (early Bact) at 4.9 angstrom.",
-     "n_entries": 3
-    },
-    {
-     "pdb": "7OQE",
-     "pubmed": "34349264",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 5.9,
-     "cover": 3,
-     "title": "Saccharomyces cerevisiae spliceosomal pre-A complex (delta BS-A ACT1)",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7ABI",
-     "pubmed": "33243851",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 8.0,
-     "cover": 3,
-     "title": "Human pre-Bact-2 spliceosome",
-     "n_entries": 1
-    }
-   ]
-  }
- },
- "C12-4-2": {
-  "job": "C12-4-2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-2.zip",
-  "members": [
-   "RpII18",
-   "RpII215",
-   "Rpb8"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 0,
-  "has_PAE": true,
-  "iLIS": 0.561,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 11,
-    "X-ray": 19
-   },
-   "n_pdb": 30,
-   "strong": 30,
-   "best_pdb": "3K7A",
-   "cover": 3,
-   "covered": [
-    "RpII18",
-    "RpII215",
-    "Rpb8"
-   ],
-   "pdbs": [
-    {
-     "pdb": "1R9S",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2004",
-     "size": 12,
-     "res": 4.25,
-     "title": "RNA POLYMERASE II STRAND SEPARATED ELONGATION COMPLEX, MATCHED NUCLEOTIDE",
-     "strong": true
-    },
-    {
-     "pdb": "1Y1Y",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2004",
-     "size": 15,
-     "res": 4.0,
-     "title": "RNA Polymerase II-TFIIS-DNA/RNA complex",
-     "strong": true
-    },
-    {
-     "pdb": "1Y1W",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2005",
-     "size": 15,
-     "res": 4.0,
-     "title": "Complete RNA Polymerase II elongation complex",
-     "strong": true
-    },
-    {
-     "pdb": "2NVT",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2006",
-     "size": 13,
-     "res": 3.36,
-     "title": "RNA Polymerase II Elongation Complex in 150 mM Mg+2 with GMPCPP",
-     "strong": true
-    },
-    {
-     "pdb": "2NVX",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2006",
-     "size": 13,
-     "res": 3.6,
-     "title": "RNA polymerase II elongation complex in 5 mM Mg+2 with 2'-dUTP",
-     "strong": true
-    },
-    {
-     "pdb": "3K7A",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2009",
-     "size": 11,
-     "res": 3.8,
-     "title": "Crystal Structure of an RNA polymerase II-TFIIB complex",
-     "strong": true
-    },
-    {
-     "pdb": "3RZO",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2011",
-     "size": 12,
-     "res": 3.0,
-     "title": "RNA Polymerase II Initiation Complex with a 4-nt RNA",
-     "strong": true
-    },
-    {
-     "pdb": "3S2H",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2011",
-     "size": 12,
-     "res": 3.3,
-     "title": "RNA Polymerase II Initiation Complex with a 6-nt RNA containing a 2[prime]-iodo ATP",
-     "strong": true
-    },
-    {
-     "pdb": "4BY7",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2013",
-     "size": 16,
-     "res": 3.15,
-     "title": "elongating RNA Polymerase II-Bye1 TLD complex",
-     "strong": true
-    },
-    {
-     "pdb": "4BY1",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2013",
-     "size": 16,
-     "res": 3.6,
-     "title": "elongating RNA Polymerase II-Bye1 TLD complex soaked with AMPCPP",
-     "strong": true
-    },
-    {
-     "pdb": "4Y7N",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2015",
-     "size": 13,
-     "res": 3.3,
-     "title": "The Structure Insight into 5-Carboxycytosine Recognition by RNA Polymerase II during Trans",
-     "strong": true
-    },
-    {
-     "pdb": "5C44",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2015",
-     "size": 15,
-     "res": 3.95,
-     "title": "Crystal structure of a transcribing RNA Polymerase II complex reveals a complete transcrip",
-     "strong": true
-    },
-    {
-     "pdb": "5VVR",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 16,
-     "res": 5.8,
-     "title": "Ternary complex of RNA Pol II, transcription scaffold and Rad26",
-     "strong": true
-    },
-    {
-     "pdb": "5U5Q",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2017",
-     "size": 12,
-     "res": 3.8,
-     "title": "12 Subunit RNA Polymerase II at Room Temperature collected using SFX",
-     "strong": true
-    },
-    {
-     "pdb": "6GYL",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 22,
-     "res": 4.8,
-     "title": "Structure of a yeast closed complex with distorted DNA (core CCdist)",
-     "strong": true
-    },
-    {
-     "pdb": "6BM2",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2018",
-     "size": 12,
-     "res": 3.403,
-     "title": "Pol II elongation complex with an abasic lesion at i-1 position",
-     "strong": true
-    },
-    {
-     "pdb": "6GYM",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 31,
-     "res": 6.7,
-     "title": "Structure of a yeast closed complex with distorted DNA (CCdist)",
-     "strong": true
-    },
-    {
-     "pdb": "6I84",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 19,
-     "res": 4.4,
-     "title": "Structure of transcribing RNA polymerase II-nucleosome complex",
-     "strong": true
-    },
-    {
-     "pdb": "6UQ0",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2020",
-     "size": 13,
-     "res": 3.56,
-     "title": "RNA polymerase II elongation complex with 5-guanidinohydantoin lesion in state 4",
-     "strong": true
-    },
-    {
-     "pdb": "6UQ3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "X-ray",
-     "year": "2020",
-     "size": 13,
-     "res": 3.47,
-     "title": "RNA polymerase II elongation complex with 5-guanidinohydantoin lesion in state 5",
-     "strong": true
-    }
-   ],
-   "n_cand": 340,
-   "truncated": true,
-   "n_studies": 14,
-   "studies": [
-    {
-     "pdb": "3RZO",
-     "pubmed": "21798951",
-     "method": "X-ray",
-     "year": "2011",
-     "res": 3.0,
-     "cover": 3,
-     "title": "RNA Polymerase II Initiation Complex with a 4-nt RNA",
-     "n_entries": 2
-    },
-    {
-     "pdb": "4BY7",
-     "pubmed": "24003114",
-     "method": "X-ray",
-     "year": "2013",
-     "res": 3.15,
-     "cover": 3,
-     "title": "elongating RNA Polymerase II-Bye1 TLD complex",
-     "n_entries": 2
-    },
-    {
-     "pdb": "4Y7N",
-     "pubmed": "26123024",
-     "method": "X-ray",
-     "year": "2015",
-     "res": 3.3,
-     "cover": 3,
-     "title": "The Structure Insight into 5-Carboxycytosine Recognition by RNA Polymerase II during Trans",
-     "n_entries": 1
-    },
-    {
-     "pdb": "2NVT",
-     "pubmed": "17129781",
-     "method": "X-ray",
-     "year": "2006",
-     "res": 3.36,
-     "cover": 3,
-     "title": "RNA Polymerase II Elongation Complex in 150 mM Mg+2 with GMPCPP",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6BM2",
-     "pubmed": "29487211",
-     "method": "X-ray",
-     "year": "2018",
-     "res": 3.403,
-     "cover": 3,
-     "title": "Pol II elongation complex with an abasic lesion at i-1 position",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6UQ3",
-     "pubmed": "32284409",
-     "method": "X-ray",
-     "year": "2020",
-     "res": 3.47,
-     "cover": 3,
-     "title": "RNA polymerase II elongation complex with 5-guanidinohydantoin lesion in state 5",
-     "n_entries": 2
-    },
-    {
-     "pdb": "3K7A",
-     "pubmed": "19965383",
-     "method": "X-ray",
-     "year": "2009",
-     "res": 3.8,
-     "cover": 3,
-     "title": "Crystal Structure of an RNA polymerase II-TFIIB complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "5U5Q",
-     "pubmed": "28300169",
-     "method": "X-ray",
-     "year": "2017",
-     "res": 3.8,
-     "cover": 3,
-     "title": "12 Subunit RNA Polymerase II at Room Temperature collected using SFX",
-     "n_entries": 1
-    },
-    {
-     "pdb": "5C44",
-     "pubmed": "26186291",
-     "method": "X-ray",
-     "year": "2015",
-     "res": 3.95,
-     "cover": 3,
-     "title": "Crystal structure of a transcribing RNA Polymerase II complex reveals a complete transcrip",
-     "n_entries": 1
-    },
-    {
-     "pdb": "1Y1W",
-     "pubmed": "15610738",
-     "method": "X-ray",
-     "year": "2005",
-     "res": 4.0,
-     "cover": 3,
-     "title": "Complete RNA Polymerase II elongation complex",
-     "n_entries": 2
-    },
-    {
-     "pdb": "1R9S",
-     "pubmed": "15537538",
-     "method": "X-ray",
-     "year": "2004",
-     "res": 4.25,
-     "cover": 3,
-     "title": "RNA POLYMERASE II STRAND SEPARATED ELONGATION COMPLEX, MATCHED NUCLEOTIDE",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6I84",
-     "pubmed": "30575770",
-     "method": "cryoEM",
-     "year": "2019",
-     "res": 4.4,
-     "cover": 3,
-     "title": "Structure of transcribing RNA polymerase II-nucleosome complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6GYL",
-     "pubmed": "30472190",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 4.8,
-     "cover": 3,
-     "title": "Structure of a yeast closed complex with distorted DNA (core CCdist)",
-     "n_entries": 2
-    },
-    {
-     "pdb": "5VVR",
-     "pubmed": "29168508",
-     "method": "cryoEM",
-     "year": "2017",
-     "res": 5.8,
-     "cover": 3,
-     "title": "Ternary complex of RNA Pol II, transcription scaffold and Rad26",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C8-5-1": {
@@ -11613,6 +10713,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C13-2-4": {
@@ -11631,6 +10736,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": null,
+   "confident_fpr": null,
+   "n_chains": 3
   }
  },
  "C19-2": {
@@ -12029,6 +11139,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C13-6": {
@@ -12047,6 +11162,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C10-6-2": {
@@ -12444,6 +11564,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C2-11-2": {
@@ -12831,6 +11956,11 @@
      "n_entries": 3
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C18-7": {
@@ -13049,24 +12179,11 @@
      "n_entries": 2
     }
    ]
-  }
- },
- "C10-7-2": {
-  "job": "C10-7-2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-7-2.zip",
-  "members": [
-   "Abi",
-   "SCAR",
-   "HSPC300"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 4,
-  "has_PAE": true,
-  "iLIS": 0.619,
-  "lcc": null,
-  "exp": {
-   "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C11-4-1": {
@@ -13394,6 +12511,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C3-3-4": {
@@ -13741,6 +12863,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C3-1-2": {
@@ -13759,265 +12886,11 @@
   "lcc": null,
   "exp": {
    "sup": false
-  }
- },
- "C18-2-1": {
-  "job": "C18-2-1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-2-1.zip",
-  "members": [
-   "COX1",
-   "COX3",
-   "levy"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 2,
-  "has_PAE": true,
-  "iLIS": 0.705,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 12
-   },
-   "n_pdb": 12,
-   "strong": 12,
-   "best_pdb": "6YMY",
-   "cover": 3,
-   "covered": [
-    "COX1",
-    "COX3",
-    "levy"
-   ],
-   "pdbs": [
-    {
-     "pdb": "6HU9",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 22,
-     "res": 3.35,
-     "title": "III2-IV2 mitochondrial respiratory supercomplex from S. cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6GIQ",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 22,
-     "res": 3.23,
-     "title": "Saccharomyces cerevisiae respiratory supercomplex III2IV",
-     "strong": true
-    },
-    {
-     "pdb": "6T0B",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 23,
-     "res": 2.8,
-     "title": "The III2-IV(5B)2 respiratory supercomplex from S. cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6YMY",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 12,
-     "res": 3.41,
-     "title": "Cytochrome c oxidase from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6YMX",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 25,
-     "res": 3.17,
-     "title": "CIII2/CIV respiratory supercomplex from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "6T15",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 23,
-     "res": 3.29,
-     "title": "The III2-IV(5B)1 respiratory supercomplex from S. cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "8E7S",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 22,
-     "res": 3.2,
-     "title": "III2IV2 respiratory supercomplex from Saccharomyces cerevisiae with 4 bound UQ6",
-     "strong": true
-    },
-    {
-     "pdb": "8EC0",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 21,
-     "res": 3.3,
-     "title": "III2IV respiratory supercomplex from Saccharomyces cerevisiae cardiolipin-lacking mutant",
-     "strong": true
-    },
-    {
-     "pdb": "9ETZ",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 22,
-     "res": 2.4,
-     "title": "III2IV respiratory supercomplex from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "9BPB",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2025",
-     "size": 21,
-     "res": 2.57,
-     "title": "Tethered respiratory III2IV2 supercomplex from Saccharomyces cerevisiae",
-     "strong": true
-    },
-    {
-     "pdb": "8DH6",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 9,
-     "res": 2.94,
-     "title": "Cryo-EM structure of Saccharomyces cerevisiae cytochrome c oxidase (Complex IV) extracted ",
-     "strong": true
-    },
-    {
-     "pdb": "7Z10",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 9,
-     "res": 3.87,
-     "title": "Monomeric respiratory complex IV isolated from S. cerevisiae",
-     "strong": true
-    }
-   ],
-   "n_cand": 12,
-   "truncated": false,
-   "n_studies": 9,
-   "studies": [
-    {
-     "pdb": "9ETZ",
-     "pubmed": "39300056",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 2.4,
-     "cover": 3,
-     "title": "III2IV respiratory supercomplex from Saccharomyces cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "9BPB",
-     "pubmed": "42014734",
-     "method": "cryoEM",
-     "year": "2025",
-     "res": 2.57,
-     "cover": 3,
-     "title": "Tethered respiratory III2IV2 supercomplex from Saccharomyces cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6T0B",
-     "pubmed": "32291341",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 2.8,
-     "cover": 3,
-     "title": "The III2-IV(5B)2 respiratory supercomplex from S. cerevisiae",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6YMX",
-     "pubmed": "33016568",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.17,
-     "cover": 3,
-     "title": "CIII2/CIV respiratory supercomplex from Saccharomyces cerevisiae",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8E7S",
-     "pubmed": "37188665",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.2,
-     "cover": 3,
-     "title": "III2IV2 respiratory supercomplex from Saccharomyces cerevisiae with 4 bound UQ6",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6GIQ",
-     "pubmed": "30598556",
-     "method": "cryoEM",
-     "year": "2019",
-     "res": 3.23,
-     "cover": 3,
-     "title": "Saccharomyces cerevisiae respiratory supercomplex III2IV",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6HU9",
-     "pubmed": "30598554",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.35,
-     "cover": 3,
-     "title": "III2-IV2 mitochondrial respiratory supercomplex from S. cerevisiae",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8DH6",
-     "pubmed": null,
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 2.94,
-     "cover": 2,
-     "title": "Cryo-EM structure of Saccharomyces cerevisiae cytochrome c oxidase (Complex IV) extracted ",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7Z10",
-     "pubmed": "35839926",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 3.87,
-     "cover": 2,
-     "title": "Monomeric respiratory complex IV isolated from S. cerevisiae",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C26-1": {
@@ -14386,6 +13259,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C3-1-4": {
@@ -14794,6 +13672,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C9-1-3": {
@@ -15043,6 +13926,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C31-1": {
@@ -15292,6 +14180,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C18-4-1": {
@@ -15350,6 +14243,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C12-1-3": {
@@ -15516,6 +14414,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C16-9": {
@@ -15787,6 +14690,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C9-2-1": {
@@ -15805,6 +14713,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C5-2-6": {
@@ -15823,6 +14736,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C8-9": {
@@ -15945,6 +14863,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-6": {
@@ -16088,343 +15011,11 @@
      "n_entries": 2
     }
    ]
-  }
- },
- "C4-1-1": {
-  "job": "C4-1-1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-1.zip",
-  "members": [
-   "Non1",
-   "CG3224",
-   "RpL24-like"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 3,
-  "has_PAE": true,
-  "iLIS": 0.357,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 30
-   },
-   "n_pdb": 30,
-   "strong": 30,
-   "best_pdb": "8IE3",
-   "cover": 3,
-   "covered": [
-    "CG3224",
-    "Non1",
-    "RpL24-like"
-   ],
-   "pdbs": [
-    {
-     "pdb": "3JCT",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2016",
-     "size": 58,
-     "res": 3.08,
-     "title": "Cryo-em structure of eukaryotic pre-60S ribosomal subunits",
-     "strong": true
-    },
-    {
-     "pdb": "6FT6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 57,
-     "res": 3.9,
-     "title": "Structure of the Nop53 pre-60S particle bound to the exosome nuclear cofactors",
-     "strong": true
-    },
-    {
-     "pdb": "6N8J",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 49,
-     "res": 3.5,
-     "title": "Cryo-EM structure of late nuclear (LN) pre-60S ribosomal subunit",
-     "strong": true
-    },
-    {
-     "pdb": "6N8L",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2019",
-     "size": 48,
-     "res": 3.6,
-     "title": "Cryo-EM structure of early cytoplasmic-late (ECL) pre-60S ribosomal subunit",
-     "strong": true
-    },
-    {
-     "pdb": "6YLY",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 49,
-     "res": 3.8,
-     "title": "pre-60S State NE2 (TAP-Flag-Nop53)",
-     "strong": true
-    },
-    {
-     "pdb": "6LU8",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 50,
-     "res": 3.13,
-     "title": "Cryo-EM structure of a human pre-60S ribosomal subunit - state A",
-     "strong": true
-    },
-    {
-     "pdb": "6YLH",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 58,
-     "res": 3.1,
-     "title": "Rix1-Rea1 pre-60S particle - full composite structure",
-     "strong": true
-    },
-    {
-     "pdb": "6LSS",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 48,
-     "res": 3.23,
-     "title": "Cryo-EM structure of a pre-60S ribosomal subunit - state preA",
-     "strong": true
-    },
-    {
-     "pdb": "7UG6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 52,
-     "res": 2.9,
-     "title": "Cryo-EM structure of pre-60S ribosomal subunit, unmethylated G2922",
-     "strong": true
-    },
-    {
-     "pdb": "8FL3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 61,
-     "res": 2.53,
-     "title": "Human nuclear pre-60S ribosomal subunit (State I2)",
-     "strong": true
-    },
-    {
-     "pdb": "8FL9",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 50,
-     "res": 2.75,
-     "title": "Human nuclear pre-60S ribosomal subunit (State J3)",
-     "strong": true
-    },
-    {
-     "pdb": "8INE",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 58,
-     "res": 3.2,
-     "title": "human nuclear pre-60S ribosomal particle - State G'",
-     "strong": true
-    },
-    {
-     "pdb": "8INF",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 61,
-     "res": 3.0,
-     "title": "human nuclear pre-60S ribosomal particle - State F'",
-     "strong": true
-    },
-    {
-     "pdb": "8FLB",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 54,
-     "res": 2.55,
-     "title": "Human nuclear pre-60S ribosomal subunit (State K2)",
-     "strong": true
-    },
-    {
-     "pdb": "8IE3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 48,
-     "res": 3.3,
-     "title": "human nuclear pre-60S ribosomal particle - State E",
-     "strong": true
-    },
-    {
-     "pdb": "8FLE",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 52,
-     "res": 2.48,
-     "title": "Human nuclear pre-60S ribosomal subunit (State L2)",
-     "strong": true
-    },
-    {
-     "pdb": "8FL7",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 54,
-     "res": 2.55,
-     "title": "Human nuclear pre-60S ribosomal subunit (State J2)",
-     "strong": true
-    },
-    {
-     "pdb": "8IR3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 59,
-     "res": 3.5,
-     "title": "human nuclear pre-60S ribosomal particle - State B'",
-     "strong": true
-    },
-    {
-     "pdb": "8FLC",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 50,
-     "res": 2.76,
-     "title": "Human nuclear pre-60S ribosomal subunit (State K3)",
-     "strong": true
-    },
-    {
-     "pdb": "8FLF",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 48,
-     "res": 2.65,
-     "title": "Human nuclear pre-60S ribosomal subunit (State L3)",
-     "strong": true
-    }
-   ],
-   "n_cand": 83,
-   "truncated": true,
-   "n_studies": 8,
-   "studies": [
-    {
-     "pdb": "8FLE",
-     "pubmed": "37410842",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 2.48,
-     "cover": 3,
-     "title": "Human nuclear pre-60S ribosomal subunit (State L2)",
-     "n_entries": 7
-    },
-    {
-     "pdb": "7UG6",
-     "pubmed": "36536102",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 2.9,
-     "cover": 3,
-     "title": "Cryo-EM structure of pre-60S ribosomal subunit, unmethylated G2922",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8INF",
-     "pubmed": "37491604",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.0,
-     "cover": 3,
-     "title": "human nuclear pre-60S ribosomal particle - State F'",
-     "n_entries": 4
-    },
-    {
-     "pdb": "3JCT",
-     "pubmed": "27251291",
-     "method": "cryoEM",
-     "year": "2016",
-     "res": 3.08,
-     "cover": 3,
-     "title": "Cryo-em structure of eukaryotic pre-60S ribosomal subunits",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6YLH",
-     "pubmed": "32668200",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.1,
-     "cover": 3,
-     "title": "Rix1-Rea1 pre-60S particle - full composite structure",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6LU8",
-     "pubmed": "32669547",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.13,
-     "cover": 3,
-     "title": "Cryo-EM structure of a human pre-60S ribosomal subunit - state A",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6N8J",
-     "pubmed": "30814529",
-     "method": "cryoEM",
-     "year": "2019",
-     "res": 3.5,
-     "cover": 3,
-     "title": "Cryo-EM structure of late nuclear (LN) pre-60S ribosomal subunit",
-     "n_entries": 2
-    },
-    {
-     "pdb": "6FT6",
-     "pubmed": "29519915",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.9,
-     "cover": 3,
-     "title": "Structure of the Nop53 pre-60S particle bound to the exosome nuclear cofactors",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C4-5-1_3": {
@@ -16853,139 +15444,11 @@
      "n_entries": 1
     }
    ]
-  }
- },
- "C12-9": {
-  "job": "C12-9",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-9.zip",
-  "members": [
-   "Nse1",
-   "Nse4",
-   "MAGE"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 2,
-  "has_PAE": true,
-  "iLIS": 0.644,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 6
-   },
-   "n_pdb": 6,
-   "strong": 6,
-   "best_pdb": "7YMD",
-   "cover": 3,
-   "covered": [
-    "MAGE",
-    "Nse1",
-    "Nse4"
-   ],
-   "pdbs": [
-    {
-     "pdb": "7QCD",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 6,
-     "res": 8.0,
-     "title": "CryoEM structure of the Smc5/6-holocomplex (composite structure)",
-     "strong": true
-    },
-    {
-     "pdb": "7TVE",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 7,
-     "res": 3.8,
-     "title": "ATP and DNA bound SMC5/6 core complex",
-     "strong": true
-    },
-    {
-     "pdb": "7YMD",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 3,
-     "res": 4.176,
-     "title": "Cryo-EM structure of Nse1/3/4",
-     "strong": true
-    },
-    {
-     "pdb": "8HQS",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 7,
-     "res": 3.2,
-     "title": "Cryo-EM structure of 8-subunit Smc5/6 head region",
-     "strong": true
-    },
-    {
-     "pdb": "7YQH",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 8,
-     "res": 5.6,
-     "title": "Cryo-EM structure of 8-subunit Smc5/6",
-     "strong": true
-    },
-    {
-     "pdb": "8WJN",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 5,
-     "res": 5.58,
-     "title": "Cryo-EM structure of 6-subunit Smc5/6 head region",
-     "strong": true
-    }
-   ],
-   "n_cand": 6,
-   "truncated": false,
-   "n_studies": 3,
-   "studies": [
-    {
-     "pdb": "8HQS",
-     "pubmed": "38890552",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.2,
-     "cover": 3,
-     "title": "Cryo-EM structure of 8-subunit Smc5/6 head region",
-     "n_entries": 4
-    },
-    {
-     "pdb": "7TVE",
-     "pubmed": "35648833",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 3.8,
-     "cover": 3,
-     "title": "ATP and DNA bound SMC5/6 core complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7QCD",
-     "pubmed": "35993814",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 8.0,
-     "cover": 3,
-     "title": "CryoEM structure of the Smc5/6-holocomplex (composite structure)",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C22-4": {
@@ -17004,6 +15467,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C9-1-2": {
@@ -17083,6 +15551,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C11-13-1": {
@@ -17162,6 +15635,11 @@
      "n_entries": 3
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C13-2-1": {
@@ -17282,6 +15760,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 3
   }
  },
  "C4-7": {
@@ -17300,6 +15783,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C8-1-2": {
@@ -17658,6 +16146,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C6-4-2": {
@@ -17909,6 +16402,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C6-10-1": {
@@ -17927,6 +16425,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C15-4-2": {
@@ -17945,6 +16448,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C3-7-1": {
@@ -18252,6 +16760,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C4-8": {
@@ -18599,6 +17112,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-5": {
@@ -18808,6 +17326,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C15-6": {
@@ -18826,6 +17349,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
   }
  },
  "C14-2-1": {
@@ -19234,6 +17762,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C19-3": {
@@ -19379,6 +17912,11 @@
      "n_entries": 5
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C20-7": {
@@ -19737,6 +18275,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C7-12-1": {
@@ -19755,6 +18298,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C4-4-1": {
@@ -19773,6 +18321,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C3-8-3": {
@@ -20219,6 +18772,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
   }
  },
  "C22-2": {
@@ -20287,6 +18845,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C18-1-1": {
@@ -20305,6 +18868,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C4-11": {
@@ -20653,6 +19221,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
   }
  },
  "C17-4-1": {
@@ -20671,6 +19244,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C9-11": {
@@ -20869,6 +19447,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C3-8-4": {
@@ -20887,6 +19470,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C21-3": {
@@ -21008,6 +19596,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C6-2-1": {
@@ -21109,6 +19702,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C14-6-2": {
@@ -21127,6 +19725,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C14-7": {
@@ -21145,443 +19748,11 @@
   "lcc": null,
   "exp": {
    "sup": false
-  }
- },
- "C12-7": {
-  "job": "C12-7",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-7.zip",
-  "members": [
-   "thoc5",
-   "thoc7",
-   "thoc6"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 3,
-  "has_PAE": true,
-  "iLIS": 0.579,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 3
-   },
-   "n_pdb": 3,
-   "strong": 3,
-   "best_pdb": "7ZNL",
-   "cover": 3,
-   "covered": [
-    "thoc5",
-    "thoc6",
-    "thoc7"
-   ],
-   "pdbs": [
-    {
-     "pdb": "7APK",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 8,
-     "res": 3.3,
-     "title": "Structure of the human THO - UAP56 complex",
-     "strong": true
-    },
-    {
-     "pdb": "7ZNK",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 9,
-     "res": 3.9,
-     "title": "Structure of an endogenous human TREX complex bound to mRNA",
-     "strong": true
-    },
-    {
-     "pdb": "7ZNL",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 7,
-     "res": 3.45,
-     "title": "Structure of the human TREX core THO-UAP56 complex",
-     "strong": true
-    }
-   ],
-   "n_cand": 3,
-   "truncated": false,
-   "n_studies": 2,
-   "studies": [
-    {
-     "pdb": "7APK",
-     "pubmed": "33191911",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.3,
-     "cover": 3,
-     "title": "Structure of the human THO - UAP56 complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7ZNL",
-     "pubmed": "37020021",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.45,
-     "cover": 3,
-     "title": "Structure of the human TREX core THO-UAP56 complex",
-     "n_entries": 2
-    }
-   ]
-  }
- },
- "C23-1": {
-  "job": "C23-1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-1.zip",
-  "members": [
-   "CG11752",
-   "ND-24",
-   "ND-51"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 1,
-  "has_PAE": true,
-  "iLIS": 0.664,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 30
-   },
-   "n_pdb": 30,
-   "strong": 30,
-   "best_pdb": "8CA4",
-   "cover": 3,
-   "covered": [
-    "CG11752",
-    "ND-24",
-    "ND-51"
-   ],
-   "pdbs": [
-    {
-     "pdb": "5XTH",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 68,
-     "res": 3.9,
-     "title": "Cryo-EM structure of human respiratory supercomplex I1III2IV1",
-     "strong": true
-    },
-    {
-     "pdb": "5XTD",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 44,
-     "res": 3.7,
-     "title": "Cryo-EM structure of human respiratory complex I",
-     "strong": true
-    },
-    {
-     "pdb": "6G72",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 44,
-     "res": 3.9,
-     "title": "Mouse mitochondrial complex I in the deactive state",
-     "strong": true
-    },
-    {
-     "pdb": "6ZR2",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 44,
-     "res": 3.1,
-     "title": "Cryo-EM structure of respiratory complex I in the active state from Mus musculus at 3.1 A",
-     "strong": true
-    },
-    {
-     "pdb": "7B93",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 44,
-     "res": 3.04,
-     "title": "Cryo-EM structure of mitochondrial complex I from Mus musculus inhibited by IACS-2858 at 3",
-     "strong": true
-    },
-    {
-     "pdb": "7AK6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 44,
-     "res": 3.82,
-     "title": "Cryo-EM structure of ND6-P25L mutant respiratory complex I from Mus musculus at 3.8 A",
-     "strong": true
-    },
-    {
-     "pdb": "8OLT",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 44,
-     "res": 2.84,
-     "title": "Mitochondrial complex I from Mus musculus in the active state bound with piericidin A",
-     "strong": true
-    },
-    {
-     "pdb": "8CA3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 42,
-     "res": 3.2,
-     "title": "Cryo-EM structure NDUFS4 knockout complex I from Mus musculus heart (Class 2).",
-     "strong": true
-    },
-    {
-     "pdb": "8C2S",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 42,
-     "res": 3.9,
-     "title": "Cryo-EM structure NDUFS4 knockout complex I from Mus musculus heart (Class 1).",
-     "strong": true
-    },
-    {
-     "pdb": "8CA4",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 5,
-     "res": 3.25,
-     "title": "Cryo-EM structure NDUFS4 knockout complex I from Mus musculus heart (Class 2 N-domain).",
-     "strong": true
-    },
-    {
-     "pdb": "8OM1",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 44,
-     "res": 2.39,
-     "title": "Mitochondrial complex I from Mus musculus in the active state",
-     "strong": true
-    },
-    {
-     "pdb": "8IB9",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 54,
-     "res": 4.3,
-     "title": "Respiratory complex CI:CIII2, type IB, Wild type mouse under cold temperature",
-     "strong": true
-    },
-    {
-     "pdb": "8IB4",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 54,
-     "res": 4.3,
-     "title": "Respiratory complex CI:CIII2, type IA, Wild type mouse under cold temperature",
-     "strong": true
-    },
-    {
-     "pdb": "8RGQ",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 44,
-     "res": 3.0,
-     "title": "Open Complex I from murine liver",
-     "strong": true
-    },
-    {
-     "pdb": "8XNP",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.5,
-     "title": "Respiratory complex Peripheral Arm of CI, close form B, focus-refined map of type IA, Wild",
-     "strong": true
-    },
-    {
-     "pdb": "8IC3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.2,
-     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type I, PERK -/- mouse unde",
-     "strong": true
-    },
-    {
-     "pdb": "8XNZ",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.3,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, PERK ",
-     "strong": true
-    },
-    {
-     "pdb": "8XNX",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.5,
-     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type II, Wild ",
-     "strong": true
-    },
-    {
-     "pdb": "8XNO",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.4,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type IA, Wild",
-     "strong": true
-    },
-    {
-     "pdb": "8XNL",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.1,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, Wild ",
-     "strong": true
-    }
-   ],
-   "n_cand": 55,
-   "truncated": true,
-   "n_studies": 9,
-   "studies": [
-    {
-     "pdb": "8OM1",
-     "pubmed": "37531432",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 2.39,
-     "cover": 3,
-     "title": "Mitochondrial complex I from Mus musculus in the active state",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8RGQ",
-     "pubmed": "38575788",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.0,
-     "cover": 3,
-     "title": "Open Complex I from murine liver",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7B93",
-     "pubmed": "33990335",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 3.04,
-     "cover": 3,
-     "title": "Cryo-EM structure of mitochondrial complex I from Mus musculus inhibited by IACS-2858 at 3",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6ZR2",
-     "pubmed": "33067417",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.1,
-     "cover": 3,
-     "title": "Cryo-EM structure of respiratory complex I in the active state from Mus musculus at 3.1 A",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8XNL",
-     "pubmed": "39395414",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.1,
-     "cover": 3,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, Wild ",
-     "n_entries": 8
-    },
-    {
-     "pdb": "8CA3",
-     "pubmed": "38177503",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.2,
-     "cover": 3,
-     "title": "Cryo-EM structure NDUFS4 knockout complex I from Mus musculus heart (Class 2).",
-     "n_entries": 3
-    },
-    {
-     "pdb": "5XTD",
-     "pubmed": "28844695",
-     "method": "cryoEM",
-     "year": "2017",
-     "res": 3.7,
-     "cover": 3,
-     "title": "Cryo-EM structure of human respiratory complex I",
-     "n_entries": 2
-    },
-    {
-     "pdb": "7AK6",
-     "pubmed": "33514727",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 3.82,
-     "cover": 3,
-     "title": "Cryo-EM structure of ND6-P25L mutant respiratory complex I from Mus musculus at 3.8 A",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6G72",
-     "pubmed": "29915388",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.9,
-     "cover": 3,
-     "title": "Mouse mitochondrial complex I in the deactive state",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C30-1": {
@@ -21600,363 +19771,11 @@
   "lcc": null,
   "exp": {
    "sup": false
-  }
- },
- "C11-8_3": {
-  "job": "C11-8_3",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-8_3.zip",
-  "members": [
-   "eIF3m",
-   "eIF3a",
-   "eIF3f1"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "best_model": 0,
-  "has_PAE": true,
-  "iLIS": 0.493,
-  "lcc": null,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 27
-   },
-   "n_pdb": 27,
-   "strong": 27,
-   "best_pdb": "3J8B",
-   "cover": 3,
-   "covered": [
-    "eIF3a",
-    "eIF3f1",
-    "eIF3m"
-   ],
-   "pdbs": [
-    {
-     "pdb": "3J8B",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2014",
-     "size": 8,
-     "res": 9.3,
-     "title": "Model of the human eIF3 PCI-MPN octamer docked into the 43S-HCV IRES EM map",
-     "strong": true
-    },
-    {
-     "pdb": "3J8C",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2014",
-     "size": 8,
-     "res": 11.6,
-     "title": "Model of the human eIF3 PCI-MPN octamer docked into the 43S EM map",
-     "strong": true
-    },
-    {
-     "pdb": "6ZVJ",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 50,
-     "res": 3.8,
-     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State II",
-     "strong": true
-    },
-    {
-     "pdb": "6ZMW",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 57,
-     "res": 3.7,
-     "title": "Structure of a human 48S translational initiation complex",
-     "strong": true
-    },
-    {
-     "pdb": "6YBD",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 19,
-     "res": 3.3,
-     "title": "Structure of a human 48S translational initiation complex - eIF3",
-     "strong": true
-    },
-    {
-     "pdb": "6ZON",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 48,
-     "res": 3.0,
-     "title": "SARS-CoV-2 Nsp1 bound to a human 43S preinitiation ribosome complex - state 1",
-     "strong": true
-    },
-    {
-     "pdb": "7A09",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 54,
-     "res": 3.5,
-     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State III",
-     "strong": true
-    },
-    {
-     "pdb": "6ZP4",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 54,
-     "res": 2.9,
-     "title": "SARS-CoV-2 Nsp1 bound to a human 43S preinitiation ribosome complex - state 2",
-     "strong": true
-    },
-    {
-     "pdb": "7QP7",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 51,
-     "res": 3.7,
-     "title": "Structure of the human 48S initiation complex in closed state (h48S AUG closed)",
-     "strong": true
-    },
-    {
-     "pdb": "7QP6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 53,
-     "res": 4.7,
-     "title": "Structure of the human 48S initiation complex in open state (h48S AUG open)",
-     "strong": true
-    },
-    {
-     "pdb": "8PPL",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 52,
-     "res": 2.65,
-     "title": "MERS-CoV Nsp1 bound to the human 43S pre-initiation complex",
-     "strong": true
-    },
-    {
-     "pdb": "8PJ3",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 54,
-     "res": 3.7,
-     "title": "Structure of human 48S translation initiation complex upon transfer of initiator tRNA to e",
-     "strong": true
-    },
-    {
-     "pdb": "8PJ5",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 51,
-     "res": 2.9,
-     "title": "Structure of human 48S translation initiation complex after eIF2 release prior 60S subunit",
-     "strong": true
-    },
-    {
-     "pdb": "9BLN",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 50,
-     "res": 3.9,
-     "title": "The structure of human Pdcd4 bound to the 40S-eIF4A-eIF3-eIF1 complex",
-     "strong": true
-    },
-    {
-     "pdb": "8OZ0",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 56,
-     "res": 3.5,
-     "title": "Structure of a human 48S translation initiation complex with eIF4F and eIF4A",
-     "strong": true
-    },
-    {
-     "pdb": "8XXN",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 50,
-     "res": 3.6,
-     "title": "Cryo-EM structure of the human 43S ribosome with PDCD4",
-     "strong": true
-    },
-    {
-     "pdb": "8PJ6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 50,
-     "res": 2.9,
-     "title": "Structure of human 48S translation initiation complex with initiator tRNA, eIF1A and eIF3 ",
-     "strong": true
-    },
-    {
-     "pdb": "8PJ4",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 53,
-     "res": 3.2,
-     "title": "Structure of human 48S translation initiation complex after eIF5 release (48S-4)",
-     "strong": true
-    },
-    {
-     "pdb": "8RG0",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 19,
-     "res": 3.4,
-     "title": "Structure of human eIF3 core from closed 48S translation initiation complex",
-     "strong": true
-    },
-    {
-     "pdb": "8PJ1",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 54,
-     "res": 3.4,
-     "title": "Structure of human 48S translation initiation complex in open codon scanning state (48S-1)",
-     "strong": true
-    }
-   ],
-   "n_cand": 27,
-   "truncated": false,
-   "n_studies": 10,
-   "studies": [
-    {
-     "pdb": "8PPL",
-     "pubmed": "37802027",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 2.65,
-     "cover": 3,
-     "title": "MERS-CoV Nsp1 bound to the human 43S pre-initiation complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6ZP4",
-     "pubmed": "32680882",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 2.9,
-     "cover": 3,
-     "title": "SARS-CoV-2 Nsp1 bound to a human 43S preinitiation ribosome complex - state 2",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8PJ6",
-     "pubmed": "39289545",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 2.9,
-     "cover": 3,
-     "title": "Structure of human 48S translation initiation complex with initiator tRNA, eIF1A and eIF3 ",
-     "n_entries": 6
-    },
-    {
-     "pdb": "6YBD",
-     "pubmed": "32883864",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.3,
-     "cover": 3,
-     "title": "Structure of a human 48S translational initiation complex - eIF3",
-     "n_entries": 2
-    },
-    {
-     "pdb": "7A09",
-     "pubmed": "33289941",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.5,
-     "cover": 3,
-     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State III",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8OZ0",
-     "pubmed": "38287194",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.5,
-     "cover": 3,
-     "title": "Structure of a human 48S translation initiation complex with eIF4F and eIF4A",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8XXN",
-     "pubmed": "38641729",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.6,
-     "cover": 3,
-     "title": "Cryo-EM structure of the human 43S ribosome with PDCD4",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7QP7",
-     "pubmed": "35489072",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 3.7,
-     "cover": 3,
-     "title": "Structure of the human 48S initiation complex in closed state (h48S AUG closed)",
-     "n_entries": 2
-    },
-    {
-     "pdb": "9BLN",
-     "pubmed": "39117603",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.9,
-     "cover": 3,
-     "title": "The structure of human Pdcd4 bound to the 40S-eIF4A-eIF3-eIF1 complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "3J8B",
-     "pubmed": "25171412",
-     "method": "cryoEM",
-     "year": "2014",
-     "res": 9.3,
-     "cover": 3,
-     "title": "Model of the human eIF3 PCI-MPN octamer docked into the 43S-HCV IRES EM map",
-     "n_entries": 2
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": null,
+   "n_chains": 3
   }
  },
  "C2-9-1": {
@@ -22099,6 +19918,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C8-3-3": {
@@ -22117,6 +19941,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 3
   }
  },
  "C1-8-2": {
@@ -22135,6 +19964,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C13-8": {
@@ -22246,6 +20080,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C7-5": {
@@ -22264,6 +20103,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C14-1-2": {
@@ -22282,6 +20126,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C12-3-1": {
@@ -22300,6 +20149,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C7-2-1": {
@@ -22318,6 +20172,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C1-1-3": {
@@ -22375,6 +20234,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C7-4-2": {
@@ -22681,6 +20545,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C10-2-3": {
@@ -22699,6 +20568,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C1-3-5": {
@@ -22717,6 +20591,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C1-3-8": {
@@ -22735,6 +20614,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C15-2-2": {
@@ -23122,6 +21006,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C3-5-2": {
@@ -23140,6 +21029,11 @@
   "lcc": null,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C24-1-1": {
@@ -23500,6 +21394,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 13
   }
  },
  "C16-3-1_2": {
@@ -23881,6 +21780,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 13
   }
  },
  "C16-3-1_3": {
@@ -24258,6 +22162,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 11
   }
  },
  "C24-3": {
@@ -24612,6 +22521,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 10
   }
  },
  "C21-3_2": {
@@ -24956,6 +22870,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 10
   }
  },
  "C17-7": {
@@ -25277,6 +23196,11 @@
      "n_entries": 4
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
   }
  },
  "C24-2": {
@@ -25647,6 +23571,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
   }
  },
  "C5-6-1": {
@@ -25996,6 +23925,11 @@
      "n_entries": 3
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
   }
  },
  "C21-1": {
@@ -26393,6 +24327,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
   }
  },
  "C12-4-2_2": {
@@ -26781,6 +24720,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
   }
  },
  "C21-1_2": {
@@ -27167,6 +25111,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C14-1-2_2": {
@@ -27230,6 +25179,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C9-3-2": {
@@ -27426,6 +25380,11 @@
      "n_entries": 5
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C9-2-2": {
@@ -27514,6 +25473,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C4-10-1": {
@@ -27625,350 +25589,11 @@
      "n_entries": 1
     }
    ]
-  }
- },
- "C23-1_2": {
-  "job": "C23-1_2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-1_2.zip",
-  "members": [
-   "ND-20",
-   "ND-23",
-   "ND-49",
-   "ND-75",
-   "ND-B17.2"
-  ],
-  "n": 5,
-  "verdict": "CONFIRMED",
-  "iLIS": 0.555,
-  "best_model": 3,
-  "has_PAE": true,
-  "exp": {
-   "sup": true,
-   "n": 5,
-   "n_pdb": 30,
-   "n_strong": 30,
-   "methods": {
-    "cryoEM": 30
-   },
-   "best_pdb": "8XNP",
-   "best_cover": 5,
-   "best_method": "cryoEM",
-   "covered": [
-    "ND-20",
-    "ND-23",
-    "ND-49",
-    "ND-75",
-    "ND-B17.2"
-   ],
-   "pdbs": [
-    {
-     "pdb": "5XTH",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 68,
-     "res": 3.9,
-     "title": "Cryo-EM structure of human respiratory supercomplex I1III2IV1",
-     "strong": true
-    },
-    {
-     "pdb": "5XTD",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 44,
-     "res": 3.7,
-     "title": "Cryo-EM structure of human respiratory complex I",
-     "strong": true
-    },
-    {
-     "pdb": "6G72",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2018",
-     "size": 44,
-     "res": 3.9,
-     "title": "Mouse mitochondrial complex I in the deactive state",
-     "strong": true
-    },
-    {
-     "pdb": "6ZR2",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 44,
-     "res": 3.1,
-     "title": "Cryo-EM structure of respiratory complex I in the active state from Mus musculus at 3.1 A",
-     "strong": true
-    },
-    {
-     "pdb": "7B93",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 44,
-     "res": 3.04,
-     "title": "Cryo-EM structure of mitochondrial complex I from Mus musculus inhibited by IACS-2858 at 3",
-     "strong": true
-    },
-    {
-     "pdb": "7AK6",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 44,
-     "res": 3.82,
-     "title": "Cryo-EM structure of ND6-P25L mutant respiratory complex I from Mus musculus at 3.8 A",
-     "strong": true
-    },
-    {
-     "pdb": "8OLT",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 44,
-     "res": 2.84,
-     "title": "Mitochondrial complex I from Mus musculus in the active state bound with piericidin A",
-     "strong": true
-    },
-    {
-     "pdb": "8OM1",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 44,
-     "res": 2.39,
-     "title": "Mitochondrial complex I from Mus musculus in the active state",
-     "strong": true
-    },
-    {
-     "pdb": "8IB9",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 54,
-     "res": 4.3,
-     "title": "Respiratory complex CI:CIII2, type IB, Wild type mouse under cold temperature",
-     "strong": true
-    },
-    {
-     "pdb": "8IB4",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 54,
-     "res": 4.3,
-     "title": "Respiratory complex CI:CIII2, type IA, Wild type mouse under cold temperature",
-     "strong": true
-    },
-    {
-     "pdb": "8RGQ",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 44,
-     "res": 3.0,
-     "title": "Open Complex I from murine liver",
-     "strong": true
-    },
-    {
-     "pdb": "8XNP",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.5,
-     "title": "Respiratory complex Peripheral Arm of CI, close form B, focus-refined map of type IA, Wild",
-     "strong": true
-    },
-    {
-     "pdb": "8IC3",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.2,
-     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type I, PERK -/- mouse unde",
-     "strong": true
-    },
-    {
-     "pdb": "8XNZ",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.3,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, PERK ",
-     "strong": true
-    },
-    {
-     "pdb": "8XNX",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.5,
-     "title": "Respiratory complex Peripheral Arm of CI, open form A, focus-refined map of type II, Wild ",
-     "strong": true
-    },
-    {
-     "pdb": "8XNO",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.4,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type IA, Wild",
-     "strong": true
-    },
-    {
-     "pdb": "8XNL",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.1,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, Wild ",
-     "strong": true
-    },
-    {
-     "pdb": "8IBE",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.3,
-     "title": "Respiratory complex Peripheral Arm of CI, focus-refined map of type II, Wild type mouse un",
-     "strong": true
-    },
-    {
-     "pdb": "8XNS",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 23,
-     "res": 3.5,
-     "title": "Respiratory complex Peripheral Arm of CI, close form B, focus-refined map of type IB, Wild",
-     "strong": true
-    },
-    {
-     "pdb": "8RGP",
-     "cover": 5,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 44,
-     "res": 3.0,
-     "title": "Closed Complex I from murine brain",
-     "strong": true
-    }
-   ],
-   "n_cand": 54,
-   "truncated": true,
-   "cover": 5,
-   "strong": 30,
-   "n_studies": 8,
-   "studies": [
-    {
-     "pdb": "8OM1",
-     "pubmed": "37531432",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 2.39,
-     "cover": 5,
-     "title": "Mitochondrial complex I from Mus musculus in the active state",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8RGQ",
-     "pubmed": "38575788",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.0,
-     "cover": 5,
-     "title": "Open Complex I from murine liver",
-     "n_entries": 2
-    },
-    {
-     "pdb": "7B93",
-     "pubmed": "33990335",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 3.04,
-     "cover": 5,
-     "title": "Cryo-EM structure of mitochondrial complex I from Mus musculus inhibited by IACS-2858 at 3",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6ZR2",
-     "pubmed": "33067417",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.1,
-     "cover": 5,
-     "title": "Cryo-EM structure of respiratory complex I in the active state from Mus musculus at 3.1 A",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8XNL",
-     "pubmed": "39395414",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.1,
-     "cover": 5,
-     "title": "Respiratory complex Peripheral Arm of CI, close form A, focus-refined map of type I, Wild ",
-     "n_entries": 10
-    },
-    {
-     "pdb": "5XTD",
-     "pubmed": "28844695",
-     "method": "cryoEM",
-     "year": "2017",
-     "res": 3.7,
-     "cover": 5,
-     "title": "Cryo-EM structure of human respiratory complex I",
-     "n_entries": 2
-    },
-    {
-     "pdb": "7AK6",
-     "pubmed": "33514727",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 3.82,
-     "cover": 5,
-     "title": "Cryo-EM structure of ND6-P25L mutant respiratory complex I from Mus musculus at 3.8 A",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6G72",
-     "pubmed": "29915388",
-     "method": "cryoEM",
-     "year": "2018",
-     "res": 3.9,
-     "cover": 5,
-     "title": "Mouse mitochondrial complex I in the deactive state",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
   }
  },
  "C3-7-1_2": {
@@ -28283,6 +25908,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C12-7_2": {
@@ -28486,6 +26116,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C31-1_2": {
@@ -28742,6 +26377,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C21-1-1_2": {
@@ -29145,6 +26785,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C19-3_2": {
@@ -29444,6 +27089,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C14-1-2_3": {
@@ -29506,6 +27156,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C12-4": {
@@ -29525,6 +27180,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C19-3_3": {
@@ -29825,6 +27485,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C19-6_2": {
@@ -30048,6 +27713,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C19-3_4": {
@@ -30260,6 +27930,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C29-2": {
@@ -30397,6 +28072,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C14-8": {
@@ -30788,6 +28468,11 @@
      "n_entries": 5
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C6-1": {
@@ -30989,6 +28674,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C18-4-1_2": {
@@ -31050,6 +28740,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C6-10": {
@@ -31133,6 +28828,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C18-1": {
@@ -31150,6 +28850,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C6-1_2": {
@@ -31221,6 +28926,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C6-1_3": {
@@ -31238,6 +28948,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-1": {
@@ -31588,6 +29303,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C23-1_3": {
@@ -31938,6 +29658,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-1_2": {
@@ -32288,6 +30013,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C6-1_4": {
@@ -32510,6 +30240,11 @@
      "n_entries": 3
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C9-1": {
@@ -32527,6 +30262,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C7-7": {
@@ -32770,6 +30510,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C14-2-1_2": {
@@ -32971,6 +30716,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C15-3": {
@@ -33390,6 +31140,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C6-1_5": {
@@ -33407,6 +31162,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C15-5": {
@@ -33787,6 +31547,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C8-9_2": {
@@ -33890,6 +31655,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C10-2": {
@@ -33907,99 +31677,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
-  }
- },
- "C12-5": {
-  "job": "C12-5",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-5.zip",
-  "members": [
-   "CG11095",
-   "CG8728",
-   "UQCR-C1"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "iLIS": 0.467,
-  "best_model": 0,
-  "has_PAE": true,
-  "exp": {
-   "sup": true,
-   "n": 3,
-   "n_pdb": 4,
-   "n_strong": 4,
-   "methods": {
-    "X-ray": 4
-   },
-   "best_pdb": "1HR6",
-   "best_cover": 2,
-   "best_method": "X-ray",
-   "covered": [
-    "CG8728",
-    "UQCR-C1"
-   ],
-   "pdbs": [
-    {
-     "pdb": "1HR6",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2001",
-     "size": 2,
-     "res": 2.5,
-     "title": "Yeast Mitochondrial Processing Peptidase",
-     "strong": true
-    },
-    {
-     "pdb": "1HR7",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2001",
-     "size": 2,
-     "res": 2.55,
-     "title": "Yeast Mitochondrial Processing Peptidase beta-E73Q Mutant",
-     "strong": true
-    },
-    {
-     "pdb": "1HR9",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2001",
-     "size": 3,
-     "res": 3.01,
-     "title": "Yeast Mitochondrial Processing Peptidase beta-E73Q Mutant Complexed with Malate Dehydrogen",
-     "strong": true
-    },
-    {
-     "pdb": "1HR8",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2001",
-     "size": 3,
-     "res": 2.7,
-     "title": "Yeast Mitochondrial Processing Peptidase beta-E73Q Mutant Complexed with Cytochrome C Oxid",
-     "strong": true
-    }
-   ],
-   "n_cand": 4,
-   "truncated": false,
-   "cover": 2,
-   "strong": 4,
-   "n_studies": 1,
-   "studies": [
-    {
-     "pdb": "1HR6",
-     "pubmed": "11470436",
-     "method": "X-ray",
-     "year": "2001",
-     "res": 2.5,
-     "cover": 2,
-     "title": "Yeast Mitochondrial Processing Peptidase",
-     "n_entries": 4
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C21-1-1_3": {
@@ -34410,6 +32092,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-5_2": {
@@ -34771,6 +32458,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C8-9_3": {
@@ -34895,6 +32587,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C12-4-2_3": {
@@ -35275,6 +32972,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C10-6": {
@@ -35578,6 +33280,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C12-9_2": {
@@ -35833,6 +33540,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C21-1-1_4": {
@@ -35915,6 +33627,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-3_5": {
@@ -36125,6 +33842,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C10-2_2": {
@@ -36142,6 +33864,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C14-6": {
@@ -36269,6 +33996,11 @@
      "n_entries": 7
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C4-3": {
@@ -36329,6 +34061,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C19-1_3": {
@@ -36346,6 +34083,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C20-3_2": {
@@ -36721,6 +34463,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 8
   }
  },
  "C4-6-1": {
@@ -37133,6 +34880,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 6
   }
  },
  "C18-7_2": {
@@ -37473,6 +35225,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": null,
+   "n_chains": 6
   }
  },
  "C5-3-2": {
@@ -37793,6 +35550,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C31-1_3": {
@@ -38045,6 +35807,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C4-3-1": {
@@ -38405,6 +36172,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C9-1-2_2": {
@@ -38486,6 +36258,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C19-3_6": {
@@ -38663,6 +36440,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
   }
  },
  "C12-5-2_2": {
@@ -38972,6 +36754,11 @@
      "n_entries": 10
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
   }
  },
  "C10-1-3": {
@@ -39104,6 +36891,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
   }
  },
  "C12-3-1_2": {
@@ -39122,6 +36914,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C17-2": {
@@ -39509,6 +37306,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C9-4-2": {
@@ -39527,6 +37329,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C11-4-2": {
@@ -39845,6 +37652,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C6-1-4_2": {
@@ -40191,6 +38003,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 10,
+   "n_chains": 4
   }
  },
  "C4-1-4": {
@@ -40209,6 +38026,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
   }
  },
  "C18-7_3": {
@@ -40428,6 +38250,11 @@
      "n_entries": 2
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 4
   }
  },
  "C12-1-2_2": {
@@ -40550,6 +38377,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 4
   }
  },
  "C19-1-3": {
@@ -40567,136 +38399,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
-  }
- },
- "C10-1-1": {
-  "job": "C10-1-1",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-1-1.zip",
-  "members": [
-   "Arp3",
-   "Arpc2",
-   "Arpc3A"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "iLIS": 0.621,
-  "best_model": 1,
-  "has_PAE": true,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 5
-   },
-   "n_pdb": 5,
-   "strong": 5,
-   "best_pdb": "6YW6",
-   "cover": 2,
-   "covered": [
-    "Arp3",
-    "Arpc2"
-   ],
-   "pdbs": [
-    {
-     "pdb": "6YW6",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 7,
-     "res": 4.2,
-     "title": "Cryo-EM structure of the ARP2/3 1B5CL isoform complex.",
-     "strong": true
-    },
-    {
-     "pdb": "6YW7",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 7,
-     "res": 4.5,
-     "title": "Cryo-EM structure of the ARP2/3 1A5C isoform complex.",
-     "strong": true
-    },
-    {
-     "pdb": "6UHC",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 8,
-     "res": 3.9,
-     "title": "CryoEM structure of human Arp2/3 complex with bound NPFs",
-     "strong": true
-    },
-    {
-     "pdb": "8P94",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 12,
-     "res": 3.3,
-     "title": "Cryo-EM structure of cortactin stabilized Arp2/3-complex nucleated actin branches",
-     "strong": true
-    },
-    {
-     "pdb": "9I2B",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "cryoEM",
-     "year": "2025",
-     "size": 10,
-     "res": 3.0,
-     "title": "SPIN90-Arp2/3 nucleated bidirectional actin filaments",
-     "strong": true
-    }
-   ],
-   "n_cand": 5,
-   "truncated": false,
-   "n_studies": 4,
-   "studies": [
-    {
-     "pdb": "9I2B",
-     "pubmed": "40954369",
-     "method": "cryoEM",
-     "year": "2025",
-     "res": 3.0,
-     "cover": 2,
-     "title": "SPIN90-Arp2/3 nucleated bidirectional actin filaments",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8P94",
-     "pubmed": "38267598",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.3,
-     "cover": 2,
-     "title": "Cryo-EM structure of cortactin stabilized Arp2/3-complex nucleated actin branches",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6UHC",
-     "pubmed": "32548263",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.9,
-     "cover": 2,
-     "title": "CryoEM structure of human Arp2/3 complex with bound NPFs",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6YW6",
-     "pubmed": "32661131",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 4.2,
-     "cover": 2,
-     "title": "Cryo-EM structure of the ARP2/3 1B5CL isoform complex.",
-     "n_entries": 2
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C15-3_2": {
@@ -41133,6 +38840,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C15-3-1": {
@@ -41509,6 +39221,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
   }
  },
  "C9-3-1": {
@@ -41526,194 +39243,11 @@
   "has_PAE": true,
   "exp": {
    "sup": false
-  }
- },
- "C6-10-3": {
-  "job": "C6-10-3",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10-3.zip",
-  "members": [
-   "Dp",
-   "E2f2",
-   "Rbf"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "iLIS": 0.491,
-  "best_model": 1,
-  "has_PAE": true,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "X-ray": 1
-   },
-   "n_pdb": 1,
-   "strong": 1,
-   "best_pdb": "5TUV",
-   "cover": 2,
-   "covered": [
-    "E2f2",
-    "Rbf"
-   ],
-   "pdbs": [
-    {
-     "pdb": "5TUV",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2017",
-     "size": 3,
-     "res": 2.9,
-     "title": "Crystal structure of the E2F5-DP1-p107 ternary complex",
-     "strong": true
-    }
-   ],
-   "n_cand": 1,
-   "truncated": false,
-   "n_studies": 1,
-   "studies": [
-    {
-     "pdb": "5TUV",
-     "pubmed": "28439018",
-     "method": "X-ray",
-     "year": "2017",
-     "res": 2.9,
-     "cover": 2,
-     "title": "Crystal structure of the E2F5-DP1-p107 ternary complex",
-     "n_entries": 1
-    }
-   ]
-  }
- },
- "C7-7-2": {
-  "job": "C7-7-2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-7-2.zip",
-  "members": [
-   "Nup214",
-   "Nup62",
-   "mbo"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "iLIS": 0.447,
-  "best_model": 1,
-  "has_PAE": true,
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 3,
-    "X-ray": 2
-   },
-   "n_pdb": 5,
-   "strong": 5,
-   "best_pdb": "7N9F",
-   "cover": 3,
-   "covered": [
-    "Nup214",
-    "Nup62",
-    "mbo"
-   ],
-   "pdbs": [
-    {
-     "pdb": "7R5J",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 25,
-     "res": 50.0,
-     "title": "Human nuclear pore complex (dilated)",
-     "strong": true
-    },
-    {
-     "pdb": "7N9F",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 21,
-     "res": 37.0,
-     "title": "Structure of the in situ yeast NPC",
-     "strong": true
-    },
-    {
-     "pdb": "7R5K",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 25,
-     "res": 12.0,
-     "title": "Human nuclear pore complex (constricted)",
-     "strong": true
-    },
-    {
-     "pdb": "3PBP",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2011",
-     "size": 3,
-     "res": 2.6,
-     "title": "Structure of the yeast heterotrimeric Nup82-Nup159-Nup116 nucleoporin complex",
-     "strong": true
-    },
-    {
-     "pdb": "3TKN",
-     "cover": 2,
-     "frac": 0.67,
-     "method": "X-ray",
-     "year": "2012",
-     "size": 3,
-     "res": 3.4,
-     "title": "Structure of the Nup82-Nup159-Nup98 heterotrimer",
-     "strong": true
-    }
-   ],
-   "n_cand": 5,
-   "truncated": false,
-   "n_studies": 4,
-   "studies": [
-    {
-     "pdb": "7R5K",
-     "pubmed": "35679397",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 12.0,
-     "cover": 3,
-     "title": "Human nuclear pore complex (constricted)",
-     "n_entries": 2
-    },
-    {
-     "pdb": "7N9F",
-     "pubmed": "34982960",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 37.0,
-     "cover": 3,
-     "title": "Structure of the in situ yeast NPC",
-     "n_entries": 1
-    },
-    {
-     "pdb": "3PBP",
-     "pubmed": "21930948",
-     "method": "X-ray",
-     "year": "2011",
-     "res": 2.6,
-     "cover": 2,
-     "title": "Structure of the yeast heterotrimeric Nup82-Nup159-Nup116 nucleoporin complex",
-     "n_entries": 1
-    },
-    {
-     "pdb": "3TKN",
-     "pubmed": "22480613",
-     "method": "X-ray",
-     "year": "2012",
-     "res": 3.4,
-     "cover": 2,
-     "title": "Structure of the Nup82-Nup159-Nup98 heterotrimer",
-     "n_entries": 1
-    }
-   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C15-1-1": {
@@ -42151,6 +39685,11 @@
      "n_entries": 1
     }
    ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  },
  "C22-7": {
@@ -42168,6 +39707,4496 @@
   "has_PAE": true,
   "exp": {
    "sup": false
+  },
+  "conn": {
+   "admit_fpr": 5,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C23-1": {
+  "job": "C23-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-1.zip",
+  "members": [
+   "CG11752",
+   "ND-13A",
+   "ND-13B",
+   "ND-20L",
+   "ND-23",
+   "ND-24",
+   "ND-30",
+   "ND-39",
+   "ND-49",
+   "ND-51",
+   "ND-75",
+   "ND-B14",
+   "ND-B14.5A",
+   "ND-B17.2"
+  ],
+  "n": 14,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.54,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 14
+  }
+ },
+ "C23-1_2": {
+  "job": "C23-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-1_2.zip",
+  "members": [
+   "CG11752",
+   "ND-13A",
+   "ND-13B",
+   "ND-20",
+   "ND-23",
+   "ND-24",
+   "ND-30",
+   "ND-39",
+   "ND-49",
+   "ND-51",
+   "ND-75",
+   "ND-B14",
+   "ND-B14.5A",
+   "ND-B17.2"
+  ],
+  "n": 14,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.546,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 14
+  }
+ },
+ "C4-5_2": {
+  "job": "C4-5_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-5_2.zip",
+  "members": [
+   "Csl4",
+   "Mpp6",
+   "Mtr3",
+   "Mtr4",
+   "Rrp4",
+   "Rrp40",
+   "Rrp42",
+   "Rrp45",
+   "Rrp46",
+   "Rrp47",
+   "Rrp6",
+   "Ski6"
+  ],
+  "n": 12,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.445,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 12
+  }
+ },
+ "C18-2": {
+  "job": "C18-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-2.zip",
+  "members": [
+   "CG7630",
+   "COX1",
+   "COX2",
+   "COX3",
+   "COX4",
+   "COX5A",
+   "COX5B",
+   "COX6B",
+   "COX7A",
+   "ND-MLRQ",
+   "levy"
+  ],
+  "n": 11,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.571,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 11
+  }
+ },
+ "C23-3_2": {
+  "job": "C23-3_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-3_2.zip",
+  "members": [
+   "CG40472",
+   "ND",
+   "ND-ASHI",
+   "ND-B12",
+   "ND-B15",
+   "ND-B17",
+   "ND-B18",
+   "ND-B22",
+   "ND5"
+  ],
+  "n": 9,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.506,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 9
+  }
+ },
+ "C23-3_3": {
+  "job": "C23-3_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-3_3.zip",
+  "members": [
+   "ND",
+   "ND-ASHI",
+   "ND-B15",
+   "ND-B17",
+   "ND-B18",
+   "ND-B22",
+   "ND-SGDH",
+   "ND5"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.48,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C4-6-1_2": {
+  "job": "C4-6-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-6-1_2.zip",
+  "members": [
+   "Gem2",
+   "SNRPG",
+   "SmD1",
+   "SmD2",
+   "SmE",
+   "SmF",
+   "Smn",
+   "icln"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.531,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 8
+  }
+ },
+ "C18-2-1": {
+  "job": "C18-2-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-2-1.zip",
+  "members": [
+   "CG7630",
+   "COX1",
+   "COX3",
+   "COX5B",
+   "COX7A",
+   "COX8",
+   "ND-MLRQ",
+   "levy"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.529,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C21-3_3": {
+  "job": "C21-3_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-3_3.zip",
+  "members": [
+   "Rpn11",
+   "Rpn12R",
+   "Rpn3",
+   "Rpn5",
+   "Rpn6",
+   "Rpn7",
+   "Rpn8",
+   "Rpn9"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.471,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C20-3_3": {
+  "job": "C20-3_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C20-3_3.zip",
+  "members": [
+   "Cdc45",
+   "DNApol-epsilon58",
+   "Mcm3",
+   "Mcm5",
+   "Mcm6",
+   "Mcm7",
+   "Psf1",
+   "Psf2"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.388,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 8
+  }
+ },
+ "C16-3-1_4": {
+  "job": "C16-3-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3-1_4.zip",
+  "members": [
+   "MED14",
+   "MED15",
+   "MED17",
+   "MED20",
+   "MED27",
+   "MED31",
+   "MED4",
+   "MED6"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.498,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C16-3-1_5": {
+  "job": "C16-3-1_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3-1_5.zip",
+  "members": [
+   "MED11",
+   "MED17",
+   "MED22",
+   "MED28",
+   "MED31",
+   "MED4",
+   "MED8",
+   "MED9"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.526,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C6-12": {
+  "job": "C6-12",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-12.zip",
+  "members": [
+   "Sf3a2",
+   "Sf3b1",
+   "Sf3b2",
+   "Sf3b3",
+   "Sf3b5",
+   "Spx",
+   "kin17",
+   "noi"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.429,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C4-6-2": {
+  "job": "C4-6-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-6-2.zip",
+  "members": [
+   "CG10418",
+   "CG17768",
+   "CG2021",
+   "CG6610",
+   "CG9344",
+   "LSm3",
+   "LSm7"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.708,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 7
+  }
+ },
+ "C17-7_2": {
+  "job": "C17-7_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C17-7_2.zip",
+  "members": [
+   "CSN1b",
+   "CSN4",
+   "CSN7",
+   "CSN8",
+   "Cul2",
+   "EloC",
+   "alien"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.392,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 7
+  }
+ },
+ "C3-7-1_3": {
+  "job": "C3-7-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-7-1_3.zip",
+  "members": [
+   "Taf10b",
+   "Taf2",
+   "Taf4",
+   "Taf5",
+   "Taf6",
+   "Taf8",
+   "Taf9"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.503,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C21-1_3": {
+  "job": "C21-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1_3.zip",
+  "members": [
+   "BCAS2",
+   "Bx42",
+   "CG14641",
+   "CG6015",
+   "Cdc5",
+   "Prp19",
+   "Tango4"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.435,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C6-10_2": {
+  "job": "C6-10_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10_2.zip",
+  "members": [
+   "Dp",
+   "E2f2",
+   "Myb",
+   "Rbf2",
+   "lin-52",
+   "mip130",
+   "mip40"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.429,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C6-10_3": {
+  "job": "C6-10_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10_3.zip",
+  "members": [
+   "Dp",
+   "E2f2",
+   "Myb",
+   "Rbf",
+   "lin-52",
+   "mip130",
+   "mip40"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.339,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C16-3-1_6": {
+  "job": "C16-3-1_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3-1_6.zip",
+  "members": [
+   "MED11",
+   "MED17",
+   "MED22",
+   "MED28",
+   "MED4",
+   "MED6",
+   "MED8"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.538,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C16-4-1": {
+  "job": "C16-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-1.zip",
+  "members": [
+   "MED14",
+   "MED15",
+   "MED17",
+   "MED20",
+   "MED27",
+   "MED30",
+   "ix"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.51,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C31-1_4": {
+  "job": "C31-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C31-1_4.zip",
+  "members": [
+   "EMC1",
+   "EMC2A",
+   "EMC3",
+   "EMC4",
+   "EMC7",
+   "EMC8-9"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.434,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-5-2_3": {
+  "job": "C12-5-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-5-2_3.zip",
+  "members": [
+   "CG11095",
+   "CG8728",
+   "UQCR-14",
+   "UQCR-C1",
+   "UQCR-C2",
+   "UQCR-Q"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.413,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-4-1_2": {
+  "job": "C12-4-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-1_2.zip",
+  "members": [
+   "CG15676",
+   "Pfdn1",
+   "Pfdn2",
+   "Pfdn4",
+   "Pfdn5",
+   "Pfdn6"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.571,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 6
+  }
+ },
+ "C7-7-2": {
+  "job": "C7-7-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-7-2.zip",
+  "members": [
+   "Nup214",
+   "Nup62",
+   "Nxt1",
+   "Panx",
+   "mbo",
+   "nxf2"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.527,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-4-1_3": {
+  "job": "C12-4-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-1_3.zip",
+  "members": [
+   "Pfdn1",
+   "Pfdn2",
+   "Pfdn4",
+   "Pfdn5",
+   "Pfdn6",
+   "mgr"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.571,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 6
+  }
+ },
+ "C9-8_2": {
+  "job": "C9-8_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-8_2.zip",
+  "members": [
+   "Bet3",
+   "Bet5",
+   "CG9067",
+   "Rab19",
+   "Trs23",
+   "Trs33"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.515,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C7-14_2": {
+  "job": "C7-14_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-14_2.zip",
+  "members": [
+   "CG12106",
+   "CG34039",
+   "CG7168",
+   "CG9951",
+   "Vlet",
+   "fidipidine"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.418,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C31-1_5": {
+  "job": "C31-1_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C31-1_5.zip",
+  "members": [
+   "EMC1",
+   "EMC2B",
+   "EMC3",
+   "EMC4",
+   "EMC7",
+   "EMC8-9"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.431,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C4-1-3": {
+  "job": "C4-1-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-3.zip",
+  "members": [
+   "CG1234",
+   "CG32344",
+   "CG32409",
+   "CG7006",
+   "CG8545",
+   "Non3"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.387,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-7": {
+  "job": "C12-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-7.zip",
+  "members": [
+   "Hpr1",
+   "tex",
+   "tho2",
+   "thoc5",
+   "thoc6",
+   "thoc7"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.481,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C19-3_7": {
+  "job": "C19-3_7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-3_7.zip",
+  "members": [
+   "CG5274",
+   "IntS10",
+   "IntS14",
+   "IntS2",
+   "IntS6",
+   "omd"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.374,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-9": {
+  "job": "C12-9",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-9.zip",
+  "members": [
+   "MAGE",
+   "Nse1",
+   "Nse4",
+   "SMC5",
+   "jnj",
+   "qjt"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.287,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 6
+  }
+ },
+ "C10-1": {
+  "job": "C10-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-1.zip",
+  "members": [
+   "Arp3",
+   "Arpc1",
+   "Arpc2",
+   "Arpc3A",
+   "Arpc4",
+   "Arpc5"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.536,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C9-3-2_2": {
+  "job": "C9-3-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-3-2_2.zip",
+  "members": [
+   "Arf102F",
+   "alphaCOP",
+   "beta'COP",
+   "betaCOP",
+   "deltaCOP",
+   "gammaCOP"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.348,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 6
+  }
+ },
+ "C20-3_4": {
+  "job": "C20-3_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C20-3_4.zip",
+  "members": [
+   "Mcm2",
+   "Mcm3",
+   "Mcm5",
+   "Mcm6",
+   "Mcm7",
+   "dpa"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.339,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-4-2": {
+  "job": "C12-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-2.zip",
+  "members": [
+   "CG8117",
+   "RpII15",
+   "RpII18",
+   "RpII215",
+   "Rpb5",
+   "Rpb8"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.52,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C9-3-2_3": {
+  "job": "C9-3-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-3-2_3.zip",
+  "members": [
+   "alphaCOP",
+   "beta'COP",
+   "betaCOP",
+   "deltaCOP",
+   "epsilonCOP",
+   "gammaCOP"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.429,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C10-7-2": {
+  "job": "C10-7-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-7-2.zip",
+  "members": [
+   "Abi",
+   "Cdc42",
+   "HSPC300",
+   "Hem",
+   "SCAR",
+   "Sra-1"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.552,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-7_3": {
+  "job": "C12-7_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-7_3.zip",
+  "members": [
+   "Hel25E",
+   "Hpr1",
+   "tho2",
+   "thoc5",
+   "thoc6",
+   "thoc7"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.472,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C14-1-2_4": {
+  "job": "C14-1-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-2_4.zip",
+  "members": [
+   "Atac1",
+   "Atac2",
+   "D12",
+   "Mes4",
+   "Mocs2B",
+   "wds"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.422,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C9-3-2_4": {
+  "job": "C9-3-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-3-2_4.zip",
+  "members": [
+   "alphaCOP",
+   "beta'COP",
+   "betaCOP",
+   "epsilonCOP",
+   "gammaCOP",
+   "zetaCOP"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.446,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C4-1-1": {
+  "job": "C4-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-1.zip",
+  "members": [
+   "CG3224",
+   "Ip259",
+   "Non1",
+   "Ns2",
+   "RpL24-like",
+   "eIF6"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.485,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C16-4": {
+  "job": "C16-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4.zip",
+  "members": [
+   "MED14",
+   "MED15",
+   "MED17",
+   "MED23",
+   "MED27",
+   "ix"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.464,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C15-2": {
+  "job": "C15-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-2.zip",
+  "members": [
+   "RpL18",
+   "RpL27A",
+   "RpL28",
+   "RpL32",
+   "RpL4",
+   "RpL6"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.465,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C11-8": {
+  "job": "C11-8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-8.zip",
+  "members": [
+   "eIF3a",
+   "eIF3b",
+   "eIF3c",
+   "eIF3f1",
+   "eIF3h",
+   "eIF3m"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.475,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C10-7-2_2": {
+  "job": "C10-7-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-7-2_2.zip",
+  "members": [
+   "Abi",
+   "HSPC300",
+   "Hem",
+   "Rac1",
+   "Sra-1",
+   "gukh"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.55,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 6
+  }
+ },
+ "C16-3-1_7": {
+  "job": "C16-3-1_7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3-1_7.zip",
+  "members": [
+   "MED21",
+   "MED31",
+   "MED4",
+   "MED7",
+   "MED9",
+   "skd"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.449,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C21-1-1_5": {
+  "job": "C21-1-1_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1-1_5.zip",
+  "members": [
+   "Bx42",
+   "CG15525",
+   "CG3436",
+   "Prp8",
+   "crn",
+   "holn1"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.408,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 6
+  }
+ },
+ "C13-7_2": {
+  "job": "C13-7_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-7_2.zip",
+  "members": [
+   "Vps11",
+   "Vps16A",
+   "Vps39",
+   "car",
+   "dor",
+   "lt"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.45,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-1-3_2": {
+  "job": "C12-1-3_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-1-3_2.zip",
+  "members": [
+   "Atg6",
+   "CG42554",
+   "Pi3K59F",
+   "Rubicon",
+   "Uvrag",
+   "Vps15"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.353,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C21-3_4": {
+  "job": "C21-3_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-3_4.zip",
+  "members": [
+   "Rpn10",
+   "Rpn5",
+   "Rpn6",
+   "Rpn8",
+   "Rpn9"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.441,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C21-3_5": {
+  "job": "C21-3_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-3_5.zip",
+  "members": [
+   "Rpn12",
+   "Rpn2",
+   "Rpt3",
+   "Rpt6",
+   "Ubqn"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.467,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C3-7-1_4": {
+  "job": "C3-7-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-7-1_4.zip",
+  "members": [
+   "Taf10",
+   "Taf4",
+   "Taf5",
+   "Taf6",
+   "Taf9"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.517,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C9-3-2_5": {
+  "job": "C9-3-2_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-3-2_5.zip",
+  "members": [
+   "ArfGAP3",
+   "beta'COP",
+   "betaCOP",
+   "deltaCOP",
+   "gammaCOP"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.374,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 5
+  }
+ },
+ "C4-1-4_2": {
+  "job": "C4-1-4_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-4_2.zip",
+  "members": [
+   "CG13096",
+   "CG1785",
+   "CG4364",
+   "CG6937",
+   "RpL7-like"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.42,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C31-1_6": {
+  "job": "C31-1_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C31-1_6.zip",
+  "members": [
+   "EMC1",
+   "EMC10",
+   "EMC3",
+   "EMC4",
+   "EMC7"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.413,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C10-6-2_2": {
+  "job": "C10-6-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-6-2_2.zip",
+  "members": [
+   "Dh44",
+   "Dh44-R2",
+   "Dhit",
+   "Galphao",
+   "Gbeta13F"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.43,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C9-2-2_2": {
+  "job": "C9-2-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-2-2_2.zip",
+  "members": [
+   "Exo70",
+   "Sec3",
+   "Sec5",
+   "Sec6",
+   "Sec8"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.451,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 5
+  }
+ },
+ "C23-4_2": {
+  "job": "C23-4_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-4_2.zip",
+  "members": [
+   "ND-B14.7",
+   "ND1",
+   "ND2",
+   "ND3",
+   "ND6"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.488,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C10-1-3_2": {
+  "job": "C10-1-3_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-1-3_2.zip",
+  "members": [
+   "Arp2",
+   "Arpc1",
+   "Arpc2",
+   "Arpc4",
+   "Arpc5"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.55,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 5
+  }
+ },
+ "C7-4-2_2": {
+  "job": "C7-4-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-4-2_2.zip",
+  "members": [
+   "Grip128",
+   "Grip163",
+   "Grip75",
+   "Grip84",
+   "Grip91"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.366,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C21-3_6": {
+  "job": "C21-3_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-3_6.zip",
+  "members": [
+   "Rpn12",
+   "Rpn3",
+   "Rpt3",
+   "Rpt6",
+   "Ubqn"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.449,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C4-1-1_2": {
+  "job": "C4-1-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-1_2.zip",
+  "members": [
+   "CG3224",
+   "Non1",
+   "Ns1",
+   "RpL24-like",
+   "eIF6"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.443,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 5
+  }
+ },
+ "C19-5_3": {
+  "job": "C19-5_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-5_3.zip",
+  "members": [
+   "CG8272",
+   "Cand1",
+   "Cul1",
+   "Roc1b",
+   "SkpA"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.399,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 5
+  }
+ },
+ "C4-10-1_2": {
+  "job": "C4-10-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-10-1_2.zip",
+  "members": [
+   "Cpsf100",
+   "Cpsf73",
+   "FLASH",
+   "Lsm11",
+   "Sym"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.391,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C12-1-3_3": {
+  "job": "C12-1-3_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-1-3_3.zip",
+  "members": [
+   "Atg14",
+   "Atg6",
+   "Pi3K59F",
+   "Rubicon",
+   "Vps15"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.405,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C9-2-1_2": {
+  "job": "C9-2-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-2-1_2.zip",
+  "members": [
+   "CCDC53",
+   "FAM21",
+   "SWIP",
+   "Strump",
+   "wash"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.54,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 5
+  }
+ },
+ "C11-13-2_2": {
+  "job": "C11-13-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-13-2_2.zip",
+  "members": [
+   "CG8142",
+   "Gnf1",
+   "RfC3",
+   "RfC38",
+   "RfC4"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.369,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C11-4-1_2": {
+  "job": "C11-4-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-4-1_2.zip",
+  "members": [
+   "Brms1",
+   "CG14220",
+   "CG3815",
+   "HDAC1",
+   "Sin3A"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.522,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C4-1-1_3": {
+  "job": "C4-1-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-1_3.zip",
+  "members": [
+   "CG8939",
+   "Ip259",
+   "Non1",
+   "Ns2",
+   "RpL24-like"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.501,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C13-2-1_2": {
+  "job": "C13-2-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-2-1_2.zip",
+  "members": [
+   "Sec20",
+   "Sec22",
+   "Slh",
+   "Syx18",
+   "Use1"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.507,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C6-10-1_2": {
+  "job": "C6-10-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10-1_2.zip",
+  "members": [
+   "aly",
+   "comr",
+   "tomb",
+   "topi",
+   "wuc"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.433,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C22-2_2": {
+  "job": "C22-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C22-2_2.zip",
+  "members": [
+   "Ercc1",
+   "Xpac",
+   "mei-9",
+   "mus312",
+   "slx1"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.402,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C14-1-1_2": {
+  "job": "C14-1-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-1_2.zip",
+  "members": [
+   "MBD-R2",
+   "Rcd1",
+   "Rcd5",
+   "dgt1",
+   "nsl1"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.54,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 5
+  }
+ },
+ "C3-7-1_5": {
+  "job": "C3-7-1_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-7-1_5.zip",
+  "members": [
+   "Taf4",
+   "Taf5",
+   "Taf6",
+   "Taf9",
+   "bip2"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.548,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C18-6": {
+  "job": "C18-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-6.zip",
+  "members": [
+   "CG31357",
+   "CG3295",
+   "CG6617",
+   "CG7611",
+   "RanBPM"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.453,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C11-4-1_3": {
+  "job": "C11-4-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-4-1_3.zip",
+  "members": [
+   "Brms1",
+   "CG14220",
+   "CG7379",
+   "Sap130",
+   "Sin3A"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.389,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C21-1-1_6": {
+  "job": "C21-1-1_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1-1_6.zip",
+  "members": [
+   "BCAS2",
+   "Bx42",
+   "Cdc5",
+   "Prp8",
+   "Tango4"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.44,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C6-12_2": {
+  "job": "C6-12_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-12_2.zip",
+  "members": [
+   "CG7810",
+   "Sf3b1",
+   "Sf3b3",
+   "Sf3b5",
+   "Sf3b6"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.511,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C14-6_2": {
+  "job": "C14-6_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-6_2.zip",
+  "members": [
+   "Caf1-55",
+   "E(z)",
+   "MTA1-like",
+   "Su(z)12",
+   "escl"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.369,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C21-1-1_7": {
+  "job": "C21-1-1_7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1-1_7.zip",
+  "members": [
+   "Bx42",
+   "CG1965",
+   "CG6674",
+   "Prp8",
+   "holn1"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.35,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 5
+  }
+ },
+ "C4-8_2": {
+  "job": "C4-8_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-8_2.zip",
+  "members": [
+   "CG12325",
+   "CG1671",
+   "CG8064",
+   "CG9799"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.468,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "Fum1Fum2Fum3-4mer": {
+  "job": "Fum1Fum2Fum3-4mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Fum1Fum2Fum3-4mer.zip",
+  "members": [
+   "Fum1",
+   "Fum2",
+   "Fum3",
+   "Fum4"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.626,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C5-7-2": {
+  "job": "C5-7-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-7-2.zip",
+  "members": [
+   "CG32026",
+   "CG3483",
+   "Idh3a",
+   "Idh3b"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.392,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C2-11-2_2": {
+  "job": "C2-11-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C2-11-2_2.zip",
+  "members": [
+   "CG7071",
+   "Vha100-1",
+   "VhaAC39-1",
+   "VhaM9.7-b"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.43,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C19-3_8": {
+  "job": "C19-3_8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-3_8.zip",
+  "members": [
+   "IntS2",
+   "IntS6",
+   "IntS8",
+   "omd"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.457,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C16-4-2_2": {
+  "job": "C16-4-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-2_2.zip",
+  "members": [
+   "MED15",
+   "MED16",
+   "MED23",
+   "MED24"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.37,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "MadSmurfsax-4mer": {
+  "job": "MadSmurfsax-4mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/MadSmurfsax-4mer.zip",
+  "members": [
+   "Mad",
+   "Smurf",
+   "sax",
+   "wit"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.348,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 4
+  }
+ },
+ "C18-4-1_3": {
+  "job": "C18-4-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1_3.zip",
+  "members": [
+   "SdhA",
+   "SdhBL",
+   "SdhC",
+   "SdhD"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.636,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C22-1": {
+  "job": "C22-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C22-1.zip",
+  "members": [
+   "mRpL40",
+   "mRpL46",
+   "mRpL48",
+   "mRpL55"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.567,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C10-6-2_3": {
+  "job": "C10-6-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-6-2_3.zip",
+  "members": [
+   "Dh44",
+   "Dh44-R1",
+   "Galphao",
+   "Gbeta13F"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.466,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C19-3_9": {
+  "job": "C19-3_9",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-3_9.zip",
+  "members": [
+   "IntS1",
+   "IntS12",
+   "IntS4",
+   "omd"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.404,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C9-3-1_2": {
+  "job": "C9-3-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-3-1_2.zip",
+  "members": [
+   "Rab23",
+   "frtz",
+   "fy",
+   "in"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.455,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C18-4-1_4": {
+  "job": "C18-4-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1_4.zip",
+  "members": [
+   "SdhA",
+   "SdhB",
+   "SdhC",
+   "SdhD"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.627,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C19-3_10": {
+  "job": "C19-3_10",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-3_10.zip",
+  "members": [
+   "CG5274",
+   "IntS1",
+   "IntS2",
+   "omd"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.4,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C19-3_11": {
+  "job": "C19-3_11",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-3_11.zip",
+  "members": [
+   "CG5274",
+   "IntS2",
+   "IntS8",
+   "omd"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.436,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C18-4-1_5": {
+  "job": "C18-4-1_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1_5.zip",
+  "members": [
+   "CG6629",
+   "SdhA",
+   "SdhBL",
+   "SdhD"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.623,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C18-4-1_6": {
+  "job": "C18-4-1_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1_6.zip",
+  "members": [
+   "CG6629",
+   "SdhA",
+   "SdhB",
+   "SdhD"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.605,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C16-4-2_3": {
+  "job": "C16-4-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-2_3.zip",
+  "members": [
+   "MED14",
+   "MED15",
+   "MED23",
+   "MED24"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.461,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C23-1_4": {
+  "job": "C23-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-1_4.zip",
+  "members": [
+   "ND-20",
+   "ND-23",
+   "ND-B17.2",
+   "ND1"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.526,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "CNPYbCdc37Gp93-4mer": {
+  "job": "CNPYbCdc37Gp93-4mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CNPYbCdc37Gp93-4mer.zip",
+  "members": [
+   "CNPYb",
+   "Cdc37",
+   "Gp93",
+   "Hsp83"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.338,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 4
+  }
+ },
+ "C19-2_2": {
+  "job": "C19-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-2_2.zip",
+  "members": [
+   "CG31855",
+   "Cul4",
+   "mahj",
+   "pic"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.497,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C3-3-4_2": {
+  "job": "C3-3-4_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-3-4_2.zip",
+  "members": [
+   "CG3909",
+   "Ctr9",
+   "atms",
+   "hyx"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.451,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-6-2_2": {
+  "job": "C14-6-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-6-2_2.zip",
+  "members": [
+   "Caf1-55",
+   "E(z)",
+   "Pcl",
+   "Su(z)12"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.315,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C9-2-2_3": {
+  "job": "C9-2-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-2-2_3.zip",
+  "members": [
+   "Exo70",
+   "Exo84",
+   "Sec10",
+   "Sec15"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.43,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C13-2": {
+  "job": "C13-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-2.zip",
+  "members": [
+   "Syx13",
+   "Syx6",
+   "Vamp7",
+   "Vti1a"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.538,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C8-9_4": {
+  "job": "C8-9_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-9_4.zip",
+  "members": [
+   "Atxn7",
+   "Sgf11",
+   "e(y)2",
+   "not"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.478,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C4-1-5": {
+  "job": "C4-1-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-5.zip",
+  "members": [
+   "CG4364",
+   "CG5033",
+   "CG6724",
+   "CG8939"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.429,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-6-2_3": {
+  "job": "C14-6-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-6-2_3.zip",
+  "members": [
+   "E(z)",
+   "Pcl",
+   "Su(z)12",
+   "escl"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.501,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C12-4-2_4": {
+  "job": "C12-4-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-2_4.zip",
+  "members": [
+   "RpIIIC160",
+   "Rpb5",
+   "Rpb8",
+   "uri"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.439,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C23-4_3": {
+  "job": "C23-4_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-4_3.zip",
+  "members": [
+   "ND-20",
+   "ND1",
+   "ND3",
+   "ND6"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.469,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C24-1-1_2": {
+  "job": "C24-1-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-1-1_2.zip",
+  "members": [
+   "mRpS18C",
+   "mRpS2",
+   "mRpS23",
+   "mRpS28"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.451,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C4-1-5_2": {
+  "job": "C4-1-5_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-5_2.zip",
+  "members": [
+   "CG4364",
+   "CG5033",
+   "CG6724",
+   "RpL7-like"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.431,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C6-4-2_2": {
+  "job": "C6-4-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-4-2_2.zip",
+  "members": [
+   "DNApol-zeta",
+   "Pol31",
+   "Pol32",
+   "Rev1"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.389,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-6-2_4": {
+  "job": "C14-6-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-6-2_4.zip",
+  "members": [
+   "E(z)",
+   "Pcl",
+   "Su(z)12",
+   "esc"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.489,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C16-1-1_2": {
+  "job": "C16-1-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-1-1_2.zip",
+  "members": [
+   "Bap111",
+   "Bap60",
+   "brm",
+   "mor"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.493,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C14-4-2": {
+  "job": "C14-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-4-2.zip",
+  "members": [
+   "CG3448",
+   "DNAlig4",
+   "Irbp",
+   "Ku80"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.384,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C6-1-4_3": {
+  "job": "C6-1-4_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-1-4_3.zip",
+  "members": [
+   "Cdk7",
+   "CycH",
+   "Mat1",
+   "Taf7"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.425,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C20-7_2": {
+  "job": "C20-7_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C20-7_2.zip",
+  "members": [
+   "DNApol-alpha180",
+   "DNApol-alpha50",
+   "DNApol-alpha60",
+   "DNApol-alpha73"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.368,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C6-4-2_3": {
+  "job": "C6-4-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-4-2_3.zip",
+  "members": [
+   "DNApol-delta",
+   "PCNA2",
+   "Pol31",
+   "Pol32"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.434,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C13-8_2": {
+  "job": "C13-8_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-8_2.zip",
+  "members": [
+   "GAA1",
+   "PIG-K",
+   "PIG-S",
+   "PIG-T"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.492,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C3-9-1_2": {
+  "job": "C3-9-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-9-1_2.zip",
+  "members": [
+   "His2A:CG31618",
+   "His2B:CG33868",
+   "Psc",
+   "Sce"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.414,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C15-3-1_2": {
+  "job": "C15-3-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-3-1_2.zip",
+  "members": [
+   "RpS16",
+   "RpS19a",
+   "RpS28b",
+   "RpS5a"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.538,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C16-9_2": {
+  "job": "C16-9_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-9_2.zip",
+  "members": [
+   "CG9922",
+   "Naa15-16",
+   "san",
+   "vnc"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.576,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C5-6-1_2": {
+  "job": "C5-6-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-6-1_2.zip",
+  "members": [
+   "Vha14-1",
+   "Vha36-1",
+   "Vha55",
+   "Vha68-2"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.402,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-7_2": {
+  "job": "C14-7_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-7_2.zip",
+  "members": [
+   "CG3587",
+   "Elp1",
+   "Elp2",
+   "Elp3"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.35,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C19-6_3": {
+  "job": "C19-6_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-6_3.zip",
+  "members": [
+   "Cap-D3",
+   "Cap-H2",
+   "SMC2",
+   "glu"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.391,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C15-2-1_2": {
+  "job": "C15-2-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-2-1_2.zip",
+  "members": [
+   "RpL13A",
+   "RpL14",
+   "RpL18A",
+   "RpL6"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.46,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C10-5-2": {
+  "job": "C10-5-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-5-2.zip",
+  "members": [
+   "beat-Ic",
+   "beat-VI",
+   "side-II",
+   "side-III"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.429,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C21-5_2": {
+  "job": "C21-5_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-5_2.zip",
+  "members": [
+   "dgt2",
+   "dgt3",
+   "dgt5",
+   "wac"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.587,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C9-6": {
+  "job": "C9-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-6.zip",
+  "members": [
+   "AP-1gamma",
+   "AP-1mu",
+   "AP-1sigma",
+   "spdo"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.399,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C7-2-1_2": {
+  "job": "C7-2-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-2-1_2.zip",
+  "members": [
+   "Blos2",
+   "Dysb",
+   "Muted",
+   "Snapin"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.572,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C12-4-2_5": {
+  "job": "C12-4-2_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-2_5.zip",
+  "members": [
+   "CG33785",
+   "RpIIIC160",
+   "Rpb5",
+   "Rpb8"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.456,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C19-6_4": {
+  "job": "C19-6_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-6_4.zip",
+  "members": [
+   "Cap-G",
+   "SMC2",
+   "barr",
+   "glu"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.366,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 4
+  }
+ },
+ "C14-7_3": {
+  "job": "C14-7_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-7_3.zip",
+  "members": [
+   "CG15891",
+   "TSG101",
+   "Vps28",
+   "Vps37B"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.593,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C6-9-1": {
+  "job": "C6-9-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-9-1.zip",
+  "members": [
+   "CG7483",
+   "btz",
+   "mago",
+   "tsu"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.537,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C26-1_2": {
+  "job": "C26-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C26-1_2.zip",
+  "members": [
+   "SA",
+   "dmt",
+   "pds5",
+   "vtd"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.358,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C9-4-2_2": {
+  "job": "C9-4-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-4-2_2.zip",
+  "members": [
+   "AP-1-2beta",
+   "AP-2alpha",
+   "AP-2mu",
+   "AP-2sigma"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.479,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C16-3-1_8": {
+  "job": "C16-3-1_8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3-1_8.zip",
+  "members": [
+   "MED17",
+   "MED22",
+   "MED27",
+   "MED30"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.523,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C4-1": {
+  "job": "C4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1.zip",
+  "members": [
+   "CG11583",
+   "CG1234",
+   "CG5033",
+   "CG8939"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.383,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-8-1_2": {
+  "job": "C14-8-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-8-1_2.zip",
+  "members": [
+   "Daxx",
+   "His3:CG33803",
+   "His4r",
+   "asf1"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.533,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C12-4-2_6": {
+  "job": "C12-4-2_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-2_6.zip",
+  "members": [
+   "RpII15",
+   "RpII215",
+   "Rpb5",
+   "uri"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.455,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C15-3_3": {
+  "job": "C15-3_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-3_3.zip",
+  "members": [
+   "RpS2",
+   "RpS21",
+   "sta",
+   "trus"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.504,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C21-4_2": {
+  "job": "C21-4_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-4_2.zip",
+  "members": [
+   "CG12096",
+   "Rpn1",
+   "Rpt1",
+   "Rpt2"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.307,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C19-6_5": {
+  "job": "C19-6_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-6_5.zip",
+  "members": [
+   "Cap-D2",
+   "Cap-G",
+   "SMC2",
+   "barr"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.384,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C1-7-2": {
+  "job": "C1-7-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-7-2.zip",
+  "members": [
+   "Cdk5alpha",
+   "E(spl)m7-HLH",
+   "E(spl)mgamma-HLH",
+   "nmo"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.362,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 4
+  }
+ },
+ "C1-3-5_2": {
+  "job": "C1-3-5_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-3-5_2.zip",
+  "members": [
+   "TfIIEalpha",
+   "Tfb5",
+   "hay",
+   "mrn"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.449,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C11-13-1_2": {
+  "job": "C11-13-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-13-1_2.zip",
+  "members": [
+   "Br140",
+   "Eaf6",
+   "Ing5",
+   "enok"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.514,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C21-1-1_8": {
+  "job": "C21-1-1_8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1-1_8.zip",
+  "members": [
+   "CG3436",
+   "CG4849",
+   "Prp8",
+   "l(1)10Bb"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.495,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C21-5_3": {
+  "job": "C21-5_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-5_3.zip",
+  "members": [
+   "dgt3",
+   "dgt4",
+   "dgt5",
+   "dgt6"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.432,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C17-8": {
+  "job": "C17-8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C17-8.zip",
+  "members": [
+   "Apc",
+   "Kap3",
+   "Klp64D",
+   "Klp68D"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.455,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C26-1_3": {
+  "job": "C26-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C26-1_3.zip",
+  "members": [
+   "SA",
+   "SMC1",
+   "SMC3",
+   "vtd"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.47,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C8-3-3_2": {
+  "job": "C8-3-3_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-3-3_2.zip",
+  "members": [
+   "CG15262",
+   "Not1",
+   "Not3",
+   "nos"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.431,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-6-2_5": {
+  "job": "C14-6-2_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-6-2_5.zip",
+  "members": [
+   "E(z)",
+   "Jarid2",
+   "Su(z)12",
+   "escl"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.392,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C18-1_2": {
+  "job": "C18-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-1_2.zip",
+  "members": [
+   "Mhc",
+   "Mlc1",
+   "Mlc2",
+   "Prm"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.394,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C5-7-1": {
+  "job": "C5-7-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-7-1.zip",
+  "members": [
+   "ATPsyndelta",
+   "ATPsyngamma",
+   "sun"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.716,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C10-6_2": {
+  "job": "C10-6_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-6_2.zip",
+  "members": [
+   "Galphai",
+   "Gbeta13F",
+   "Ggamma1"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.679,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C19-4": {
+  "job": "C19-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-4.zip",
+  "members": [
+   "CG3651",
+   "SkpC",
+   "morgue"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.487,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C18-4-1_7": {
+  "job": "C18-4-1_7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1_7.zip",
+  "members": [
+   "CG6629",
+   "SdhAL",
+   "SdhBL"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.541,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "CstF64Ssu72Sym-3mer": {
+  "job": "CstF64Ssu72Sym-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CstF64Ssu72Sym-3mer.zip",
+  "members": [
+   "CstF64",
+   "Ssu72",
+   "Sym"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.582,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C4-7_2": {
+  "job": "C4-7_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-7_2.zip",
+  "members": [
+   "AIMP1",
+   "ArgRS",
+   "GlnRS"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.516,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "Gbeta13FGgamma1cta-3mer": {
+  "job": "Gbeta13FGgamma1cta-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Gbeta13FGgamma1cta-3mer.zip",
+  "members": [
+   "Gbeta13F",
+   "Ggamma1",
+   "cta"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.614,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG7650Gbeta13FGgamma1-3mer": {
+  "job": "CG7650Gbeta13FGgamma1-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG7650Gbeta13FGgamma1-3mer.zip",
+  "members": [
+   "CG7650",
+   "Gbeta13F",
+   "Ggamma1"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.637,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C8-7": {
+  "job": "C8-7",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-7.zip",
+  "members": [
+   "CG7766",
+   "CG8475",
+   "PhKgamma"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.359,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C21-2-2": {
+  "job": "C21-2-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-2-2.zip",
+  "members": [
+   "Lst8",
+   "Sin1",
+   "rictor"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.391,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "C1-5-1": {
+  "job": "C1-5-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-5-1.zip",
+  "members": [
+   "RpII140",
+   "RpII33",
+   "TfIIFbeta"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.455,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C5-6-1_3": {
+  "job": "C5-6-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-6-1_3.zip",
+  "members": [
+   "Vha26",
+   "Vha55",
+   "Vha68-2"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.48,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C9-1-3_2": {
+  "job": "C9-1-3_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-1-3_2.zip",
+  "members": [
+   "TBC1D5",
+   "Vps29",
+   "Vps35"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.511,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C4-8_3": {
+  "job": "C4-8_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-8_3.zip",
+  "members": [
+   "CG11920",
+   "CG13097",
+   "CG4866"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.468,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG3225CG4935CG8833-3mer": {
+  "job": "CG3225CG4935CG8833-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG3225CG4935CG8833-3mer.zip",
+  "members": [
+   "CG3225",
+   "CG4935",
+   "CG8833"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.443,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C16-4-2_4": {
+  "job": "C16-4-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-2_4.zip",
+  "members": [
+   "MED1",
+   "MED23",
+   "MED24"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.476,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C9-8_3": {
+  "job": "C9-8_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C9-8_3.zip",
+  "members": [
+   "CG11396",
+   "CG4953",
+   "gry"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.42,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C16-4-2_5": {
+  "job": "C16-4-2_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-4-2_5.zip",
+  "members": [
+   "CG15141",
+   "MED23",
+   "MED24"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.425,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG7215CG7546CG9853-3mer": {
+  "job": "CG7215CG7546CG9853-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG7215CG7546CG9853-3mer.zip",
+  "members": [
+   "CG7215",
+   "CG7546",
+   "CG9853"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.563,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "Caf1105Caf1180Caf155-3mer": {
+  "job": "Caf1105Caf1180Caf155-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Caf1105Caf1180Caf155-3mer.zip",
+  "members": [
+   "Caf1-105",
+   "Caf1-180",
+   "Caf1-55"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.444,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C19-5_4": {
+  "job": "C19-5_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-5_4.zip",
+  "members": [
+   "Cul3",
+   "Roc1b",
+   "dbo"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.447,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "Sf3a1Sf3a2noi-3mer": {
+  "job": "Sf3a1Sf3a2noi-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Sf3a1Sf3a2noi-3mer.zip",
+  "members": [
+   "Sf3a1",
+   "Sf3a2",
+   "noi"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.373,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "C19-2_3": {
+  "job": "C19-2_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-2_3.zip",
+  "members": [
+   "CG31855",
+   "DCAF12",
+   "pic"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.418,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C19-2_4": {
+  "job": "C19-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-2_4.zip",
+  "members": [
+   "CG31855",
+   "ohgt",
+   "pic"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.486,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C7-7-1": {
+  "job": "C7-7-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-7-1.zip",
+  "members": [
+   "Nup54",
+   "Nup58",
+   "Nup93-1"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.373,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C1-5-1_2": {
+  "job": "C1-5-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-5-1_2.zip",
+  "members": [
+   "RpII140",
+   "RpII33",
+   "Rpb11"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.576,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C18-4-1_8": {
+  "job": "C18-4-1_8",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C18-4-1_8.zip",
+  "members": [
+   "CG6629",
+   "SdhAL",
+   "SdhB"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.504,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C6-1-3": {
+  "job": "C6-1-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-1-3.zip",
+  "members": [
+   "Cdk2",
+   "Cks85A",
+   "Skp2"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.54,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "PpVTimpfmt-3mer": {
+  "job": "PpVTimpfmt-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/PpVTimpfmt-3mer.zip",
+  "members": [
+   "PpV",
+   "Timp",
+   "fmt"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.446,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "Fs2KetKapalpha3Nup50-3mer": {
+  "job": "Fs2KetKapalpha3Nup50-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Fs2KetKapalpha3Nup50-3mer.zip",
+  "members": [
+   "Fs(2)Ket",
+   "Kap-alpha3",
+   "Nup50"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.417,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C1-1": {
+  "job": "C1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-1.zip",
+  "members": [
+   "Fcp1",
+   "Rpb4",
+   "Rpb7"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.338,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "C26-1_4": {
+  "job": "C26-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C26-1_4.zip",
+  "members": [
+   "Nipped-B",
+   "SA",
+   "vtd"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.425,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG42271IPIPOcrl-3mer": {
+  "job": "CG42271IPIPOcrl-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG42271IPIPOcrl-3mer.zip",
+  "members": [
+   "CG42271",
+   "IPIP",
+   "Ocrl"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.4,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C3-4-2": {
+  "job": "C3-4-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-4-2.zip",
+  "members": [
+   "CG6380",
+   "Pp1-87B",
+   "sds22"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.611,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C13-10": {
+  "job": "C13-10",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-10.zip",
+  "members": [
+   "Gasz",
+   "armi",
+   "daed"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.456,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "ICA69PICK1Rab2-3mer": {
+  "job": "ICA69PICK1Rab2-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/ICA69PICK1Rab2-3mer.zip",
+  "members": [
+   "ICA69",
+   "PICK1",
+   "Rab2"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.531,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C13-2_2": {
+  "job": "C13-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-2_2.zip",
+  "members": [
+   "Rop",
+   "Snap24",
+   "Syx1A"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.221,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "C5-3-3": {
+  "job": "C5-3-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-3-3.zip",
+  "members": [
+   "HP6",
+   "Su(var)205",
+   "cav"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.752,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C6-10-1_3": {
+  "job": "C6-10-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-10-1_3.zip",
+  "members": [
+   "aly",
+   "mip40",
+   "tomb"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.557,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG4038CG7637Nop60B-3mer": {
+  "job": "CG4038CG7637Nop60B-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG4038CG7637Nop60B-3mer.zip",
+  "members": [
+   "CG4038",
+   "CG7637",
+   "Nop60B"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.589,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C19-5_5": {
+  "job": "C19-5_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-5_5.zip",
+  "members": [
+   "Cand1",
+   "Cul3",
+   "Roc1b"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.449,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C10-2-3_2": {
+  "job": "C10-2-3_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C10-2-3_2.zip",
+  "members": [
+   "Ced-12",
+   "RacGAP84C",
+   "Rho1"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.316,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "C19-5_6": {
+  "job": "C19-5_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-5_6.zip",
+  "members": [
+   "Cul3",
+   "KLHL18",
+   "Roc1b"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.428,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C14-1-2_5": {
+  "job": "C14-1-2_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-2_5.zip",
+  "members": [
+   "Ada2a",
+   "Atac1",
+   "Gcn5"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.387,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C5-2-6_2": {
+  "job": "C5-2-6_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-2-6_2.zip",
+  "members": [
+   "CG14464",
+   "egg",
+   "wde"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.435,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C19-2_5": {
+  "job": "C19-2_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-2_5.zip",
+  "members": [
+   "CG31855",
+   "l(2)dtl",
+   "pic"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.363,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C7-5_2": {
+  "job": "C7-5_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-5_2.zip",
+  "members": [
+   "Flacc",
+   "fl(2)d",
+   "vir"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.373,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C5-8-2": {
+  "job": "C5-8-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-8-2.zip",
+  "members": [
+   "Cam",
+   "Mlc-c",
+   "jar"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.447,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C1-4-5": {
+  "job": "C1-4-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C1-4-5.zip",
+  "members": [
+   "CoRest",
+   "HDAC1",
+   "Su(var)3-3"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.517,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C15-4-3": {
+  "job": "C15-4-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-4-3.zip",
+  "members": [
+   "Not1",
+   "Pop2",
+   "Rcd-1"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.477,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C12-5-2_4": {
+  "job": "C12-5-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-5-2_4.zip",
+  "members": [
+   "Cyt-c1",
+   "UQCR-11",
+   "ox"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.631,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C16-5": {
+  "job": "C16-5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-5.zip",
+  "members": [
+   "MED10",
+   "MED19",
+   "kto"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.457,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C14-9": {
+  "job": "C14-9",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-9.zip",
+  "members": [
+   "Caf1-55",
+   "E(bx)",
+   "Iswi"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.464,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C6-9-1_2": {
+  "job": "C6-9-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-9-1_2.zip",
+  "members": [
+   "Pym",
+   "mago",
+   "tsu"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.64,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C12-11": {
+  "job": "C12-11",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-11.zip",
+  "members": [
+   "CG3756",
+   "RpIII128",
+   "l(2)37Cg"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.534,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG10341CG7637Nop60B-3mer": {
+  "job": "CG10341CG7637Nop60B-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG10341CG7637Nop60B-3mer.zip",
+  "members": [
+   "CG10341",
+   "CG7637",
+   "Nop60B"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.557,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C3-7-2_2": {
+  "job": "C3-7-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-7-2_2.zip",
+  "members": [
+   "TfIIA-L",
+   "TfIIA-S-2",
+   "Trf2"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.511,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "Taf1Taf2Taf7-3mer": {
+  "job": "Taf1Taf2Taf7-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Taf1Taf2Taf7-3mer.zip",
+  "members": [
+   "Taf1",
+   "Taf2",
+   "Taf7"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.484,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "CG13484Mtr4ldbr-3mer": {
+  "job": "CG13484Mtr4ldbr-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/CG13484Mtr4ldbr-3mer.zip",
+  "members": [
+   "CG13484",
+   "Mtr4",
+   "ldbr"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.374,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C12-10": {
+  "job": "C12-10",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-10.zip",
+  "members": [
+   "Bug22",
+   "TTLL3B",
+   "su(w[a])"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.23,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "Caf155Ebxmip130-3mer": {
+  "job": "Caf155Ebxmip130-3mer",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/Caf155Ebxmip130-3mer.zip",
+  "members": [
+   "Caf1-55",
+   "E(bx)",
+   "mip130"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.301,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C19-2_6": {
+  "job": "C19-2_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C19-2_6.zip",
+  "members": [
+   "BRWD3",
+   "CG31855",
+   "pic"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.389,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  }
 }
