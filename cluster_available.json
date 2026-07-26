@@ -115813,399 +115813,6 @@
    ]
   }
  },
- "C24-3_2": {
-  "job": "C24-3_2",
-  "url": "https://flyark.github.io/FlyPredictome-cluster-structures-2/C24-3_2.zip",
-  "members": [
-   "mRpS18B",
-   "mRpS22",
-   "mRpS29"
-  ],
-  "n": 3,
-  "verdict": "CONFIRMED",
-  "iLIS": 0.3,
-  "best_model": 0,
-  "has_PAE": true,
-  "conn": {
-   "admit_fpr": 5,
-   "confident_fpr": null,
-   "n_chains": 3,
-   "struct_verdict": "SUCCESS",
-   "struct_core_frac": 1.0
-  },
-  "exp": {
-   "sup": true,
-   "methods": {
-    "cryoEM": 30
-   },
-   "n_pdb": 30,
-   "n_cand": 73,
-   "truncated": true,
-   "best_pdb": "8QRL",
-   "covered": [
-    "mRpS18B",
-    "mRpS22",
-    "mRpS29"
-   ],
-   "pdbs": [
-    {
-     "pdb": "5MRC",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2017",
-     "size": 78,
-     "res": 3.25,
-     "title": "Structure of the yeast mitochondrial ribosome - Class A",
-     "strong": true
-    },
-    {
-     "pdb": "6ZSB",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 87,
-     "res": 4.5,
-     "title": "Human mitochondrial ribosome in complex with mRNA and P-site tRNA",
-     "strong": true
-    },
-    {
-     "pdb": "6ZS9",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 86,
-     "res": 4.0,
-     "title": "Human mitochondrial ribosome in complex with ribosome recycling factor",
-     "strong": true
-    },
-    {
-     "pdb": "6ZSD",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 88,
-     "res": 3.7,
-     "title": "Human mitochondrial ribosome in complex with mRNA, P-site tRNA and E-site tRNA",
-     "strong": true
-    },
-    {
-     "pdb": "6ZSE",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 88,
-     "res": 5.0,
-     "title": "Human mitochondrial ribosome in complex with mRNA, A/P-tRNA and P/E-tRNA",
-     "strong": true
-    },
-    {
-     "pdb": "7A5I",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 87,
-     "res": 3.7,
-     "title": "Structure of the human mitoribosome with A- P-and E-site mt-tRNAs",
-     "strong": true
-    },
-    {
-     "pdb": "6ZSA",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 87,
-     "res": 4.0,
-     "title": "Human mitochondrial ribosome bound to mRNA, A-site tRNA and P-site tRNA",
-     "strong": true
-    },
-    {
-     "pdb": "7A5K",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 90,
-     "res": 3.7,
-     "title": "Structure of the human mitoribosome in the post translocation state bound to mtEF-G1",
-     "strong": true
-    },
-    {
-     "pdb": "6RW5",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 33,
-     "res": 3.14,
-     "title": "Structure of human mitochondrial 28S ribosome in complex with mitochondrial IF2 and IF3",
-     "strong": true
-    },
-    {
-     "pdb": "6RW4",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2020",
-     "size": 32,
-     "res": 2.97,
-     "title": "Structure of human mitochondrial 28S ribosome in complex with mitochondrial IF3",
-     "strong": true
-    },
-    {
-     "pdb": "7L08",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 86,
-     "res": 3.49,
-     "title": "Cryo-EM structure of the human 55S mitoribosome-RRFmt complex.",
-     "strong": true
-    },
-    {
-     "pdb": "6ZM6",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2021",
-     "size": 87,
-     "res": 2.59,
-     "title": "Human mitochondrial ribosome in complex with mRNA, A/A tRNA and P/P tRNA",
-     "strong": true
-    },
-    {
-     "pdb": "8CSU",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 33,
-     "res": 3.03,
-     "title": "Human mitochondrial small subunit assembly intermediate (State C*)",
-     "strong": true
-    },
-    {
-     "pdb": "7PNX",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 32,
-     "res": 2.76,
-     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
-     "strong": true
-    },
-    {
-     "pdb": "7PNT",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2022",
-     "size": 32,
-     "res": 3.19,
-     "title": "Assembly intermediate of mouse mitochondrial ribosome small subunit without mS37 in comple",
-     "strong": true
-    },
-    {
-     "pdb": "7QI5",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 89,
-     "res": 2.63,
-     "title": "Human mitochondrial ribosome in complex with mRNA, A/A-, P/P- and E/E-tRNAs at 2.63 A reso",
-     "strong": true
-    },
-    {
-     "pdb": "8ANY",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 91,
-     "res": 2.85,
-     "title": "Human mitochondrial ribosome in complex with LRPPRC, SLIRP, A-site, P-site, E-site tRNAs a",
-     "strong": true
-    },
-    {
-     "pdb": "8OIR",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2023",
-     "size": 89,
-     "res": 3.1,
-     "title": "55S human mitochondrial ribosome with mtRF1 and P-site tRNA",
-     "strong": true
-    },
-    {
-     "pdb": "8OM2",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 35,
-     "res": 2.57,
-     "title": "Small subunit of yeast mitochondrial ribosome in complex with METTL17/Rsm22.",
-     "strong": true
-    },
-    {
-     "pdb": "8XT0",
-     "cover": 3,
-     "frac": 1.0,
-     "method": "cryoEM",
-     "year": "2024",
-     "size": 83,
-     "res": 3.2,
-     "title": "Cryo-EM structure of the human 55S mitoribosome with 5um Tigecycline",
-     "strong": true
-    }
-   ],
-   "cover": 3,
-   "strong": 30,
-   "n_studies": 13,
-   "studies": [
-    {
-     "pdb": "8OM2",
-     "pubmed": "38199006",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 2.57,
-     "cover": 3,
-     "title": "Small subunit of yeast mitochondrial ribosome in complex with METTL17/Rsm22.",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6ZM6",
-     "pubmed": "33602856",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 2.59,
-     "cover": 3,
-     "title": "Human mitochondrial ribosome in complex with mRNA, A/A tRNA and P/P tRNA",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7QI5",
-     "pubmed": "38769321",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 2.63,
-     "cover": 3,
-     "title": "Human mitochondrial ribosome in complex with mRNA, A/A-, P/P- and E/E-tRNAs at 2.63 A reso",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7PNX",
-     "pubmed": "35676484",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 2.76,
-     "cover": 3,
-     "title": "Assembly intermediate of human mitochondrial ribosome small subunit without mS37 in comple",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8ANY",
-     "pubmed": "39134711",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 2.85,
-     "cover": 3,
-     "title": "Human mitochondrial ribosome in complex with LRPPRC, SLIRP, A-site, P-site, E-site tRNAs a",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6RW4",
-     "pubmed": "32522994",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 2.97,
-     "cover": 3,
-     "title": "Structure of human mitochondrial 28S ribosome in complex with mitochondrial IF3",
-     "n_entries": 2
-    },
-    {
-     "pdb": "8CSU",
-     "pubmed": "36482135",
-     "method": "cryoEM",
-     "year": "2022",
-     "res": 3.03,
-     "cover": 3,
-     "title": "Human mitochondrial small subunit assembly intermediate (State C*)",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8OIR",
-     "pubmed": "37141370",
-     "method": "cryoEM",
-     "year": "2023",
-     "res": 3.1,
-     "cover": 3,
-     "title": "55S human mitochondrial ribosome with mtRF1 and P-site tRNA",
-     "n_entries": 1
-    },
-    {
-     "pdb": "8XT0",
-     "pubmed": "38942792",
-     "method": "cryoEM",
-     "year": "2024",
-     "res": 3.2,
-     "cover": 3,
-     "title": "Cryo-EM structure of the human 55S mitoribosome with 5um Tigecycline",
-     "n_entries": 1
-    },
-    {
-     "pdb": "5MRC",
-     "pubmed": "28154081",
-     "method": "cryoEM",
-     "year": "2017",
-     "res": 3.25,
-     "cover": 3,
-     "title": "Structure of the yeast mitochondrial ribosome - Class A",
-     "n_entries": 1
-    },
-    {
-     "pdb": "7L08",
-     "pubmed": "34127662",
-     "method": "cryoEM",
-     "year": "2021",
-     "res": 3.49,
-     "cover": 3,
-     "title": "Cryo-EM structure of the human 55S mitoribosome-RRFmt complex.",
-     "n_entries": 1
-    },
-    {
-     "pdb": "6ZSD",
-     "pubmed": "32812867",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.7,
-     "cover": 3,
-     "title": "Human mitochondrial ribosome in complex with mRNA, P-site tRNA and E-site tRNA",
-     "n_entries": 5
-    },
-    {
-     "pdb": "7A5I",
-     "pubmed": "33243891",
-     "method": "cryoEM",
-     "year": "2020",
-     "res": 3.7,
-     "cover": 3,
-     "title": "Structure of the human mitoribosome with A- P-and E-site mt-tRNAs",
-     "n_entries": 2
-    }
-   ]
-  }
- },
  "Fancd2Ssl1Xpd-3mer": {
   "job": "Fancd2Ssl1Xpd-3mer",
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures-2/Fancd2Ssl1Xpd-3mer.zip",
@@ -117399,6 +117006,521 @@
      "n_entries": 1
     }
    ]
+  }
+ },
+ "C24-3_3": {
+  "job": "C24-3_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-3_3.zip",
+  "members": [
+   "CG4882",
+   "bonsai",
+   "mRpS17",
+   "mRpS18C",
+   "mRpS22",
+   "mRpS23",
+   "mRpS25",
+   "mRpS26",
+   "mRpS6"
+  ],
+  "n": 9,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.456,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 9
+  }
+ },
+ "C21-4_3": {
+  "job": "C21-4_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-4_3.zip",
+  "members": [
+   "CG12096",
+   "Rpn1",
+   "Rpn2",
+   "Rpt1",
+   "Rpt2",
+   "Rpt3",
+   "Rpt4",
+   "Rpt5",
+   "Rpt6"
+  ],
+  "n": 9,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.31,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 9
+  }
+ },
+ "C24-1-1_4": {
+  "job": "C24-1-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-1-1_4.zip",
+  "members": [
+   "CG4679",
+   "mRpS10",
+   "mRpS22",
+   "mRpS24",
+   "mRpS29",
+   "mRpS35",
+   "mRpS7",
+   "mRpS9"
+  ],
+  "n": 8,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.502,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 8
+  }
+ },
+ "C15-2-1_3": {
+  "job": "C15-2-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-2-1_3.zip",
+  "members": [
+   "RpL13A",
+   "RpL14",
+   "RpL18",
+   "RpL28",
+   "RpL35A",
+   "RpL6"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.505,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C24-1-1_5": {
+  "job": "C24-1-1_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C24-1-1_5.zip",
+  "members": [
+   "mRpS18B",
+   "mRpS22",
+   "mRpS29",
+   "mRpS35",
+   "mRpS7",
+   "mRpS9"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.448,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 6
+  }
+ },
+ "C12-4-1_4": {
+  "job": "C12-4-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-4-1_4.zip",
+  "members": [
+   "Pdrg1",
+   "Pfdn2",
+   "Pfdn6",
+   "Uxt",
+   "uri"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.485,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C14-1": {
+  "job": "C14-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1.zip",
+  "members": [
+   "Atac2",
+   "D12",
+   "Mocs2B",
+   "Rcd1",
+   "wds"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.341,
+  "best_model": 2,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C14-2-1_4": {
+  "job": "C14-2-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-2-1_4.zip",
+  "members": [
+   "His2A:CG31618",
+   "His2B:CG33868",
+   "His3:CG33803",
+   "His4r",
+   "cid"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.503,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 5
+  }
+ },
+ "C12-1-3_5": {
+  "job": "C12-1-3_5",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C12-1-3_5.zip",
+  "members": [
+   "Atg1",
+   "Atg6",
+   "Pi3K59F",
+   "Uvrag",
+   "Vps15"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.4,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C14-1-2_6": {
+  "job": "C14-1-2_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-2_6.zip",
+  "members": [
+   "Ada2a",
+   "Ada3",
+   "Atac1",
+   "D12",
+   "Sgf29"
+  ],
+  "n": 5,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.417,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 5
+  }
+ },
+ "C4-6": {
+  "job": "C4-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-6.zip",
+  "members": [
+   "CG10418",
+   "CG9344",
+   "SNRPG",
+   "SmE"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.567,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 4
+  }
+ },
+ "C3-9-1_3": {
+  "job": "C3-9-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-9-1_3.zip",
+  "members": [
+   "His2A:CG33865",
+   "His2B:CG33910",
+   "Psc",
+   "Sce"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.414,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C4-1-4_3": {
+  "job": "C4-1-4_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C4-1-4_3.zip",
+  "members": [
+   "CG6712",
+   "Nnp-1",
+   "Rbm13",
+   "l(2)k09848"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.432,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-8_2": {
+  "job": "C14-8_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-8_2.zip",
+  "members": [
+   "Daxx",
+   "His3:CG33866",
+   "His4:CG33909",
+   "asf1"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.533,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C5-3-2_2": {
+  "job": "C5-3-2_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-3-2_2.zip",
+  "members": [
+   "ATPsynB",
+   "ATPsynCF6",
+   "ATPsynD",
+   "ATPsynO"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.449,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-8_3": {
+  "job": "C14-8_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-8_3.zip",
+  "members": [
+   "Daxx",
+   "His3.3B",
+   "His4:CG33909",
+   "asf1"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.525,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C14-1-1_3": {
+  "job": "C14-1-1_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-1-1_3.zip",
+  "members": [
+   "MBD-R2",
+   "dgt1",
+   "nsl1",
+   "wds"
+  ],
+  "n": 4,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.451,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 4
+  }
+ },
+ "C15-1-1_2": {
+  "job": "C15-1-1_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-1-1_2.zip",
+  "members": [
+   "Rack1",
+   "RpS17",
+   "RpS3"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.438,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C15-1-2": {
+  "job": "C15-1-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C15-1-2.zip",
+  "members": [
+   "RpL27",
+   "RpL30",
+   "RpL34a"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.35,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C16": {
+  "job": "C16",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16.zip",
+  "members": [
+   "MED17",
+   "MED18",
+   "MED30"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.467,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C8-2": {
+  "job": "C8-2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C8-2.zip",
+  "members": [
+   "Droj2",
+   "Hsp70Ab",
+   "nudC"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.324,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 3
+  }
+ },
+ "C3-1-1": {
+  "job": "C3-1-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C3-1-1.zip",
+  "members": [
+   "NELF-B",
+   "Nelf-A",
+   "TH1"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.549,
+  "best_model": 4,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C7-6": {
+  "job": "C7-6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C7-6.zip",
+  "members": [
+   "BORCS6",
+   "Blos1",
+   "CG10681"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.605,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C6-1_6": {
+  "job": "C6-1_6",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C6-1_6.zip",
+  "members": [
+   "Cdk1",
+   "CycE",
+   "dap"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.541,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C14-9_3": {
+  "job": "C14-9_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-9_3.zip",
+  "members": [
+   "Acf",
+   "Chrac-14",
+   "Chrac-16"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.417,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
   }
  }
 }
