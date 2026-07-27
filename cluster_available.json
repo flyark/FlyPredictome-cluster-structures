@@ -122698,5 +122698,528 @@
     }
    ]
   }
+ },
+ "C5-4": {
+  "job": "C5-4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-4.zip",
+  "members": [
+   "CG30382",
+   "Pomp",
+   "Prosalpha2",
+   "Prosalpha5",
+   "Prosalpha6",
+   "Prosalpha7",
+   "Prosbeta7"
+  ],
+  "n": 7,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.379,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 7
+  }
+ },
+ "C5-4-1": {
+  "job": "C5-4-1",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-4-1.zip",
+  "members": [
+   "CG30382",
+   "Pomp",
+   "Prosalpha2",
+   "Prosalpha3",
+   "Prosalpha7",
+   "Prosbeta2"
+  ],
+  "n": 6,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.278,
+  "best_model": 0,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 10,
+   "n_chains": 6
+  }
+ },
+ "C21-1_4": {
+  "job": "C21-1_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C21-1_4.zip",
+  "members": [
+   "Bx42",
+   "CG6015",
+   "crn"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.404,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C5-4_2": {
+  "job": "C5-4_2",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C5-4_2.zip",
+  "members": [
+   "Prosbeta2",
+   "Prosbeta6",
+   "Prosbeta7"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.555,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 1,
+   "n_chains": 3
+  }
+ },
+ "C16-3": {
+  "job": "C16-3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C16-3.zip",
+  "members": [
+   "MED17",
+   "MED30",
+   "MED6"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.507,
+  "best_model": 3,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  },
+  "exp": {
+   "sup": true,
+   "methods": {
+    "cryoEM": 21,
+    "X-ray": 3
+   },
+   "n_pdb": 24,
+   "n_cand": 24,
+   "truncated": false,
+   "best_pdb": "7ENJ",
+   "covered": [
+    "MED17",
+    "MED30",
+    "MED6"
+   ],
+   "pdbs": [
+    {
+     "pdb": "7ENC",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.13,
+     "title": "TFIID-based PIC-Mediator holo-complex in fully-assembled state (hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "7ENJ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 26,
+     "res": 4.4,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-bent conformation (MED-B)",
+     "strong": true
+    },
+    {
+     "pdb": "7NVR",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 58,
+     "res": 4.5,
+     "title": "Human Mediator with RNA Polymerase II Pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7ENA",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 70,
+     "res": 4.07,
+     "title": "TFIID-based PIC-Mediator holo-complex in pre-assembled state (pre-hPIC-MED)",
+     "strong": true
+    },
+    {
+     "pdb": "7EMF",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 27,
+     "res": 3.5,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-extended conformation",
+     "strong": true
+    },
+    {
+     "pdb": "7LBM",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2021",
+     "size": 56,
+     "res": 4.8,
+     "title": "Structure of the human Mediator-bound transcription pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "8GXQ",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 5.04,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in MH-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8GXS",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 77,
+     "res": 4.16,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in H-binding state",
+     "strong": true
+    },
+    {
+     "pdb": "8TRH",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 3.7,
+     "title": "The IDRc bound human core Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8TQW",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 29,
+     "res": 8.2,
+     "title": "Structure of human transcriptional Mediator complex",
+     "strong": true
+    },
+    {
+     "pdb": "8T9D",
+     "cover": 3,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 26,
+     "res": 4.66,
+     "title": "CryoEM structure of TR-TRAP",
+     "strong": true
+    },
+    {
+     "pdb": "3RJ1",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2011",
+     "size": 7,
+     "res": 4.3,
+     "title": "Architecture of the Mediator Head module",
+     "strong": true
+    },
+    {
+     "pdb": "4GWP",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2012",
+     "size": 7,
+     "res": 4.2,
+     "title": "Structure of the Mediator Head Module from S. cerevisiae",
+     "strong": true
+    },
+    {
+     "pdb": "4GWQ",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "X-ray",
+     "year": "2012",
+     "size": 8,
+     "res": 4.5,
+     "title": "Structure of the Mediator Head Module from S. cerevisiae in complex with the carboxy-termi",
+     "strong": true
+    },
+    {
+     "pdb": "3J1O",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2013",
+     "size": 7,
+     "res": 16.0,
+     "title": "Cryo-EM map of a yeast minimal preinitiation complex interacting with the Mediator Head mo",
+     "strong": true
+    },
+    {
+     "pdb": "4V1O",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2015",
+     "size": 26,
+     "res": 9.7,
+     "title": "Architecture of the RNA polymerase II-Mediator core transcription initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "5SVA",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2016",
+     "size": 40,
+     "res": 15.3,
+     "title": "Mediator-RNA Polymerase II Pre-Initiation Complex",
+     "strong": true
+    },
+    {
+     "pdb": "5OQM",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2018",
+     "size": 46,
+     "res": 5.8,
+     "title": "STRUCTURE OF YEAST TRANSCRIPTION PRE-INITIATION COMPLEX WITH TFIIH AND CORE MEDIATOR",
+     "strong": true
+    },
+    {
+     "pdb": "7UIG",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 17,
+     "res": 4.3,
+     "title": "Mediator-PIC Early (Mediator A)",
+     "strong": true
+    },
+    {
+     "pdb": "8CEN",
+     "cover": 2,
+     "frac": 0.67,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 46,
+     "res": 3.0,
+     "title": "Yeast RNA polymerase II transcription pre-initiation complex with core Mediator",
+     "strong": true
+    }
+   ],
+   "cover": 3,
+   "strong": 24,
+   "n_studies": 14,
+   "studies": [
+    {
+     "pdb": "7EMF",
+     "pubmed": "33958484",
+     "method": "cryoEM",
+     "year": "2021",
+     "res": 3.5,
+     "cover": 3,
+     "title": "Human Mediator (deletion of MED1-IDR) in a Tail-extended conformation",
+     "n_entries": 4
+    },
+    {
+     "pdb": "8TRH",
+     "pubmed": "39321804",
+     "method": "cryoEM",
+     "year": "2024",
+     "res": 3.7,
+     "cover": 3,
+     "title": "The IDRc bound human core Mediator complex",
+     "n_entries": 2
+    },
+    {
+     "pdb": "8GXS",
+     "pubmed": "36201575",
+     "method": "cryoEM",
+     "year": "2022",
+     "res": 4.16,
+     "cover": 3,
+     "title": "PIC-Mediator in complex with +1 nucleosome (T40N) in H-binding state",
+     "n_entries": 2
+    },
+    {
+     "pdb": "7NVR",
+     "pubmed": "33902107",
+     "method": "cryoEM",
+     "year": "2021",
+     "res": 4.5,
+     "cover": 3,
+     "title": "Human Mediator with RNA Polymerase II Pre-initiation complex",
+     "n_entries": 1
+    },
+    {
+     "pdb": "8T9D",
+     "pubmed": "38955181",
+     "method": "cryoEM",
+     "year": "2024",
+     "res": 4.66,
+     "cover": 3,
+     "title": "CryoEM structure of TR-TRAP",
+     "n_entries": 1
+    },
+    {
+     "pdb": "7LBM",
+     "pubmed": "33707221",
+     "method": "cryoEM",
+     "year": "2021",
+     "res": 4.8,
+     "cover": 3,
+     "title": "Structure of the human Mediator-bound transcription pre-initiation complex",
+     "n_entries": 1
+    },
+    {
+     "pdb": "8CEN",
+     "pubmed": "37014863",
+     "method": "cryoEM",
+     "year": "2023",
+     "res": 3.0,
+     "cover": 2,
+     "title": "Yeast RNA polymerase II transcription pre-initiation complex with core Mediator",
+     "n_entries": 1
+    },
+    {
+     "pdb": "4GWP",
+     "pubmed": "23071300",
+     "method": "X-ray",
+     "year": "2012",
+     "res": 4.2,
+     "cover": 2,
+     "title": "Structure of the Mediator Head Module from S. cerevisiae",
+     "n_entries": 2
+    },
+    {
+     "pdb": "3RJ1",
+     "pubmed": "21725323",
+     "method": "X-ray",
+     "year": "2011",
+     "res": 4.3,
+     "cover": 2,
+     "title": "Architecture of the Mediator Head module",
+     "n_entries": 1
+    },
+    {
+     "pdb": "7UIG",
+     "pubmed": "36731470",
+     "method": "cryoEM",
+     "year": "2023",
+     "res": 4.3,
+     "cover": 2,
+     "title": "Mediator-PIC Early (Mediator A)",
+     "n_entries": 1
+    },
+    {
+     "pdb": "5OQM",
+     "pubmed": "29088706",
+     "method": "cryoEM",
+     "year": "2018",
+     "res": 5.8,
+     "cover": 2,
+     "title": "STRUCTURE OF YEAST TRANSCRIPTION PRE-INITIATION COMPLEX WITH TFIIH AND CORE MEDIATOR",
+     "n_entries": 1
+    },
+    {
+     "pdb": "4V1O",
+     "pubmed": "25652824",
+     "method": "cryoEM",
+     "year": "2015",
+     "res": 9.7,
+     "cover": 2,
+     "title": "Architecture of the RNA polymerase II-Mediator core transcription initiation complex",
+     "n_entries": 1
+    },
+    {
+     "pdb": "5SVA",
+     "pubmed": "27610567",
+     "method": "cryoEM",
+     "year": "2016",
+     "res": 15.3,
+     "cover": 2,
+     "title": "Mediator-RNA Polymerase II Pre-Initiation Complex",
+     "n_entries": 1
+    },
+    {
+     "pdb": "3J1O",
+     "pubmed": "22579255",
+     "method": "cryoEM",
+     "year": "2013",
+     "res": 16.0,
+     "cover": 2,
+     "title": "Cryo-EM map of a yeast minimal preinitiation complex interacting with the Mediator Head mo",
+     "n_entries": 1
+    }
+   ]
+  }
+ },
+ "C2-14": {
+  "job": "C2-14",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C2-14.zip",
+  "members": [
+   "CHOp24",
+   "bai",
+   "p24-2"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.453,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
+ },
+ "C13-2_4": {
+  "job": "C13-2_4",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C13-2_4.zip",
+  "members": [
+   "Bet1",
+   "Sec22",
+   "Snap25"
+  ],
+  "n": 3,
+  "verdict": "CONFIRMED",
+  "iLIS": 0.392,
+  "best_model": 1,
+  "has_PAE": true,
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 3
+  }
  }
 }
