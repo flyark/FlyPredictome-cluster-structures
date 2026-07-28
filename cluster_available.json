@@ -1818,14 +1818,13 @@
   "members": [
    "eIF3a",
    "eIF3c",
-   "eIF3d1",
    "eIF3e",
    "eIF3f1",
    "eIF3h",
    "eIF3l",
    "eIF3m"
   ],
-  "n": 8,
+  "n": 7,
   "verdict": "CONFIRMED",
   "best_model": 1,
   "has_PAE": true,
@@ -3802,12 +3801,12 @@
   "job": "C23-3",
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C23-3.zip",
   "members": [
-   "ND-B17",
-   "ND5",
+   "CG40472",
    "ND",
-   "ND-B18",
    "ND-B12",
-   "ND-AGGG"
+   "ND-B17",
+   "ND-B18",
+   "ND5"
   ],
   "n": 6,
   "verdict": "CONFIRMED",
@@ -9798,9 +9797,9 @@
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C14-8-1.zip",
   "members": [
    "Daxx",
-   "asf1",
-   "His3.3A",
-   "His4r"
+   "His3.3B",
+   "His4:CG33909",
+   "asf1"
   ],
   "n": 4,
   "verdict": "CONFIRMED",
@@ -51274,14 +51273,11 @@
   "job": "C7-7-2",
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures-2/C7-7-2.zip",
   "members": [
-   "Nup214",
-   "Nup62",
    "Nxt1",
    "Panx",
-   "mbo",
    "nxf2"
   ],
-  "n": 6,
+  "n": 3,
   "verdict": "CONFIRMED",
   "iLIS": 0.527,
   "best_model": 1,
@@ -76326,8 +76322,8 @@
   "job": "C3-9-1_2",
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures-2/C3-9-1_2.zip",
   "members": [
-   "His2A:CG31618",
-   "His2B:CG33868",
+   "His2A:CG33865",
+   "His2B:CG33910",
    "Psc",
    "Sce"
   ],
@@ -81739,8 +81735,8 @@
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures-2/C14-8-1_2.zip",
   "members": [
    "Daxx",
-   "His3:CG33803",
-   "His4r",
+   "His3:CG33866",
+   "His4:CG33909",
    "asf1"
   ],
   "n": 4,
@@ -107916,10 +107912,10 @@
   "job": "C14-2-1_3",
   "url": "https://flyark.github.io/FlyPredictome-cluster-structures-2/C14-2-1_3.zip",
   "members": [
-   "His2A:CG31618",
+   "His2A:CG33865",
    "His2Av",
-   "His2B:CG33868",
-   "His4r",
+   "His2B:CG33910",
+   "His4:CG33909",
    "cid"
   ],
   "n": 5,
