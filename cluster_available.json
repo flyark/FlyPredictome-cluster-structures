@@ -123221,5 +123221,382 @@
    "confident_fpr": 5,
    "n_chains": 3
   }
+ },
+ "C11-8_3": {
+  "job": "C11-8_3",
+  "url": "https://flyark.github.io/FlyPredictome-cluster-structures/C11-8_3.zip",
+  "members": [
+   "CG12725",
+   "eIF3a",
+   "eIF3c",
+   "eIF3d1",
+   "eIF3e",
+   "eIF3f1",
+   "eIF3h",
+   "eIF3l",
+   "eIF3m"
+  ],
+  "n": 9,
+  "verdict": "predicted",
+  "best_model": 0,
+  "has_PAE": true,
+  "iLIS": 0.244,
+  "lcc": null,
+  "exp": {
+   "sup": true,
+   "methods": {
+    "cryoEM": 30
+   },
+   "n_pdb": 30,
+   "strong": 27,
+   "best_pdb": "9KZX",
+   "cover": 10,
+   "covered": [
+    "CG12725",
+    "eIF3a",
+    "eIF3c",
+    "eIF3d1",
+    "eIF3e",
+    "eIF3f1",
+    "eIF3h",
+    "eIF3k",
+    "eIF3l",
+    "eIF3m"
+   ],
+   "pdbs": [
+    {
+     "pdb": "9KZX",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 92,
+     "res": 3.3,
+     "title": "Cryo-EM structure of the HCV IRES-dependently initiated CMV-stalled 80S ribosome (rotated ",
+     "strong": true
+    },
+    {
+     "pdb": "9KZU",
+     "cover": 10,
+     "frac": 1.0,
+     "method": "cryoEM",
+     "year": "2025",
+     "size": 92,
+     "res": 3.0,
+     "title": "Cryo-EM structure of the HCV IRES-dependently initiated CMV-stalled 80S ribosome (non-rota",
+     "strong": true
+    },
+    {
+     "pdb": "6ZON",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 48,
+     "res": 3.0,
+     "title": "SARS-CoV-2 Nsp1 bound to a human 43S preinitiation ribosome complex - state 1",
+     "strong": true
+    },
+    {
+     "pdb": "6ZP4",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 54,
+     "res": 2.9,
+     "title": "SARS-CoV-2 Nsp1 bound to a human 43S preinitiation ribosome complex - state 2",
+     "strong": true
+    },
+    {
+     "pdb": "6YBD",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 19,
+     "res": 3.3,
+     "title": "Structure of a human 48S translational initiation complex - eIF3",
+     "strong": true
+    },
+    {
+     "pdb": "6ZMW",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 57,
+     "res": 3.7,
+     "title": "Structure of a human 48S translational initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "7A09",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2020",
+     "size": 54,
+     "res": 3.5,
+     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State III",
+     "strong": true
+    },
+    {
+     "pdb": "7QP7",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 51,
+     "res": 3.7,
+     "title": "Structure of the human 48S initiation complex in closed state (h48S AUG closed)",
+     "strong": true
+    },
+    {
+     "pdb": "7QP6",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2022",
+     "size": 53,
+     "res": 4.7,
+     "title": "Structure of the human 48S initiation complex in open state (h48S AUG open)",
+     "strong": true
+    },
+    {
+     "pdb": "8PPL",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2023",
+     "size": 52,
+     "res": 2.65,
+     "title": "MERS-CoV Nsp1 bound to the human 43S pre-initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "9BLN",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 50,
+     "res": 3.9,
+     "title": "The structure of human Pdcd4 bound to the 40S-eIF4A-eIF3-eIF1 complex",
+     "strong": true
+    },
+    {
+     "pdb": "8RG0",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 19,
+     "res": 3.4,
+     "title": "Structure of human eIF3 core from closed 48S translation initiation complex",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ4",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 53,
+     "res": 3.2,
+     "title": "Structure of human 48S translation initiation complex after eIF5 release (48S-4)",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ2",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 53,
+     "res": 3.4,
+     "title": "Structure of human 48S translation initiation complex in AUG recognition state after eIF5-",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ3",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 3.7,
+     "title": "Structure of human 48S translation initiation complex upon transfer of initiator tRNA to e",
+     "strong": true
+    },
+    {
+     "pdb": "8XXN",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 50,
+     "res": 3.6,
+     "title": "Cryo-EM structure of the human 43S ribosome with PDCD4",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ1",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 54,
+     "res": 3.4,
+     "title": "Structure of human 48S translation initiation complex in open codon scanning state (48S-1)",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ5",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 51,
+     "res": 2.9,
+     "title": "Structure of human 48S translation initiation complex after eIF2 release prior 60S subunit",
+     "strong": true
+    },
+    {
+     "pdb": "8OZ0",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 56,
+     "res": 3.5,
+     "title": "Structure of a human 48S translation initiation complex with eIF4F and eIF4A",
+     "strong": true
+    },
+    {
+     "pdb": "8PJ6",
+     "cover": 9,
+     "frac": 0.9,
+     "method": "cryoEM",
+     "year": "2024",
+     "size": 50,
+     "res": 2.9,
+     "title": "Structure of human 48S translation initiation complex with initiator tRNA, eIF1A and eIF3 ",
+     "strong": true
+    }
+   ],
+   "n_cand": 39,
+   "truncated": true,
+   "n_studies": 10,
+   "studies": [
+    {
+     "pdb": "9KZU",
+     "pubmed": "41337487",
+     "method": "cryoEM",
+     "year": "2025",
+     "res": 3.0,
+     "cover": 10,
+     "title": "Cryo-EM structure of the HCV IRES-dependently initiated CMV-stalled 80S ribosome (non-rota",
+     "n_entries": 2
+    },
+    {
+     "pdb": "8PPL",
+     "pubmed": "37802027",
+     "method": "cryoEM",
+     "year": "2023",
+     "res": 2.65,
+     "cover": 9,
+     "title": "MERS-CoV Nsp1 bound to the human 43S pre-initiation complex",
+     "n_entries": 1
+    },
+    {
+     "pdb": "6ZP4",
+     "pubmed": "32680882",
+     "method": "cryoEM",
+     "year": "2020",
+     "res": 2.9,
+     "cover": 9,
+     "title": "SARS-CoV-2 Nsp1 bound to a human 43S preinitiation ribosome complex - state 2",
+     "n_entries": 2
+    },
+    {
+     "pdb": "8PJ6",
+     "pubmed": "39289545",
+     "method": "cryoEM",
+     "year": "2024",
+     "res": 2.9,
+     "cover": 9,
+     "title": "Structure of human 48S translation initiation complex with initiator tRNA, eIF1A and eIF3 ",
+     "n_entries": 7
+    },
+    {
+     "pdb": "6YBD",
+     "pubmed": "32883864",
+     "method": "cryoEM",
+     "year": "2020",
+     "res": 3.3,
+     "cover": 9,
+     "title": "Structure of a human 48S translational initiation complex - eIF3",
+     "n_entries": 2
+    },
+    {
+     "pdb": "7A09",
+     "pubmed": "33289941",
+     "method": "cryoEM",
+     "year": "2020",
+     "res": 3.5,
+     "cover": 9,
+     "title": "Structure of a human ABCE1-bound 43S pre-initiation complex - State III",
+     "n_entries": 1
+    },
+    {
+     "pdb": "8OZ0",
+     "pubmed": "38287194",
+     "method": "cryoEM",
+     "year": "2024",
+     "res": 3.5,
+     "cover": 9,
+     "title": "Structure of a human 48S translation initiation complex with eIF4F and eIF4A",
+     "n_entries": 1
+    },
+    {
+     "pdb": "8XXN",
+     "pubmed": "38641729",
+     "method": "cryoEM",
+     "year": "2024",
+     "res": 3.6,
+     "cover": 9,
+     "title": "Cryo-EM structure of the human 43S ribosome with PDCD4",
+     "n_entries": 1
+    },
+    {
+     "pdb": "7QP7",
+     "pubmed": "35489072",
+     "method": "cryoEM",
+     "year": "2022",
+     "res": 3.7,
+     "cover": 9,
+     "title": "Structure of the human 48S initiation complex in closed state (h48S AUG closed)",
+     "n_entries": 2
+    },
+    {
+     "pdb": "9BLN",
+     "pubmed": "39117603",
+     "method": "cryoEM",
+     "year": "2024",
+     "res": 3.9,
+     "cover": 9,
+     "title": "The structure of human Pdcd4 bound to the 40S-eIF4A-eIF3-eIF1 complex",
+     "n_entries": 1
+    }
+   ]
+  },
+  "conn": {
+   "admit_fpr": 1,
+   "confident_fpr": 5,
+   "n_chains": 10,
+   "struct_verdict": "SUCCESS",
+   "struct_core_frac": 1.0
+  }
  }
 }
